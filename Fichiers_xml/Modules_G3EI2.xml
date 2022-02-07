@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>G3EI31</CodeModule>
+    <ModuleName>Automatisme</ModuleName>
+    <ElementName>Automatismes industriels</ElementName>
+    <ElementName>Supervision</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Chater</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI32</CodeModule>
+    <ModuleName>Technologie</ModuleName>
+    <ElementName>RDM</ElementName>
+    <ElementName>conception</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>FILALI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI33</CodeModule>
+    <ModuleName>Solaire Thermique</ModuleName>
+    <ElementName>Solaire thermique</ElementName>
+    <ElementName>Geothermie</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>EL FADAR</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI34</CodeModule>
+    <ModuleName>Energie Eolienne</ModuleName>
+    <ElementName>Aerodynamique</ElementName>
+    <ElementName>Etude economique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>motaki</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI35</CodeModule>
+    <ModuleName>Legislation </ModuleName>
+    <ElementName>Techniques EIE</ElementName>
+    <ElementName>projet etude</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>KAMACH</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI36</CodeModule>
+    <ModuleName>Communication2</ModuleName>
+    <ElementName>Allemand</ElementName>
+    <ElementName>Anglais</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Haris</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI37</CodeModule>
+    <ModuleName>Technologies</ModuleName>
+    <ElementName>Technologie gaziere</ElementName>
+    <ElementName>Machines Thermiques</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>SARSRI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI38</CodeModule>
+    <ModuleName>Management</ModuleName>
+    <ElementName>Projet ISO</ElementName>
+    <ElementName>SME</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Khouya</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI39</CodeModule>
+    <ModuleName>Maintenace et qualite</ModuleName>
+    <ElementName>outils qualite</ElementName>
+    <ElementName>Maintenance surete</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El kalkha</Coordinator>
+  </Module>
+</Modules>

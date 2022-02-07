@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE Notes SYSTEM "C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Notes.dtd">
+<Notes>
+  <Note>
+    <CNE>20000001</CNE>
+    <LastName>AP2_LN1</LastName>
+    <FirstName>AP2_FN1</FirstName>
+    <Matiere codeMatiere="AP31">10.2</Matiere>
+    <Matiere codeMatiere="AP32">10.73</Matiere>
+    <Matiere codeMatiere="AP33">15.06</Matiere>
+    <Matiere codeMatiere="AP34">16.89</Matiere>
+    <Matiere codeMatiere="AP35">9.09</Matiere>
+    <Matiere codeMatiere="AP36">13.84</Matiere>
+    <Matiere codeMatiere="AP41">19.32</Matiere>
+    <Matiere codeMatiere="AP42">15.76</Matiere>
+    <Matiere codeMatiere="AP43">11.44</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000002</CNE>
+    <LastName>AP2_LN2</LastName>
+    <FirstName>AP2_FN2</FirstName>
+    <Matiere codeMatiere="AP31">9.46</Matiere>
+    <Matiere codeMatiere="AP32">14.89</Matiere>
+    <Matiere codeMatiere="AP33">12,89</Matiere>
+    <Matiere codeMatiere="AP34">10.99</Matiere>
+    <Matiere codeMatiere="AP35">12.11</Matiere>
+    <Matiere codeMatiere="AP36">8.35</Matiere>
+    <Matiere codeMatiere="AP41">16.35</Matiere>
+    <Matiere codeMatiere="AP42">11.46</Matiere>
+    <Matiere codeMatiere="AP43">18.64</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000003</CNE>
+    <LastName>AP2_LN3</LastName>
+    <FirstName>AP2_FN3</FirstName>
+    <Matiere codeMatiere="AP31">10.52</Matiere>
+    <Matiere codeMatiere="AP32">9.67</Matiere>
+    <Matiere codeMatiere="AP33">15.77</Matiere>
+    <Matiere codeMatiere="AP34">19.45</Matiere>
+    <Matiere codeMatiere="AP35">14.98</Matiere>
+    <Matiere codeMatiere="AP36">9.73</Matiere>
+    <Matiere codeMatiere="AP41">12.39</Matiere>
+    <Matiere codeMatiere="AP42">17.97</Matiere>
+    <Matiere codeMatiere="AP43">10.98</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000004</CNE>
+    <LastName>AP2_LN4</LastName>
+    <FirstName>AP2_FN4</FirstName>
+    <Matiere codeMatiere="AP31">15.57</Matiere>
+    <Matiere codeMatiere="AP32">13.96</Matiere>
+    <Matiere codeMatiere="AP33">16.26</Matiere>
+    <Matiere codeMatiere="AP34">12.91</Matiere>
+    <Matiere codeMatiere="AP35">14.16</Matiere>
+    <Matiere codeMatiere="AP36">11.45</Matiere>
+    <Matiere codeMatiere="AP41">13.09</Matiere>
+    <Matiere codeMatiere="AP42">10</Matiere>
+    <Matiere codeMatiere="AP43">17.3</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000005</CNE>
+    <LastName>AP2_LN5</LastName>
+    <FirstName>AP2_FN5</FirstName>
+    <Matiere codeMatiere="AP31">17.66</Matiere>
+    <Matiere codeMatiere="AP32">10.67</Matiere>
+    <Matiere codeMatiere="AP33">13.67</Matiere>
+    <Matiere codeMatiere="AP34">15.67</Matiere>
+    <Matiere codeMatiere="AP35">17.93</Matiere>
+    <Matiere codeMatiere="AP36">15.91</Matiere>
+    <Matiere codeMatiere="AP41">10.78</Matiere>
+    <Matiere codeMatiere="AP42">16.87</Matiere>
+    <Matiere codeMatiere="AP43">12.89</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000006</CNE>
+    <LastName>AP2_LN6</LastName>
+    <FirstName>AP2_FN6</FirstName>
+    <Matiere codeMatiere="AP31">12.65</Matiere>
+    <Matiere codeMatiere="AP32">8.54</Matiere>
+    <Matiere codeMatiere="AP33">11.85</Matiere>
+    <Matiere codeMatiere="AP34">11</Matiere>
+    <Matiere codeMatiere="AP35">16.71</Matiere>
+    <Matiere codeMatiere="AP36">11.29</Matiere>
+    <Matiere codeMatiere="AP41">8.66</Matiere>
+    <Matiere codeMatiere="AP42">12.78</Matiere>
+    <Matiere codeMatiere="AP43">16.22</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000007</CNE>
+    <LastName>AP2_LN7</LastName>
+    <FirstName>AP2_FN7</FirstName>
+    <Matiere codeMatiere="AP31">11.45</Matiere>
+    <Matiere codeMatiere="AP32">12.72</Matiere>
+    <Matiere codeMatiere="AP33">14.11</Matiere>
+    <Matiere codeMatiere="AP34">13.87</Matiere>
+    <Matiere codeMatiere="AP35">10.56</Matiere>
+    <Matiere codeMatiere="AP36">13.17</Matiere>
+    <Matiere codeMatiere="AP41">13.82</Matiere>
+    <Matiere codeMatiere="AP42">10.83</Matiere>
+    <Matiere codeMatiere="AP43">13.67</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000008</CNE>
+    <LastName>AP2_LN8</LastName>
+    <FirstName>AP2_FN8</FirstName>
+    <Matiere codeMatiere="AP31">14.69</Matiere>
+    <Matiere codeMatiere="AP32">17.56</Matiere>
+    <Matiere codeMatiere="AP33">12.78</Matiere>
+    <Matiere codeMatiere="AP34">15.65</Matiere>
+    <Matiere codeMatiere="AP35">12.07</Matiere>
+    <Matiere codeMatiere="AP36">14.63</Matiere>
+    <Matiere codeMatiere="AP41">10</Matiere>
+    <Matiere codeMatiere="AP42">15.92</Matiere>
+    <Matiere codeMatiere="AP43">15.32</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000009</CNE>
+    <LastName>AP2_LN9</LastName>
+    <FirstName>AP2_FN9</FirstName>
+    <Matiere codeMatiere="AP31">17.15</Matiere>
+    <Matiere codeMatiere="AP32">10.95</Matiere>
+    <Matiere codeMatiere="AP33">17.83</Matiere>
+    <Matiere codeMatiere="AP34">14.99</Matiere>
+    <Matiere codeMatiere="AP35">13.47</Matiere>
+    <Matiere codeMatiere="AP36">13.78</Matiere>
+    <Matiere codeMatiere="AP41">15.78</Matiere>
+    <Matiere codeMatiere="AP42">16.32</Matiere>
+    <Matiere codeMatiere="AP43">14.56</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000010</CNE>
+    <LastName>AP2_LN10</LastName>
+    <FirstName>AP2_FN10</FirstName>
+    <Matiere codeMatiere="AP31">11.85</Matiere>
+    <Matiere codeMatiere="AP32">11.39</Matiere>
+    <Matiere codeMatiere="AP33">9.67</Matiere>
+    <Matiere codeMatiere="AP34">10.82</Matiere>
+    <Matiere codeMatiere="AP35">8.78</Matiere>
+    <Matiere codeMatiere="AP36">17.68</Matiere>
+    <Matiere codeMatiere="AP41">18.55</Matiere>
+    <Matiere codeMatiere="AP42">7.56</Matiere>
+    <Matiere codeMatiere="AP43">13.89</Matiere>
+  </Note>
+</Notes>

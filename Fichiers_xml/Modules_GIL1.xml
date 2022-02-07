@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>GIL11</CodeModule>
+    <ModuleName>STATISTIQUES</ModuleName>
+    <ElementName>Statistiques Appliquees</ElementName>
+    <ElementName>Traitement du signal</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>EZZINE</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL12</CodeModule>
+    <ModuleName>ELECTRONIQUE</ModuleName>
+    <ElementName>Electronique Analogique</ElementName>
+    <ElementName>Electronique Numerique</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>FILALI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL13</CodeModule>
+    <ModuleName>MATERIAUX</ModuleName>
+    <ElementName>Sciences des materiaux</ElementName>
+    <ElementName>Dessin Industriel</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>BOUAJAJ</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL14</CodeModule>
+    <ModuleName>INFORMATIQUE</ModuleName>
+    <ElementName>bases des donnees</ElementName>
+    <ElementName>Technologie web</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>motaki</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL15</CodeModule>
+    <ModuleName>AUTOMATIQUE1</ModuleName>
+    <ElementName>electrotechnique</ElementName>
+    <ElementName>Automatique lineaire</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>moussa</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL16</CodeModule>
+    <ModuleName>MANAGEMENT</ModuleName>
+    <ElementName>comptabilite</ElementName>
+    <ElementName>Economie</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>SARSRI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL17</CodeModule>
+    <ModuleName>RESISTANCE DES MATERIAUX</ModuleName>
+    <ElementName>RDM</ElementName>
+    <ElementName>TP RDM</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>SARSRI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL18</CodeModule>
+    <ModuleName>MACHINES INDUSTRIELLES</ModuleName>
+    <ElementName>Machines thermiques</ElementName>
+    <ElementName>Machines Electrique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>el Menzhi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL19</CodeModule>
+    <ModuleName>SIMULATION</ModuleName>
+    <ElementName>Capteurs</ElementName>
+    <ElementName>Td electronique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Moussa</Coordinator>
+  </Module>
+</Modules>

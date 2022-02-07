@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<Notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Notes.xsd">
+  <Note>
+    <CNE>17000001</CNE>
+    <LastName>Gstr3_LN1</LastName>
+    <FirstName>Gstr3_FN1</FirstName>
+    <Matiere codeMatiere="GSTR51">11</Matiere>
+    <Matiere codeMatiere="GSTR52">11</Matiere>
+    <Matiere codeMatiere="GSTR53">12</Matiere>
+    <Matiere codeMatiere="GSTR54">5</Matiere>
+    <Matiere codeMatiere="GSTR55">13</Matiere>
+    <Matiere codeMatiere="GSTR56">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000002</CNE>
+    <LastName>Gstr3_LN2</LastName>
+    <FirstName>Gstr3_FN2</FirstName>
+    <Matiere codeMatiere="GSTR51">17</Matiere>
+    <Matiere codeMatiere="GSTR52">20</Matiere>
+    <Matiere codeMatiere="GSTR53">13</Matiere>
+    <Matiere codeMatiere="GSTR54">5</Matiere>
+    <Matiere codeMatiere="GSTR55">14</Matiere>
+    <Matiere codeMatiere="GSTR56">15</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000003</CNE>
+    <LastName>Gstr3_LN3</LastName>
+    <FirstName>Gstr3_FN3</FirstName>
+    <Matiere codeMatiere="GSTR51">11</Matiere>
+    <Matiere codeMatiere="GSTR52">19</Matiere>
+    <Matiere codeMatiere="GSTR53">20</Matiere>
+    <Matiere codeMatiere="GSTR54">15</Matiere>
+    <Matiere codeMatiere="GSTR55">16</Matiere>
+    <Matiere codeMatiere="GSTR56">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000004</CNE>
+    <LastName>Gstr3_LN4</LastName>
+    <FirstName>Gstr3_FN4</FirstName>
+    <Matiere codeMatiere="GSTR51">17</Matiere>
+    <Matiere codeMatiere="GSTR52">20</Matiere>
+    <Matiere codeMatiere="GSTR53">20</Matiere>
+    <Matiere codeMatiere="GSTR54">17</Matiere>
+    <Matiere codeMatiere="GSTR55">20</Matiere>
+    <Matiere codeMatiere="GSTR56">15</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000005</CNE>
+    <LastName>Gstr3_LN5</LastName>
+    <FirstName>Gstr3_FN5</FirstName>
+    <Matiere codeMatiere="GSTR51">5</Matiere>
+    <Matiere codeMatiere="GSTR52">14</Matiere>
+    <Matiere codeMatiere="GSTR53">11</Matiere>
+    <Matiere codeMatiere="GSTR54">6</Matiere>
+    <Matiere codeMatiere="GSTR55">15</Matiere>
+    <Matiere codeMatiere="GSTR56">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000006</CNE>
+    <LastName>Gstr3_LN6</LastName>
+    <FirstName>Gstr3_FN6</FirstName>
+    <Matiere codeMatiere="GSTR51">7</Matiere>
+    <Matiere codeMatiere="GSTR52">5</Matiere>
+    <Matiere codeMatiere="GSTR53">15</Matiere>
+    <Matiere codeMatiere="GSTR54">11</Matiere>
+    <Matiere codeMatiere="GSTR55">13</Matiere>
+    <Matiere codeMatiere="GSTR56">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000007</CNE>
+    <LastName>Gstr3_LN7</LastName>
+    <FirstName>Gstr3_FN7</FirstName>
+    <Matiere codeMatiere="GSTR51">12</Matiere>
+    <Matiere codeMatiere="GSTR52">17</Matiere>
+    <Matiere codeMatiere="GSTR53">15</Matiere>
+    <Matiere codeMatiere="GSTR54">13</Matiere>
+    <Matiere codeMatiere="GSTR55">9</Matiere>
+    <Matiere codeMatiere="GSTR56">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000008</CNE>
+    <LastName>Gstr3_LN8</LastName>
+    <FirstName>Gstr3_FN8</FirstName>
+    <Matiere codeMatiere="GSTR51">7</Matiere>
+    <Matiere codeMatiere="GSTR52">18</Matiere>
+    <Matiere codeMatiere="GSTR53">13</Matiere>
+    <Matiere codeMatiere="GSTR54">12</Matiere>
+    <Matiere codeMatiere="GSTR55">16</Matiere>
+    <Matiere codeMatiere="GSTR56">19</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000009</CNE>
+    <LastName>Gstr3_LN9</LastName>
+    <FirstName>Gstr3_FN9</FirstName>
+    <Matiere codeMatiere="GSTR51">6</Matiere>
+    <Matiere codeMatiere="GSTR52">15</Matiere>
+    <Matiere codeMatiere="GSTR53">17</Matiere>
+    <Matiere codeMatiere="GSTR54">14</Matiere>
+    <Matiere codeMatiere="GSTR55">15</Matiere>
+    <Matiere codeMatiere="GSTR56">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000010</CNE>
+    <LastName>Gstr3_LN10</LastName>
+    <FirstName>Gstr3_FN10</FirstName>
+    <Matiere codeMatiere="GSTR51">10</Matiere>
+    <Matiere codeMatiere="GSTR52">7</Matiere>
+    <Matiere codeMatiere="GSTR53">8</Matiere>
+    <Matiere codeMatiere="GSTR54">9</Matiere>
+    <Matiere codeMatiere="GSTR55">12</Matiere>
+    <Matiere codeMatiere="GSTR56">18</Matiere>
+  </Note>
+</Notes>

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>GINF11</CodeModule>
+    <ModuleName>Maths pour l'ingenieur</ModuleName>
+    <ElementName>Analyse numerique</ElementName>
+    <ElementName>Statistiques</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Maouene</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF12</CodeModule>
+    <ModuleName>Signal</ModuleName>
+    <ElementName>Traitement de signal</ElementName>
+    <ElementName>Probabilites</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Filali</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF13</CodeModule>
+    <ModuleName>Electronique 1</ModuleName>
+    <ElementName>Electronique analogique</ElementName>
+    <ElementName>Electronique  numerique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Oualkadi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF14</CodeModule>
+    <ModuleName>Programmation</ModuleName>
+    <ElementName>Structure de donnees C</ElementName>
+    <ElementName>Programmation web PHP</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Amechnoue</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF15</CodeModule>
+    <ModuleName>Bases de donnees &amp; Reseaux</ModuleName>
+    <ElementName>BD relationnelles</ElementName>
+    <ElementName>Concepts fondamentaux des reseaux</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Tanana</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF16</CodeModule>
+    <ModuleName>Langues et communication 1</ModuleName>
+    <ElementName>Methodologie de PP</ElementName>
+    <ElementName>Anglais&amp;Espagnol 1</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Haris</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF21</CodeModule>
+    <ModuleName>Developpement informatique II</ModuleName>
+    <ElementName>C++</ElementName>
+    <ElementName>PHP5</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Haddad</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF22</CodeModule>
+    <ModuleName>Bases de donnees: Developpement et Manipulation</ModuleName>
+    <ElementName>Methodes de Modelisation de BD</ElementName>
+    <ElementName>PLSQL</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Fissoune</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF23</CodeModule>
+    <ModuleName>Theorie des Graphes et Recherche operationnelle</ModuleName>
+    <ElementName>Recherche operationnelle</ElementName>
+    <ElementName>Theorie des Graphes</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Samadi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF24</CodeModule>
+    <ModuleName>Reseaux 1</ModuleName>
+    <ElementName>Protocoles et adressage des reseaux</ElementName>
+    <ElementName>Technologie des Reseaux</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Tanana</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF25</CodeModule>
+    <ModuleName>Architectures &amp; Linux</ModuleName>
+    <ElementName>Micro-architectures des processeurs</ElementName>
+    <ElementName>Syst&#xE8;me d'exploitation Linux</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Belmokadem</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF26</CodeModule>
+    <ModuleName>Management de l'entreprise 1</ModuleName>
+    <ElementName>Gestion des entreprises 1</ElementName>
+    <ElementName>Economie&amp;Comptabilite 1</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Haddad</Coordinator>
+  </Module>
+</Modules>

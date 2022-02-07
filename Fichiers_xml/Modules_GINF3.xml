@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>GINF51</CodeModule>
+    <ModuleName>Technologies Net et J2EE</ModuleName>
+    <ElementName>Architectures J2EE</ElementName>
+    <ElementName>Programmation mobile Net</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Haddad</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF52</CodeModule>
+    <ModuleName>Intelligence Artificielle Avancee</ModuleName>
+    <ElementName>IA avancee et Web semantique</ElementName>
+    <ElementName>Ingenierie de connaissances</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>El Alami Hassoun</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF53</CodeModule>
+    <ModuleName>SI decisionnel et BI</ModuleName>
+    <ElementName>Datawarehouse</ElementName>
+    <ElementName>BigData </ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Badir</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF54</CodeModule>
+    <ModuleName>Mangement des systemes d'information</ModuleName>
+    <ElementName>Gouvernance des SI</ElementName>
+    <ElementName>ERP&amp;CRM</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Ezzine</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF55</CodeModule>
+    <ModuleName>Web services et applications </ModuleName>
+    <ElementName>Webservices</ElementName>
+    <ElementName>E-commerce</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>BenAchhab</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF56</CodeModule>
+    <ModuleName>Management de l'entreprise 3</ModuleName>
+    <ElementName>Entreprenariat&amp;GRH</ElementName>
+    <ElementName>Simulation d'entretien d'embauche et ethique de l'ingenieur</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Haddad</Coordinator>
+  </Module>
+</Modules>

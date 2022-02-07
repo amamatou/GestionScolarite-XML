@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>G3EI51</CodeModule>
+    <ModuleName>Valorisation des dechets</ModuleName>
+    <ElementName>Biogaz</ElementName>
+    <ElementName>Biomasse</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Fadar</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI52</CodeModule>
+    <ModuleName>Responsabilite societale</ModuleName>
+    <ElementName>outils RSE</ElementName>
+    <ElementName>ISO: 26000</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>azzabach</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI53</CodeModule>
+    <ModuleName>Efficacite energetique</ModuleName>
+    <ElementName>RTBM</ElementName>
+    <ElementName>outils efficacite</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>khouya</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI54</CodeModule>
+    <ModuleName>optimisation systemes</ModuleName>
+    <ElementName>systemes geographique</ElementName>
+    <ElementName>optimisation systeme</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>chraibi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI55</CodeModule>
+    <ModuleName>chauffage et climatisation</ModuleName>
+    <ElementName>climatisation d'air</ElementName>
+    <ElementName>Poids industriels</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>kalkha</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI56</CodeModule>
+    <ModuleName>management de l'entreprise</ModuleName>
+    <ElementName>creation entreprise</ElementName>
+    <ElementName>seminaires</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>chraibi</Coordinator>
+  </Module>
+</Modules>

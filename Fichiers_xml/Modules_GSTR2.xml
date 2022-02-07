@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>GSTR31</CodeModule>
+    <ModuleName>Telecom 3</ModuleName>
+    <ElementName>Traitement numerique du signal</ElementName>
+    <ElementName>Communications Numeriques</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Moussaoui</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR32</CodeModule>
+    <ModuleName>Reseaux 2</ModuleName>
+    <ElementName>Protocoles et concepts de routage</ElementName>
+    <ElementName>Technologies WAN</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Tanana</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR33</CodeModule>
+    <ModuleName>Telecom 4</ModuleName>
+    <ElementName>Guides d'Ondes</ElementName>
+    <ElementName>Propagation Radio</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Laaziz</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR34</CodeModule>
+    <ModuleName>Telecom 5</ModuleName>
+    <ElementName>Antennes</ElementName>
+    <ElementName>Dispositifs Micro-ondes</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Oualkadi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR35</CodeModule>
+    <ModuleName>Info 2</ModuleName>
+    <ElementName>Architectures mobiles</ElementName>
+    <ElementName>Programmation VHDL</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Belmokadem</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR36</CodeModule>
+    <ModuleName>Langues et communication 2</ModuleName>
+    <ElementName>Techniques de communication</ElementName>
+    <ElementName>Anglais2&amp;Espagnol2</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Haris</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR41</CodeModule>
+    <ModuleName>Telecom 6</ModuleName>
+    <ElementName>FibresOptiques</ElementName>
+    <ElementName>Liaisons Optiques</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Laaziz</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR42</CodeModule>
+    <ModuleName>Traitement de l'image et de la parole</ModuleName>
+    <ElementName>Traitement de l'image</ElementName>
+    <ElementName>Traitement et codage de la parole</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Filali Meknassi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR43</CodeModule>
+    <ModuleName>Reseaux 3</ModuleName>
+    <ElementName>Reseaux de transport</ElementName>
+    <ElementName>Voix sur IP, PABX</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Ben Achhab</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR44</CodeModule>
+    <ModuleName>Reseaux 4</ModuleName>
+    <ElementName>Administration reseaux</ElementName>
+    <ElementName>Programmation reseaux</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Tanana</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR45</CodeModule>
+    <ModuleName>Reseaux mobiles 1</ModuleName>
+    <ElementName>Reseaux mobiles 1</ElementName>
+    <ElementName>Reseaux WPAN, WLAN</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Moussaoui</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR46</CodeModule>
+    <ModuleName>Management de l'entreprise 2</ModuleName>
+    <ElementName>Mangement de Projet</ElementName>
+    <ElementName>Economie&amp;Comptabilite 2</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Oualkadi</Coordinator>
+  </Module>
+</Modules>

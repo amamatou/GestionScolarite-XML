@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>GSEA11</CodeModule>
+    <ModuleName>Maths Appliquees</ModuleName>
+    <ElementName>Analyse numerique</ElementName>
+    <ElementName>Statistiques</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Maouene</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA12</CodeModule>
+    <ModuleName>Traitement de signal</ModuleName>
+    <ElementName>Traitement de signal</ElementName>
+    <ElementName>Probabilites</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Lyhyaoui</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA13</CodeModule>
+    <ModuleName>Electronique 1</ModuleName>
+    <ElementName>Electronique analogique</ElementName>
+    <ElementName>Electronique  numerique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Oualkadi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA14</CodeModule>
+    <ModuleName>Ondes et propagation</ModuleName>
+    <ElementName>Lignes de transimission</ElementName>
+    <ElementName>Ondes electromagnetique dans la matiere</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>chahboun N.</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA15</CodeModule>
+    <ModuleName>Automatique I et electroch I</ModuleName>
+    <ElementName>Electrotechnique</ElementName>
+    <ElementName>Automatique Lineaire</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Moussa</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA16</CodeModule>
+    <ModuleName>Langues et communication 1</ModuleName>
+    <ElementName>Methodologie de PP</ElementName>
+    <ElementName>Anglais&amp;Espagnol 1</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Haris</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA21</CodeModule>
+    <ModuleName>Assembleur, Microprocesseur et Microcontroleur</ModuleName>
+    <ElementName>Microcontroleurs</ElementName>
+    <ElementName>Assembleur</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Cherkaoui</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA22</CodeModule>
+    <ModuleName>Electronique III </ModuleName>
+    <ElementName>Automatisme</ElementName>
+    <ElementName>Electronique analogique 2</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Cherkaoui</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA23</CodeModule>
+    <ModuleName>Electrotechnique II et installations electriques</ModuleName>
+    <ElementName>Electrotechnique II</ElementName>
+    <ElementName>Installations electriques</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Azyat</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA24</CodeModule>
+    <ModuleName>Instrumentation et automatique II</ModuleName>
+    <ElementName> Automatique II</ElementName>
+    <ElementName>Instrumentation </ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Derrhi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA25</CodeModule>
+    <ModuleName>Informatique</ModuleName>
+    <ElementName>BD relationnelles</ElementName>
+    <ElementName>PHP</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Fissoune</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA26</CodeModule>
+    <ModuleName>Management de l'entreprise 1</ModuleName>
+    <ElementName>Gestion des entreprises 1</ElementName>
+    <ElementName>Economie&amp;Comptabilite 1</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>El Mourabit</Coordinator>
+  </Module>
+</Modules>

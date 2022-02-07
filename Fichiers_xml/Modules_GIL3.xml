@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>GIL51</CodeModule>
+    <ModuleName> Logistique</ModuleName>
+    <ElementName>logistique maritine</ElementName>
+    <ElementName>E-logistique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>kamachi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL52</CodeModule>
+    <ModuleName>Secutite et energie</ModuleName>
+    <ElementName>Securite Ergonomie</ElementName>
+    <ElementName>Economie d'energie</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>sedqui</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL53</CodeModule>
+    <ModuleName>Qualite et environnement</ModuleName>
+    <ElementName>management de l'innovation</ElementName>
+    <ElementName>Management de qualite</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>rahali</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL54</CodeModule>
+    <ModuleName>Controle et supervision</ModuleName>
+    <ElementName>supervision</ElementName>
+    <ElementName>gestion industrielle</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>sarsri</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL55</CodeModule>
+    <ModuleName>Management de l'entreprise</ModuleName>
+    <ElementName>seminaires</ElementName>
+    <ElementName>projet libre</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>sedqui</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL56</CodeModule>
+    <ModuleName>Supply CHAIN</ModuleName>
+    <ElementName>ordonnancement</ElementName>
+    <ElementName>ordonnancement</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>SARSRI</Coordinator>
+  </Module>
+</Modules>

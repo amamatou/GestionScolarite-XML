@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<Notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Notes.xsd">
+  <Note>
+    <CNE>18000031</CNE>
+    <LastName>Ginf2_LN1</LastName>
+    <FirstName>Ginf2_FN1</FirstName>
+    <Matiere codeMatiere="GINF31">15</Matiere>
+    <Matiere codeMatiere="GINF32">20</Matiere>
+    <Matiere codeMatiere="GINF33">11</Matiere>
+    <Matiere codeMatiere="GINF34">10</Matiere>
+    <Matiere codeMatiere="GINF35">14</Matiere>
+    <Matiere codeMatiere="GINF36">17</Matiere>
+    <Matiere codeMatiere="GINF41">7</Matiere>
+    <Matiere codeMatiere="GINF42">16</Matiere>
+    <Matiere codeMatiere="GINF43">18</Matiere>
+    <Matiere codeMatiere="GINF44">12</Matiere>
+    <Matiere codeMatiere="GINF45">12</Matiere>
+    <Matiere codeMatiere="GINF46">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>18000031</CNE>
+    <LastName>Ginf2_LN2</LastName>
+    <FirstName>Ginf2_FN2</FirstName>
+    <Matiere codeMatiere="GINF31">19</Matiere>
+    <Matiere codeMatiere="GINF32">12</Matiere>
+    <Matiere codeMatiere="GINF33">17</Matiere>
+    <Matiere codeMatiere="GINF34">12</Matiere>
+    <Matiere codeMatiere="GINF35">13</Matiere>
+    <Matiere codeMatiere="GINF36">15</Matiere>
+    <Matiere codeMatiere="GINF41">12</Matiere>
+    <Matiere codeMatiere="GINF42">15</Matiere>
+    <Matiere codeMatiere="GINF43">19</Matiere>
+    <Matiere codeMatiere="GINF44">15</Matiere>
+    <Matiere codeMatiere="GINF45">18</Matiere>
+    <Matiere codeMatiere="GINF46">19</Matiere>
+  </Note>
+  <Note>
+    <CNE>18000031</CNE>
+    <LastName>Ginf2_LN3</LastName>
+    <FirstName>Ginf2_FN3</FirstName>
+    <Matiere codeMatiere="GINF31">12</Matiere>
+    <Matiere codeMatiere="GINF32">18</Matiere>
+    <Matiere codeMatiere="GINF33">12</Matiere>
+    <Matiere codeMatiere="GINF34">11</Matiere>
+    <Matiere codeMatiere="GINF35">18</Matiere>
+    <Matiere codeMatiere="GINF36">18</Matiere>
+    <Matiere codeMatiere="GINF41">12</Matiere>
+    <Matiere codeMatiere="GINF42">10</Matiere>
+    <Matiere codeMatiere="GINF43">13</Matiere>
+    <Matiere codeMatiere="GINF44">12</Matiere>
+    <Matiere codeMatiere="GINF45">18</Matiere>
+    <Matiere codeMatiere="GINF46">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>18000031</CNE>
+    <LastName>Ginf2_LN4</LastName>
+    <FirstName>Ginf2_FN4</FirstName>
+    <Matiere codeMatiere="GINF31">18</Matiere>
+    <Matiere codeMatiere="GINF32">11</Matiere>
+    <Matiere codeMatiere="GINF33">12</Matiere>
+    <Matiere codeMatiere="GINF34">12</Matiere>
+    <Matiere codeMatiere="GINF35">15</Matiere>
+    <Matiere codeMatiere="GINF36">18</Matiere>
+    <Matiere codeMatiere="GINF41">15</Matiere>
+    <Matiere codeMatiere="GINF42">12</Matiere>
+    <Matiere codeMatiere="GINF43">17</Matiere>
+    <Matiere codeMatiere="GINF44">20</Matiere>
+    <Matiere codeMatiere="GINF45">15</Matiere>
+    <Matiere codeMatiere="GINF46">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>18000031</CNE>
+    <LastName>Ginf2_LN5</LastName>
+    <FirstName>Ginf2_FN5</FirstName>
+    <Matiere codeMatiere="GINF31">19</Matiere>
+    <Matiere codeMatiere="GINF32">14</Matiere>
+    <Matiere codeMatiere="GINF33">10</Matiere>
+    <Matiere codeMatiere="GINF34">16</Matiere>
+    <Matiere codeMatiere="GINF35">12</Matiere>
+    <Matiere codeMatiere="GINF36">14</Matiere>
+    <Matiere codeMatiere="GINF41">14</Matiere>
+    <Matiere codeMatiere="GINF42">19</Matiere>
+    <Matiere codeMatiere="GINF43">13</Matiere>
+    <Matiere codeMatiere="GINF44">15</Matiere>
+    <Matiere codeMatiere="GINF45">18</Matiere>
+    <Matiere codeMatiere="GINF46">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>18000031</CNE>
+    <LastName>Ginf2_LN6</LastName>
+    <FirstName>Ginf2_FN6</FirstName>
+    <Matiere codeMatiere="GINF31">19</Matiere>
+    <Matiere codeMatiere="GINF32">12</Matiere>
+    <Matiere codeMatiere="GINF33">20</Matiere>
+    <Matiere codeMatiere="GINF34">14</Matiere>
+    <Matiere codeMatiere="GINF35">19</Matiere>
+    <Matiere codeMatiere="GINF36">15</Matiere>
+    <Matiere codeMatiere="GINF41">12</Matiere>
+    <Matiere codeMatiere="GINF42">12</Matiere>
+    <Matiere codeMatiere="GINF43">17</Matiere>
+    <Matiere codeMatiere="GINF44">18</Matiere>
+    <Matiere codeMatiere="GINF45">15</Matiere>
+    <Matiere codeMatiere="GINF46">20</Matiere>
+  </Note>
+  <Note>
+    <CNE>18000031</CNE>
+    <LastName>Ginf2_LN7</LastName>
+    <FirstName>Ginf2_FN7</FirstName>
+    <Matiere codeMatiere="GINF31">10</Matiere>
+    <Matiere codeMatiere="GINF32">10</Matiere>
+    <Matiere codeMatiere="GINF33">14</Matiere>
+    <Matiere codeMatiere="GINF34">10</Matiere>
+    <Matiere codeMatiere="GINF35">16</Matiere>
+    <Matiere codeMatiere="GINF36">18</Matiere>
+    <Matiere codeMatiere="GINF41">16</Matiere>
+    <Matiere codeMatiere="GINF42">12</Matiere>
+    <Matiere codeMatiere="GINF43">20</Matiere>
+    <Matiere codeMatiere="GINF44">12</Matiere>
+    <Matiere codeMatiere="GINF45">15</Matiere>
+    <Matiere codeMatiere="GINF46">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>18000031</CNE>
+    <LastName>Ginf2_LN8</LastName>
+    <FirstName>Ginf2_FN8</FirstName>
+    <Matiere codeMatiere="GINF31">17</Matiere>
+    <Matiere codeMatiere="GINF32">12</Matiere>
+    <Matiere codeMatiere="GINF33">18</Matiere>
+    <Matiere codeMatiere="GINF34">17</Matiere>
+    <Matiere codeMatiere="GINF35">12</Matiere>
+    <Matiere codeMatiere="GINF36">16</Matiere>
+    <Matiere codeMatiere="GINF41">10</Matiere>
+    <Matiere codeMatiere="GINF42">19</Matiere>
+    <Matiere codeMatiere="GINF43">16</Matiere>
+    <Matiere codeMatiere="GINF44">19</Matiere>
+    <Matiere codeMatiere="GINF45">16</Matiere>
+    <Matiere codeMatiere="GINF46">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>18000031</CNE>
+    <LastName>Ginf2_LN9</LastName>
+    <FirstName>Ginf2_FN9</FirstName>
+    <Matiere codeMatiere="GINF31">12</Matiere>
+    <Matiere codeMatiere="GINF32">17</Matiere>
+    <Matiere codeMatiere="GINF33">12</Matiere>
+    <Matiere codeMatiere="GINF34">16</Matiere>
+    <Matiere codeMatiere="GINF35">15</Matiere>
+    <Matiere codeMatiere="GINF36">18</Matiere>
+    <Matiere codeMatiere="GINF41">14</Matiere>
+    <Matiere codeMatiere="GINF42">9</Matiere>
+    <Matiere codeMatiere="GINF43">15</Matiere>
+    <Matiere codeMatiere="GINF44">18</Matiere>
+    <Matiere codeMatiere="GINF45">12</Matiere>
+    <Matiere codeMatiere="GINF46">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>18000031</CNE>
+    <LastName>Ginf2_LN10</LastName>
+    <FirstName>Ginf2_FN10</FirstName>
+    <Matiere codeMatiere="GINF31">12</Matiere>
+    <Matiere codeMatiere="GINF32">12</Matiere>
+    <Matiere codeMatiere="GINF33">18</Matiere>
+    <Matiere codeMatiere="GINF34">18</Matiere>
+    <Matiere codeMatiere="GINF35">12</Matiere>
+    <Matiere codeMatiere="GINF36">12</Matiere>
+    <Matiere codeMatiere="GINF41">15</Matiere>
+    <Matiere codeMatiere="GINF42">13</Matiere>
+    <Matiere codeMatiere="GINF43">16</Matiere>
+    <Matiere codeMatiere="GINF44">20</Matiere>
+    <Matiere codeMatiere="GINF45">12</Matiere>
+    <Matiere codeMatiere="GINF46">18</Matiere>
+  </Note>
+</Notes>

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>GSEA31</CodeModule>
+    <ModuleName>Antennes et TNS</ModuleName>
+    <ElementName>Antennes</ElementName>
+    <ElementName>TNS</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Oualkadi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA32</CodeModule>
+    <ModuleName>Commandes numeriques</ModuleName>
+    <ElementName>chaines d'acquisition</ElementName>
+    <ElementName>Commandes numeriques</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Azyat</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA33</CodeModule>
+    <ModuleName>Robotique et C++</ModuleName>
+    <ElementName>C++</ElementName>
+    <ElementName>Robotique</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Ben Achhab</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA34</CodeModule>
+    <ModuleName>Electronique de puissance</ModuleName>
+    <ElementName>Electronique de puissance</ElementName>
+    <ElementName>Machine tournantes</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Derrhi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA35</CodeModule>
+    <ModuleName>Conception de systemes electroniques</ModuleName>
+    <ElementName>Conception de systemes electroniques</ElementName>
+    <ElementName>TP Conception de systemes electroniques</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>El Mourabit</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA36</CodeModule>
+    <ModuleName>Langues et communication 2</ModuleName>
+    <ElementName>Techniques de communication</ElementName>
+    <ElementName>Anglais2&amp;Espagnol2</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Haris</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA41</CodeModule>
+    <ModuleName>Automates et DSP</ModuleName>
+    <ElementName>DSP</ElementName>
+    <ElementName>Automates programmables</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Derrhi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA42</CodeModule>
+    <ModuleName>Circuits et sys integres</ModuleName>
+    <ElementName>Circuits  integres</ElementName>
+    <ElementName>Systemes integres</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>El Mourabit</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA43</CodeModule>
+    <ModuleName>Traitement de l'image et sys de vision</ModuleName>
+    <ElementName>Traitement de l'image</ElementName>
+    <ElementName>sys de vision</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Moussa</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA44</CodeModule>
+    <ModuleName>VHDL</ModuleName>
+    <ElementName>VHDL</ElementName>
+    <ElementName>tp vhdl</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Cherkaoui</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA45</CodeModule>
+    <ModuleName>Qualite et maintenance</ModuleName>
+    <ElementName>Outils et gestion de la qualite</ElementName>
+    <ElementName>Maintenance et surete de fonctionnement</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Boumane</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA46</CodeModule>
+    <ModuleName>Management de l'entreprise 2</ModuleName>
+    <ElementName>Mangement de Projet</ElementName>
+    <ElementName>Economie&amp;Comptabilite 2</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>El Mourabit</Coordinator>
+  </Module>
+</Modules>

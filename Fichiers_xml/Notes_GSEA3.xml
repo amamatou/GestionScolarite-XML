@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE Notes SYSTEM "C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Notes.dtd">
+<Notes>
+  <Note>
+    <CNE>17000021</CNE>
+    <LastName>Gsea3_LN1</LastName>
+    <FirstName>Gsea3_FN1</FirstName>
+    <Matiere codeMatiere="GSEA51">18</Matiere>
+    <Matiere codeMatiere="GSEA52">14</Matiere>
+    <Matiere codeMatiere="GSEA53">17</Matiere>
+    <Matiere codeMatiere="GSEA54">17</Matiere>
+    <Matiere codeMatiere="GSEA55">9</Matiere>
+    <Matiere codeMatiere="GSEA56">16</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000022</CNE>
+    <LastName>Gsea3_LN2</LastName>
+    <FirstName>Gsea3_FN2</FirstName>
+    <Matiere codeMatiere="GSEA51">7</Matiere>
+    <Matiere codeMatiere="GSEA52">14</Matiere>
+    <Matiere codeMatiere="GSEA53">15</Matiere>
+    <Matiere codeMatiere="GSEA54">12</Matiere>
+    <Matiere codeMatiere="GSEA55">15</Matiere>
+    <Matiere codeMatiere="GSEA56">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000023</CNE>
+    <LastName>Gsea3_LN3</LastName>
+    <FirstName>Gsea3_FN3</FirstName>
+    <Matiere codeMatiere="GSEA51">8</Matiere>
+    <Matiere codeMatiere="GSEA52">6</Matiere>
+    <Matiere codeMatiere="GSEA53">16</Matiere>
+    <Matiere codeMatiere="GSEA54">16</Matiere>
+    <Matiere codeMatiere="GSEA55">17</Matiere>
+    <Matiere codeMatiere="GSEA56">16</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000024</CNE>
+    <LastName>Gsea3_LN4</LastName>
+    <FirstName>Gsea3_FN4</FirstName>
+    <Matiere codeMatiere="GSEA51">7</Matiere>
+    <Matiere codeMatiere="GSEA52">10</Matiere>
+    <Matiere codeMatiere="GSEA53">8</Matiere>
+    <Matiere codeMatiere="GSEA54">18</Matiere>
+    <Matiere codeMatiere="GSEA55">12</Matiere>
+    <Matiere codeMatiere="GSEA56">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000025</CNE>
+    <LastName>Gsea3_LN5</LastName>
+    <FirstName>Gsea3_FN5</FirstName>
+    <Matiere codeMatiere="GSEA51">12</Matiere>
+    <Matiere codeMatiere="GSEA52">13</Matiere>
+    <Matiere codeMatiere="GSEA53">9</Matiere>
+    <Matiere codeMatiere="GSEA54">5</Matiere>
+    <Matiere codeMatiere="GSEA55">10</Matiere>
+    <Matiere codeMatiere="GSEA56">19</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000026</CNE>
+    <LastName>Gsea3_LN6</LastName>
+    <FirstName>Gsea3_FN6</FirstName>
+    <Matiere codeMatiere="GSEA51">5</Matiere>
+    <Matiere codeMatiere="GSEA52">13</Matiere>
+    <Matiere codeMatiere="GSEA53">13</Matiere>
+    <Matiere codeMatiere="GSEA54">16</Matiere>
+    <Matiere codeMatiere="GSEA55">13</Matiere>
+    <Matiere codeMatiere="GSEA56">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000027</CNE>
+    <LastName>Gsea3_LN7</LastName>
+    <FirstName>Gsea3_FN7</FirstName>
+    <Matiere codeMatiere="GSEA51">11</Matiere>
+    <Matiere codeMatiere="GSEA52">15</Matiere>
+    <Matiere codeMatiere="GSEA53">14</Matiere>
+    <Matiere codeMatiere="GSEA54">19</Matiere>
+    <Matiere codeMatiere="GSEA55">12</Matiere>
+    <Matiere codeMatiere="GSEA56">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000028</CNE>
+    <LastName>Gsea3_LN8</LastName>
+    <FirstName>Gsea3_FN8</FirstName>
+    <Matiere codeMatiere="GSEA51">14</Matiere>
+    <Matiere codeMatiere="GSEA52">17</Matiere>
+    <Matiere codeMatiere="GSEA53">19</Matiere>
+    <Matiere codeMatiere="GSEA54">20</Matiere>
+    <Matiere codeMatiere="GSEA55">13</Matiere>
+    <Matiere codeMatiere="GSEA56">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000029</CNE>
+    <LastName>Gsea3_LN9</LastName>
+    <FirstName>Gsea3_FN9</FirstName>
+    <Matiere codeMatiere="GSEA51">14</Matiere>
+    <Matiere codeMatiere="GSEA52">6</Matiere>
+    <Matiere codeMatiere="GSEA53">9</Matiere>
+    <Matiere codeMatiere="GSEA54">19</Matiere>
+    <Matiere codeMatiere="GSEA55">20</Matiere>
+    <Matiere codeMatiere="GSEA56">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000030</CNE>
+    <LastName>Gsea3_LN10</LastName>
+    <FirstName>Gsea3_FN10</FirstName>
+    <Matiere codeMatiere="GSEA51">9</Matiere>
+    <Matiere codeMatiere="GSEA52">11</Matiere>
+    <Matiere codeMatiere="GSEA53">19</Matiere>
+    <Matiere codeMatiere="GSEA54">18</Matiere>
+    <Matiere codeMatiere="GSEA55">11</Matiere>
+    <Matiere codeMatiere="GSEA56">10</Matiere>
+  </Note>
+</Notes>

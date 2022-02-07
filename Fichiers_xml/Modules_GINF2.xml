@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>GINF31</CodeModule>
+    <ModuleName>Programmation orientee objet &amp; XML</ModuleName>
+    <ElementName>POO Java</ElementName>
+    <ElementName>XML&amp;Applications</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Haddad</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF32</CodeModule>
+    <ModuleName>Qualite &amp; approche processus</ModuleName>
+    <ElementName>Cycle de vie logiciel et methodes agiles</ElementName>
+    <ElementName>Maitrise et optimisation des processus</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Rahali El Azzouzi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF33</CodeModule>
+    <ModuleName>Modelisation orientee objet et IHM</ModuleName>
+    <ElementName>MOO UML</ElementName>
+    <ElementName>IHM</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>El Alami Hassoun</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF34</CodeModule>
+    <ModuleName>Bases de donnees avancees I</ModuleName>
+    <ElementName>Optimisation et qualite de BD</ElementName>
+    <ElementName>Administration et securite des BD</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Badir</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF35</CodeModule>
+    <ModuleName>Administration et programmation syst&#xE8;me</ModuleName>
+    <ElementName>Administration systemes</ElementName>
+    <ElementName>Programmation systemes</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Amechnoue</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF36</CodeModule>
+    <ModuleName>Langues et communication 2</ModuleName>
+    <ElementName>Techniques de communication</ElementName>
+    <ElementName>Anglais2&amp;Espagnol2</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Haris</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF41</CodeModule>
+    <ModuleName>Technologies distribuees</ModuleName>
+    <ElementName>J2EE</ElementName>
+    <ElementName>C#</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Haddad</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF42</CodeModule>
+    <ModuleName>Bases de donnees avancees I &amp; Cloud</ModuleName>
+    <ElementName>Gestion des donnees complexes</ElementName>
+    <ElementName>Gestion des donnees distribuees</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Badir</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF43</CodeModule>
+    <ModuleName>Traitement de l'image</ModuleName>
+    <ElementName>Traitement de l'image</ElementName>
+    <ElementName>Vision numerique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Ezzine</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF44</CodeModule>
+    <ModuleName>Programmation declarative et TAV</ModuleName>
+    <ElementName>Programmation declarative</ElementName>
+    <ElementName>TAV</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>El Alami Hassoun</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF45</CodeModule>
+    <ModuleName>Securite &amp; cryptographie</ModuleName>
+    <ElementName>Securite des systemes</ElementName>
+    <ElementName>Cryptographie</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Lazaar</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GINF46</CodeModule>
+    <ModuleName>Management de l'entreprise 2</ModuleName>
+    <ElementName>Mangement de Projet</ElementName>
+    <ElementName>Economie&amp;Comptabilite 2</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Haddad</Coordinator>
+  </Module>
+</Modules>

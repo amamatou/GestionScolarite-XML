@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE Notes SYSTEM "C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Notes.dtd">
+<Notes>
+  <Note>
+    <CNE>19000041</CNE>
+    <LastName>G3EI1_LN1</LastName>
+    <FirstName>G3EI1_FN1</FirstName>
+    <Matiere codeMatiere="G3EI111">11</Matiere>
+    <Matiere codeMatiere="G3EI112">14</Matiere>
+    <Matiere codeMatiere="G3EI113">19.32</Matiere>
+    <Matiere codeMatiere="G3EI114">11.68</Matiere>
+    <Matiere codeMatiere="G3EI115">10.73</Matiere>
+    <Matiere codeMatiere="G3EI116">15.06</Matiere>
+    <Matiere codeMatiere="G3EI117">17.56</Matiere>
+    <Matiere codeMatiere="G3EI118">9.09</Matiere>
+    <Matiere codeMatiere="G3EI119">13.84</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000042</CNE>
+    <LastName>G3EI1_LN2</LastName>
+    <FirstName>G3EI1_FN2</FirstName>
+    <Matiere codeMatiere="G3EI111">16.5</Matiere>
+    <Matiere codeMatiere="G3EI112">17</Matiere>
+    <Matiere codeMatiere="G3EI113">19.65</Matiere>
+    <Matiere codeMatiere="G3EI114">9.46</Matiere>
+    <Matiere codeMatiere="G3EI115">18.7</Matiere>
+    <Matiere codeMatiere="G3EI116">15.13</Matiere>
+    <Matiere codeMatiere="G3EI117">10.99</Matiere>
+    <Matiere codeMatiere="G3EI118">12.11</Matiere>
+    <Matiere codeMatiere="G3EI119">8.35</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000043</CNE>
+    <LastName>G3EI1_LN3</LastName>
+    <FirstName>G3EI1_FN3</FirstName>
+    <Matiere codeMatiere="G3EI111">18.65</Matiere>
+    <Matiere codeMatiere="G3EI112">12</Matiere>
+    <Matiere codeMatiere="G3EI113">12.39</Matiere>
+    <Matiere codeMatiere="G3EI114">10.52</Matiere>
+    <Matiere codeMatiere="G3EI115">12.26</Matiere>
+    <Matiere codeMatiere="G3EI116">15.77</Matiere>
+    <Matiere codeMatiere="G3EI117">19.45</Matiere>
+    <Matiere codeMatiere="G3EI118">18.89</Matiere>
+    <Matiere codeMatiere="G3EI119">9.73</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000044</CNE>
+    <LastName>G3EI1_LN4</LastName>
+    <FirstName>G3EI1_FN4</FirstName>
+    <Matiere codeMatiere="G3EI111">9</Matiere>
+    <Matiere codeMatiere="G3EI112">18</Matiere>
+    <Matiere codeMatiere="G3EI113">13.09</Matiere>
+    <Matiere codeMatiere="G3EI114">17.56</Matiere>
+    <Matiere codeMatiere="G3EI115">11.26</Matiere>
+    <Matiere codeMatiere="G3EI116">16.26</Matiere>
+    <Matiere codeMatiere="G3EI117">12.91</Matiere>
+    <Matiere codeMatiere="G3EI118">14.16</Matiere>
+    <Matiere codeMatiere="G3EI119">13.34</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000045</CNE>
+    <LastName>G3EI1_LN5</LastName>
+    <FirstName>G3EI1_FN5</FirstName>
+    <Matiere codeMatiere="G3EI111">13.89</Matiere>
+    <Matiere codeMatiere="G3EI112">7.5</Matiere>
+    <Matiere codeMatiere="G3EI113">17.88</Matiere>
+    <Matiere codeMatiere="G3EI114">17.66</Matiere>
+    <Matiere codeMatiere="G3EI115">10.67</Matiere>
+    <Matiere codeMatiere="G3EI116">16.66</Matiere>
+    <Matiere codeMatiere="G3EI117">18.24</Matiere>
+    <Matiere codeMatiere="G3EI118">17.93</Matiere>
+    <Matiere codeMatiere="G3EI119">15.91</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000046</CNE>
+    <LastName>G3EI1_LN6</LastName>
+    <FirstName>G3EI1_FN6</FirstName>
+    <Matiere codeMatiere="G3EI111">10</Matiere>
+    <Matiere codeMatiere="G3EI112">16</Matiere>
+    <Matiere codeMatiere="G3EI113">8.66</Matiere>
+    <Matiere codeMatiere="G3EI114">14.74</Matiere>
+    <Matiere codeMatiere="G3EI115">9.24</Matiere>
+    <Matiere codeMatiere="G3EI116">11.85</Matiere>
+    <Matiere codeMatiere="G3EI117">12.21</Matiere>
+    <Matiere codeMatiere="G3EI118">16.71</Matiere>
+    <Matiere codeMatiere="G3EI119">11.29</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000047</CNE>
+    <LastName>G3EI1_LN7</LastName>
+    <FirstName>G3EI1_FN7</FirstName>
+    <Matiere codeMatiere="G3EI111">8.5</Matiere>
+    <Matiere codeMatiere="G3EI112">10</Matiere>
+    <Matiere codeMatiere="G3EI113">13.82</Matiere>
+    <Matiere codeMatiere="G3EI114">12.86</Matiere>
+    <Matiere codeMatiere="G3EI115">12.72</Matiere>
+    <Matiere codeMatiere="G3EI116">14.11</Matiere>
+    <Matiere codeMatiere="G3EI117">13.87</Matiere>
+    <Matiere codeMatiere="G3EI118">12.78</Matiere>
+    <Matiere codeMatiere="G3EI119">13.17</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000048</CNE>
+    <LastName>G3EI1_LN8</LastName>
+    <FirstName>G3EI1_FN8</FirstName>
+    <Matiere codeMatiere="G3EI111">12</Matiere>
+    <Matiere codeMatiere="G3EI112">4.5</Matiere>
+    <Matiere codeMatiere="G3EI113">12</Matiere>
+    <Matiere codeMatiere="G3EI114">16.51</Matiere>
+    <Matiere codeMatiere="G3EI115">18.84</Matiere>
+    <Matiere codeMatiere="G3EI116">13.45</Matiere>
+    <Matiere codeMatiere="G3EI117">16.75</Matiere>
+    <Matiere codeMatiere="G3EI118">12.07</Matiere>
+    <Matiere codeMatiere="G3EI119">14.63</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000049</CNE>
+    <LastName>G3EI1_LN9</LastName>
+    <FirstName>G3EI1_FN9</FirstName>
+    <Matiere codeMatiere="G3EI111">12</Matiere>
+    <Matiere codeMatiere="G3EI112">13</Matiere>
+    <Matiere codeMatiere="G3EI113">15.78</Matiere>
+    <Matiere codeMatiere="G3EI114">17.15</Matiere>
+    <Matiere codeMatiere="G3EI115">10.95</Matiere>
+    <Matiere codeMatiere="G3EI116">17.83</Matiere>
+    <Matiere codeMatiere="G3EI117">14.99</Matiere>
+    <Matiere codeMatiere="G3EI118">12.65</Matiere>
+    <Matiere codeMatiere="G3EI119">14.02</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000050</CNE>
+    <LastName>G3EI1_LN10</LastName>
+    <FirstName>G3EI1_FN10</FirstName>
+    <Matiere codeMatiere="G3EI111">12</Matiere>
+    <Matiere codeMatiere="G3EI112">12</Matiere>
+    <Matiere codeMatiere="G3EI113">18.55</Matiere>
+    <Matiere codeMatiere="G3EI114">11.85</Matiere>
+    <Matiere codeMatiere="G3EI115">11.39</Matiere>
+    <Matiere codeMatiere="G3EI116">9.67</Matiere>
+    <Matiere codeMatiere="G3EI117">10.82</Matiere>
+    <Matiere codeMatiere="G3EI118">9.26</Matiere>
+    <Matiere codeMatiere="G3EI119">17.68</Matiere>
+  </Note>
+</Notes>

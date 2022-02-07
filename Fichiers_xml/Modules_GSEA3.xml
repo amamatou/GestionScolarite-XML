@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>GSEA51</CodeModule>
+    <ModuleName>Systemes enbarques</ModuleName>
+    <ElementName>Systemes embarques</ElementName>
+    <ElementName>Tp sys embarques</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>El Mourabit</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA52</CodeModule>
+    <ModuleName>Systemes Temps reel</ModuleName>
+    <ElementName>Systemes Temps reel</ElementName>
+    <ElementName>Tp sys Temps  reel</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Moussa</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA53</CodeModule>
+    <ModuleName>Verification et developpement mobile</ModuleName>
+    <ElementName>DeveloppemtnMobile</ElementName>
+    <ElementName>Verification de syst&#xE8;me Temps reel</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Belmokadem</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA54</CodeModule>
+    <ModuleName>Association conv/Machine et modelisation</ModuleName>
+    <ElementName>Association conv/Machine</ElementName>
+    <ElementName>QSE</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>El Menzhi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA55</CodeModule>
+    <ModuleName>Diagnostic des SA et modelisation</ModuleName>
+    <ElementName>Diagnostic des SA</ElementName>
+    <ElementName>SYSML-UML</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Fissoune</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSEA56</CodeModule>
+    <ModuleName>Management de l'entreprise 3</ModuleName>
+    <ElementName>Entreprenariat&amp;GRH</ElementName>
+    <ElementName>Simulation d'entretien d'embauche et ethique de l'ingenieur</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>El Mourabit</Coordinator>
+  </Module>
+</Modules>

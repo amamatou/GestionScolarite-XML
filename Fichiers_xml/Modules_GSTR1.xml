@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>GSTR11</CodeModule>
+    <ModuleName>Maths pour l'ingenieur</ModuleName>
+    <ElementName>Analyse numerique</ElementName>
+    <ElementName>Statistiques</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Maouene</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR12</CodeModule>
+    <ModuleName>Signal</ModuleName>
+    <ElementName>Traitement de signal</ElementName>
+    <ElementName>TP Signal</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Lyhyaoui</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR13</CodeModule>
+    <ModuleName>Electronique 1</ModuleName>
+    <ElementName>Electronique analogique</ElementName>
+    <ElementName>Electronique  numerique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Oualkadi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR14</CodeModule>
+    <ModuleName>Telecom 1</ModuleName>
+    <ElementName>Lignes de transimission</ElementName>
+    <ElementName>Ondes electromagnetique dans la matiere</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>chahboun N.</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR15</CodeModule>
+    <ModuleName>Automatique &amp; reseaux</ModuleName>
+    <ElementName>Automatique lineaire</ElementName>
+    <ElementName>Concepts fondamentaux des reseaux</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Filali Meknassi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR16</CodeModule>
+    <ModuleName>Langues et communication 1</ModuleName>
+    <ElementName>Methodologie de PP</ElementName>
+    <ElementName>Anglais&amp;Espagnol 1</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Haris</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR21</CodeModule>
+    <ModuleName>Electronique 2</ModuleName>
+    <ElementName>Micro-architectures des processeurs</ElementName>
+    <ElementName>Syst&#xE8;me d'exploitation Linux</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Chahboun A.</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR22</CodeModule>
+    <ModuleName>Info 1</ModuleName>
+    <ElementName>POO Java</ElementName>
+    <ElementName>MOO UML</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Belmokadem</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR23</CodeModule>
+    <ModuleName>Theorie des Graphes et Applications</ModuleName>
+    <ElementName>Recherche operationnelle</ElementName>
+    <ElementName>Theorie des Graphes</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Samadi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR24</CodeModule>
+    <ModuleName>Reseaux 1</ModuleName>
+    <ElementName>Protocoles et adressage des reseaux</ElementName>
+    <ElementName>Technologie des Reseaux</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Tanana</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR25</CodeModule>
+    <ModuleName>Telecom 2</ModuleName>
+    <ElementName>Communications analogiques</ElementName>
+    <ElementName>Theorie de l'information et codage</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Oualkadi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR26</CodeModule>
+    <ModuleName>Management de l'entreprise 1</ModuleName>
+    <ElementName>Gestion des entreprises 1</ElementName>
+    <ElementName>Economie&amp;Comptabilite 1</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Haris</Coordinator>
+  </Module>
+</Modules>

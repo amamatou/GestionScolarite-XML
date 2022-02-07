@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>GIL31</CodeModule>
+    <ModuleName>Automatisme</ModuleName>
+    <ElementName>Automatismes industriels</ElementName>
+    <ElementName>Maintenance</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>EZZINE</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL32</CodeModule>
+    <ModuleName>Commande industriel</ModuleName>
+    <ElementName>Commande numerique </ElementName>
+    <ElementName>Reseaux locaux</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>FILALI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL33</CodeModule>
+    <ModuleName>Outils d'aide </ModuleName>
+    <ElementName>Theorie de graphe</ElementName>
+    <ElementName>Decision Multicritere</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Samadi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL34</CodeModule>
+    <ModuleName>Fabrication mecanique</ModuleName>
+    <ElementName>Procedes de fabrication</ElementName>
+    <ElementName>CFAO</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>motaki</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL35</CodeModule>
+    <ModuleName>Conception Mecanique</ModuleName>
+    <ElementName>Conception systeme</ElementName>
+    <ElementName>Anaylse de valeur</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>KAMACH</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL36</CodeModule>
+    <ModuleName>Communication2</ModuleName>
+    <ElementName>comptabilite2</ElementName>
+    <ElementName>Management de projet</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>SARSRI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL37</CodeModule>
+    <ModuleName>Modelisation</ModuleName>
+    <ElementName>implantation</ElementName>
+    <ElementName>Stimulation</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>SARSRI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL38</CodeModule>
+    <ModuleName>Gestion de production</ModuleName>
+    <ElementName>GP</ElementName>
+    <ElementName>GP avancee</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>BOUMAN</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GIL39</CodeModule>
+    <ModuleName>Maintenace et qualite</ModuleName>
+    <ElementName>outils qualite</ElementName>
+    <ElementName>Anaylse de valeur2</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Sedqui</Coordinator>
+  </Module>
+</Modules>

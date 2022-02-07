@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<Notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Notes.xsd">
+  <Note>
+    <CNE>21000001</CNE>
+    <LastName>AP1_LN1</LastName>
+    <FirstName>AP1_FN1</FirstName>
+    <Matiere codeMatiere="AP11">12.34</Matiere>
+    <Matiere codeMatiere="AP12">10.73</Matiere>
+    <Matiere codeMatiere="AP13">15.33</Matiere>
+    <Matiere codeMatiere="AP14">18.7</Matiere>
+    <Matiere codeMatiere="AP15">12.76</Matiere>
+    <Matiere codeMatiere="AP16">14.5</Matiere>
+    <Matiere codeMatiere="AP17">13.44</Matiere>
+    <Matiere codeMatiere="AP18">12.23</Matiere>
+    <Matiere codeMatiere="AP19">13</Matiere>
+  </Note>
+  <Note>
+    <CNE>21000002</CNE>
+    <LastName>AP1_LN2</LastName>
+    <FirstName>AP1_FN2</FirstName>
+    <Matiere codeMatiere="AP11">10</Matiere>
+    <Matiere codeMatiere="AP12">9.5</Matiere>
+    <Matiere codeMatiere="AP13">9.87</Matiere>
+    <Matiere codeMatiere="AP14">10</Matiere>
+    <Matiere codeMatiere="AP15">11.63</Matiere>
+    <Matiere codeMatiere="AP16">15.35</Matiere>
+    <Matiere codeMatiere="AP17">18.88</Matiere>
+    <Matiere codeMatiere="AP18">10</Matiere>
+    <Matiere codeMatiere="AP19">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>21000003</CNE>
+    <LastName>AP1_LN3</LastName>
+    <FirstName>AP1_FN3</FirstName>
+    <Matiere codeMatiere="AP11">13.06</Matiere>
+    <Matiere codeMatiere="AP12">12.38</Matiere>
+    <Matiere codeMatiere="AP13">15</Matiere>
+    <Matiere codeMatiere="AP14">14.67</Matiere>
+    <Matiere codeMatiere="AP15">17.87</Matiere>
+    <Matiere codeMatiere="AP16">9.98</Matiere>
+    <Matiere codeMatiere="AP17">10</Matiere>
+    <Matiere codeMatiere="AP18">10</Matiere>
+    <Matiere codeMatiere="AP19">15.7</Matiere>
+  </Note>
+  <Note>
+    <CNE>21000004</CNE>
+    <LastName>AP1_LN4</LastName>
+    <FirstName>AP1_FN4</FirstName>
+    <Matiere codeMatiere="AP11">18.62</Matiere>
+    <Matiere codeMatiere="AP12">15.67</Matiere>
+    <Matiere codeMatiere="AP13">18.79</Matiere>
+    <Matiere codeMatiere="AP14">18.69</Matiere>
+    <Matiere codeMatiere="AP15">15.88</Matiere>
+    <Matiere codeMatiere="AP16">8.96</Matiere>
+    <Matiere codeMatiere="AP17">10.66</Matiere>
+    <Matiere codeMatiere="AP18">10</Matiere>
+    <Matiere codeMatiere="AP19">17.04</Matiere>
+  </Note>
+  <Note>
+    <CNE>21000005</CNE>
+    <LastName>AP1_LN5</LastName>
+    <FirstName>AP1_FN5</FirstName>
+    <Matiere codeMatiere="AP11">14.54</Matiere>
+    <Matiere codeMatiere="AP12">12.97</Matiere>
+    <Matiere codeMatiere="AP13">10.97</Matiere>
+    <Matiere codeMatiere="AP14">13.81</Matiere>
+    <Matiere codeMatiere="AP15">10</Matiere>
+    <Matiere codeMatiere="AP16">17.91</Matiere>
+    <Matiere codeMatiere="AP17">14.69</Matiere>
+    <Matiere codeMatiere="AP18">12.15</Matiere>
+    <Matiere codeMatiere="AP19">15.92</Matiere>
+  </Note>
+  <Note>
+    <CNE>21000006</CNE>
+    <LastName>AP1_LN6</LastName>
+    <FirstName>AP1_FN6</FirstName>
+    <Matiere codeMatiere="AP11">10</Matiere>
+    <Matiere codeMatiere="AP12">13.8</Matiere>
+    <Matiere codeMatiere="AP13">10</Matiere>
+    <Matiere codeMatiere="AP14">10</Matiere>
+    <Matiere codeMatiere="AP15">11.23</Matiere>
+    <Matiere codeMatiere="AP16">11.67</Matiere>
+    <Matiere codeMatiere="AP17">10</Matiere>
+    <Matiere codeMatiere="AP18">10</Matiere>
+    <Matiere codeMatiere="AP19">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>21000007</CNE>
+    <LastName>AP1_LN7</LastName>
+    <FirstName>AP1_FN7</FirstName>
+    <Matiere codeMatiere="AP11">16.17</Matiere>
+    <Matiere codeMatiere="AP12">18.94</Matiere>
+    <Matiere codeMatiere="AP13">18.05</Matiere>
+    <Matiere codeMatiere="AP14">12.67</Matiere>
+    <Matiere codeMatiere="AP15">14.25</Matiere>
+    <Matiere codeMatiere="AP16">10</Matiere>
+    <Matiere codeMatiere="AP17">19.18</Matiere>
+    <Matiere codeMatiere="AP18">10.45</Matiere>
+    <Matiere codeMatiere="AP19">6.98</Matiere>
+  </Note>
+  <Note>
+    <CNE>21000008</CNE>
+    <LastName>AP1_LN8</LastName>
+    <FirstName>AP1_FN8</FirstName>
+    <Matiere codeMatiere="AP11">14.55</Matiere>
+    <Matiere codeMatiere="AP12">14.89</Matiere>
+    <Matiere codeMatiere="AP13">10</Matiere>
+    <Matiere codeMatiere="AP14">14.45</Matiere>
+    <Matiere codeMatiere="AP15">10</Matiere>
+    <Matiere codeMatiere="AP16">12.75</Matiere>
+    <Matiere codeMatiere="AP17">15.01</Matiere>
+    <Matiere codeMatiere="AP18">10.38</Matiere>
+    <Matiere codeMatiere="AP19">16.5</Matiere>
+  </Note>
+  <Note>
+    <CNE>21000009</CNE>
+    <LastName>AP1_LN9</LastName>
+    <FirstName>AP1_FN9</FirstName>
+    <Matiere codeMatiere="AP11">10</Matiere>
+    <Matiere codeMatiere="AP12">11.71</Matiere>
+    <Matiere codeMatiere="AP13">11.57</Matiere>
+    <Matiere codeMatiere="AP14">10.59</Matiere>
+    <Matiere codeMatiere="AP15">10.65</Matiere>
+    <Matiere codeMatiere="AP16">10</Matiere>
+    <Matiere codeMatiere="AP17">13.3</Matiere>
+    <Matiere codeMatiere="AP18">17.75</Matiere>
+    <Matiere codeMatiere="AP19">13.09</Matiere>
+  </Note>
+  <Note>
+    <CNE>21000010</CNE>
+    <LastName>AP1_LN10</LastName>
+    <FirstName>AP1_FN10</FirstName>
+    <Matiere codeMatiere="AP11">10</Matiere>
+    <Matiere codeMatiere="AP12">10</Matiere>
+    <Matiere codeMatiere="AP13">10</Matiere>
+    <Matiere codeMatiere="AP14">13.16</Matiere>
+    <Matiere codeMatiere="AP15">19</Matiere>
+    <Matiere codeMatiere="AP16">10</Matiere>
+    <Matiere codeMatiere="AP17">15.74</Matiere>
+    <Matiere codeMatiere="AP18">18.97</Matiere>
+    <Matiere codeMatiere="AP19">17.74</Matiere>
+  </Note>
+</Notes>

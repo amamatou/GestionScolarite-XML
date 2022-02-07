@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>G3EI11</CodeModule>
+    <ModuleName>STATISTIQUES</ModuleName>
+    <ElementName>Statistiques Appliquees</ElementName>
+    <ElementName>Traitement du signal</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Chraibi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI12</CodeModule>
+    <ModuleName>ELECTRONIQUE</ModuleName>
+    <ElementName>Electronique Analogique</ElementName>
+    <ElementName>Electronique Numerique</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>FILALI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI13</CodeModule>
+    <ModuleName>MATERIAUX</ModuleName>
+    <ElementName>Sciences des materiaux</ElementName>
+    <ElementName>Dessin Industriel</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>BOUAJAJ</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI14</CodeModule>
+    <ModuleName>INFORMATIQUE</ModuleName>
+    <ElementName>bases des donnees</ElementName>
+    <ElementName>Technologie web</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Derhi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI15</CodeModule>
+    <ModuleName>AUTOMATIQUE1</ModuleName>
+    <ElementName>electrotechnique</ElementName>
+    <ElementName>Automatique lineaire</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>moussa</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI16</CodeModule>
+    <ModuleName>MANAGEMENT</ModuleName>
+    <ElementName>comptabilite</ElementName>
+    <ElementName>Economie</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>rahali</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI17</CodeModule>
+    <ModuleName>Thermodynamique industrielle</ModuleName>
+    <ElementName>Mecanique des fluides</ElementName>
+    <ElementName>Thermodynamique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>al alalli</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI18</CodeModule>
+    <ModuleName>MACHINES INDUSTRIELLES</ModuleName>
+    <ElementName>machines thermiques 1</ElementName>
+    <ElementName>Machines Electrique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El fadar</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>G3EI19</CodeModule>
+    <ModuleName>SIMULATION</ModuleName>
+    <ElementName>Electrotechnique 2</ElementName>
+    <ElementName>Td electronique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Moussa</Coordinator>
+  </Module>
+</Modules>

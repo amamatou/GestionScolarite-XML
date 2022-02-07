@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>AP11</CodeModule>
+    <ModuleName>MATHS1</ModuleName>
+    <ElementName>ANALYSE1</ElementName>
+    <ElementName>ALGEBRE1</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>SAMADI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP12</CodeModule>
+    <ModuleName>PHYSIQUE1</ModuleName>
+    <ElementName>Electrocinetique</ElementName>
+    <ElementName>Instumentation1</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>BRITEL</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP13</CodeModule>
+    <ModuleName>MECANIQUE</ModuleName>
+    <ElementName>Mecanique de point</ElementName>
+    <ElementName>mecanique2</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>BOUAJAJ</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP14</CodeModule>
+    <ModuleName>CHIMIE</ModuleName>
+    <ElementName>Atomistique</ElementName>
+    <ElementName>Chimie Organique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>TOUHAMI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP15</CodeModule>
+    <ModuleName>LC1</ModuleName>
+    <ElementName>Francais1</ElementName>
+    <ElementName>Activites d'ouverture</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>HARIS</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP16</CodeModule>
+    <ModuleName>MATHS2</ModuleName>
+    <ElementName>Algebre2</ElementName>
+    <ElementName>Analyse2</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>EZZINE</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP17</CodeModule>
+    <ModuleName>PYSIQUE2</ModuleName>
+    <ElementName>Electrostatique</ElementName>
+    <ElementName>Magnetostatique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>LAHJOMRI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP18</CodeModule>
+    <ModuleName>PYSIQUE3</ModuleName>
+    <ElementName>Optique geometrique</ElementName>
+    <ElementName>Optique Physique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>FILALI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP19</CodeModule>
+    <ModuleName>INFO1</ModuleName>
+    <ElementName>Calcul Formel</ElementName>
+    <ElementName>algebre de boule</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>BELMOKADEM</Coordinator>
+  </Module>
+</Modules>

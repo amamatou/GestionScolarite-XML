@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<Notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Notes.xsd">
+  <Note>
+    <CNE>17000041</CNE>
+    <LastName>G3EI3_FN1</LastName>
+    <FirstName>G3EI3_LN1</FirstName>
+    <Matiere codeMatiere="G3EI51">14</Matiere>
+    <Matiere codeMatiere="G3EI52">12</Matiere>
+    <Matiere codeMatiere="G3EI53">13</Matiere>
+    <Matiere codeMatiere="G3EI54">12</Matiere>
+    <Matiere codeMatiere="G3EI55">12</Matiere>
+    <Matiere codeMatiere="G3EI56">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000042</CNE>
+    <LastName>G3EI3_FN2</LastName>
+    <FirstName>G3EI3_LN2</FirstName>
+    <Matiere codeMatiere="G3EI51">17</Matiere>
+    <Matiere codeMatiere="G3EI52">10</Matiere>
+    <Matiere codeMatiere="G3EI53">12</Matiere>
+    <Matiere codeMatiere="G3EI54">18</Matiere>
+    <Matiere codeMatiere="G3EI55">15</Matiere>
+    <Matiere codeMatiere="G3EI56">13.6</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000043</CNE>
+    <LastName>G3EI3_FN3</LastName>
+    <FirstName>G3EI3_LN3</FirstName>
+    <Matiere codeMatiere="G3EI51">16</Matiere>
+    <Matiere codeMatiere="G3EI52">13</Matiere>
+    <Matiere codeMatiere="G3EI53">14</Matiere>
+    <Matiere codeMatiere="G3EI54">4</Matiere>
+    <Matiere codeMatiere="G3EI55">13</Matiere>
+    <Matiere codeMatiere="G3EI56">17.76</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000044</CNE>
+    <LastName>G3EI3_FN4</LastName>
+    <FirstName>G3EI3_LN4</FirstName>
+    <Matiere codeMatiere="G3EI51">13</Matiere>
+    <Matiere codeMatiere="G3EI52">14</Matiere>
+    <Matiere codeMatiere="G3EI53">16</Matiere>
+    <Matiere codeMatiere="G3EI54">5.87</Matiere>
+    <Matiere codeMatiere="G3EI55">18</Matiere>
+    <Matiere codeMatiere="G3EI56">12.98</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000045</CNE>
+    <LastName>G3EI3_FN5</LastName>
+    <FirstName>G3EI3_LN5</FirstName>
+    <Matiere codeMatiere="G3EI51">16</Matiere>
+    <Matiere codeMatiere="G3EI52">17</Matiere>
+    <Matiere codeMatiere="G3EI53">18</Matiere>
+    <Matiere codeMatiere="G3EI54">13</Matiere>
+    <Matiere codeMatiere="G3EI55">15</Matiere>
+    <Matiere codeMatiere="G3EI56">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000046</CNE>
+    <LastName>G3EI3_FN6</LastName>
+    <FirstName>G3EI3_LN6</FirstName>
+    <Matiere codeMatiere="G3EI51">13</Matiere>
+    <Matiere codeMatiere="G3EI52">4</Matiere>
+    <Matiere codeMatiere="G3EI53">12</Matiere>
+    <Matiere codeMatiere="G3EI54">18.65</Matiere>
+    <Matiere codeMatiere="G3EI55">18</Matiere>
+    <Matiere codeMatiere="G3EI56">11.29</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000047</CNE>
+    <LastName>G3EI3_FN7</LastName>
+    <FirstName>G3EI3_LN7</FirstName>
+    <Matiere codeMatiere="G3EI51">17</Matiere>
+    <Matiere codeMatiere="G3EI52">16</Matiere>
+    <Matiere codeMatiere="G3EI53">12</Matiere>
+    <Matiere codeMatiere="G3EI54">10</Matiere>
+    <Matiere codeMatiere="G3EI55">13</Matiere>
+    <Matiere codeMatiere="G3EI56">13.17</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000048</CNE>
+    <LastName>G3EI3_FN8</LastName>
+    <FirstName>G3EI3_LN8</FirstName>
+    <Matiere codeMatiere="G3EI51">13</Matiere>
+    <Matiere codeMatiere="G3EI52">14</Matiere>
+    <Matiere codeMatiere="G3EI53">12</Matiere>
+    <Matiere codeMatiere="G3EI54">12</Matiere>
+    <Matiere codeMatiere="G3EI55">15</Matiere>
+    <Matiere codeMatiere="G3EI56">14.63</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000049</CNE>
+    <LastName>G3EI3_FN9</LastName>
+    <FirstName>G3EI3_LN9</FirstName>
+    <Matiere codeMatiere="G3EI51">16</Matiere>
+    <Matiere codeMatiere="G3EI52">18</Matiere>
+    <Matiere codeMatiere="G3EI53">12</Matiere>
+    <Matiere codeMatiere="G3EI54">15</Matiere>
+    <Matiere codeMatiere="G3EI55">14</Matiere>
+    <Matiere codeMatiere="G3EI56">9</Matiere>
+  </Note>
+  <Note/>
+</Notes>

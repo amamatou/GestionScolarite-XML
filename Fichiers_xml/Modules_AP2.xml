@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>AP31</CodeModule>
+    <ModuleName>MATHS3</ModuleName>
+    <ElementName>ANALYSE3</ElementName>
+    <ElementName>ALGEBRE3</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>EZZINE</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP32</CodeModule>
+    <ModuleName>PHYSIQUE4</ModuleName>
+    <ElementName>Electromagnetisme</ElementName>
+    <ElementName>Electo</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>chahboun</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP33</CodeModule>
+    <ModuleName>MECANIQUE2</ModuleName>
+    <ElementName>Mecanique industrielle</ElementName>
+    <ElementName>mecanique_ind</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>SARSRI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP34</CodeModule>
+    <ModuleName>CHIMIE</ModuleName>
+    <ElementName>Atomistique</ElementName>
+    <ElementName>Chimie Organique</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>TOUHAMI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP35</CodeModule>
+    <ModuleName>LC3</ModuleName>
+    <ElementName>Francais1</ElementName>
+    <ElementName>Activites d'ouverture</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>HARIS</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP36</CodeModule>
+    <ModuleName>MATHS4</ModuleName>
+    <ElementName>Algebre4</ElementName>
+    <ElementName>Analyse4</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>AMAL</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP37</CodeModule>
+    <ModuleName>PYSIQUE5</ModuleName>
+    <ElementName>Electronique</ElementName>
+    <ElementName>instrumentation2</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Britel</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP38</CodeModule>
+    <ModuleName>PYSIQUE5</ModuleName>
+    <ElementName>Thermodynamique</ElementName>
+    <ElementName>instrumentation3</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>FILALI</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>AP39</CodeModule>
+    <ModuleName>INFO1</ModuleName>
+    <ElementName>Programmation C</ElementName>
+    <ElementName>Algorithme</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>ALAMI</Coordinator>
+  </Module>
+</Modules>

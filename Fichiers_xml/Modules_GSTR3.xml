@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Modules.xsd">
+  <Module>
+    <CodeModule>GSTR51</CodeModule>
+    <ModuleName>Reseaux mobiles 2</ModuleName>
+    <ElementName>Signalisation 2G/3G</ElementName>
+    <ElementName>Reseaux mobiles nouvelle generation</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Moussaoui</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR52</CodeModule>
+    <ModuleName>Securite et Interconnexion des Reseaux</ModuleName>
+    <ElementName>Securite des Reseaux</ElementName>
+    <ElementName>Cryptographie</ElementName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Coordinator>Lazaar</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR53</CodeModule>
+    <ModuleName>Telecom 7</ModuleName>
+    <ElementName>Telecom Satellitaires</ElementName>
+    <ElementName>Reseaux de capteurs sans fils</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>Chahboun A.</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR54</CodeModule>
+    <ModuleName>Info 3</ModuleName>
+    <ElementName>Fouille de donnees</ElementName>
+    <ElementName>Developpement mobile</ElementName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Coordinator>Lyhyaoui</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR55</CodeModule>
+    <ModuleName>Telecom 8</ModuleName>
+    <ElementName>Projets Telecom</ElementName>
+    <ElementName>TP Telecom 3</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Oualkadi</Coordinator>
+  </Module>
+  <Module>
+    <CodeModule>GSTR56</CodeModule>
+    <ModuleName>Management de l'entreprise 3</ModuleName>
+    <ElementName>Entreprenariat&amp;GRH</ElementName>
+    <ElementName>Simulation d'entretien d'embauche et ethique de l'ingenieur</ElementName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Coordinator>El Oualkadi</Coordinator>
+  </Module>
+</Modules>
