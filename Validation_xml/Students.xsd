@@ -16,8 +16,15 @@ elementFormDefault="qualified">
               </xs:restriction>
             </xs:simpleType>
           </xs:element>
-          <xs:element name="FirstName" type="xs:string"/>
+          <xs:element name="FirstName">
+          <xs:simpleType>
+              <xs:restriction base="xs:string">
+                <xs:pattern value="[A-Z]([aA-zZ\s*])*"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:element>
           <xs:element name="DateofBirth" type="xs:date"/>
+          <xs:element name="ClasseName" type="xs:string"/>
           <xs:element name="Phone" type="xs:string"/>
           <xs:element name="Email" type="xs:string"/>
         </xs:sequence>

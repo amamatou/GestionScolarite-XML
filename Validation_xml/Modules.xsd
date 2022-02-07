@@ -2,17 +2,17 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
 elementFormDefault="qualified">
 
-<xs:element name="modules">
+<xs:element name="Modules">
    <xs:complexType>
      <xs:sequence>
-      <xs:element name="module" maxOccurs="12" minOccurs="12">
+      <xs:element name="Module" maxOccurs="12" minOccurs="6">
        <xs:complexType>
         <xs:sequence>
-          <xs:element name="Code" type="xs:string"/>
-          <xs:element name="Name" type="xs:string"/>
-          <xs:element name="chefModule" type="xs:string"/>
+          <xs:element name="CodeModule" type="xs:string"/>
+          <xs:element name="ModuleName" type="xs:string"/>
           <xs:element name="ElementName" type="xs:string" maxOccurs="3" minOccurs="1"/>
           <xs:element name="Dept_Attachement" type="xs:string"/>
+          <xs:element name="Coordinator" type="xs:string"/>
         </xs:sequence>
        </xs:complexType>
     </xs:element>
