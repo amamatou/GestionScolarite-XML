@@ -1,143 +1,703 @@
 <?xml version="1.0"?>
 <Notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Notes.xsd">
   <Note>
-    <CNE>19000041</CNE>
-    <LastName>G3EI1_LN1</LastName>
-    <FirstName>G3EI1_FN1</FirstName>
-    <Matiere codeMatiere="G3EI111">11</Matiere>
-    <Matiere codeMatiere="G3EI112">14</Matiere>
-    <Matiere codeMatiere="G3EI113">19.32</Matiere>
-    <Matiere codeMatiere="G3EI114">11.68</Matiere>
-    <Matiere codeMatiere="G3EI115">10.73</Matiere>
-    <Matiere codeMatiere="G3EI116">15.06</Matiere>
-    <Matiere codeMatiere="G3EI121">17.56</Matiere>
-    <Matiere codeMatiere="G3EI122">10</Matiere>
-    <Matiere codeMatiere="G3EI123">13.84</Matiere>
+    <CNE>19000201</CNE>
+    <LastName>John Barrett</LastName>
+    <FirstName>Aquila Willis</FirstName>
+    <Matiere codeMatiere="G3EI11">18</Matiere>
+    <Matiere codeMatiere="G3EI12">12</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">11</Matiere>
+    <Matiere codeMatiere="G3EI15">19</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">7</Matiere>
+    <Matiere codeMatiere="G3EI18">14</Matiere>
+    <Matiere codeMatiere="G3EI19">11</Matiere>
   </Note>
   <Note>
-    <CNE>19000042</CNE>
-    <LastName>G3EI1_LN2</LastName>
-    <FirstName>G3EI1_FN2</FirstName>
-    <Matiere codeMatiere="G3EI111">16.5</Matiere>
-    <Matiere codeMatiere="G3EI112">17</Matiere>
-    <Matiere codeMatiere="G3EI113">19.65</Matiere>
-    <Matiere codeMatiere="G3EI114">10</Matiere>
-    <Matiere codeMatiere="G3EI115">18.7</Matiere>
-    <Matiere codeMatiere="G3EI116">15.13</Matiere>
-    <Matiere codeMatiere="G3EI121">10.99</Matiere>
-    <Matiere codeMatiere="G3EI122">12.11</Matiere>
-    <Matiere codeMatiere="G3EI123">9.96</Matiere>
+    <CNE>19000202</CNE>
+    <LastName>Chadwick Haynes</LastName>
+    <FirstName>Blossom Henry</FirstName>
+    <Matiere codeMatiere="G3EI11">11</Matiere>
+    <Matiere codeMatiere="G3EI12">12</Matiere>
+    <Matiere codeMatiere="G3EI13">11</Matiere>
+    <Matiere codeMatiere="G3EI14">18</Matiere>
+    <Matiere codeMatiere="G3EI15">13</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">17</Matiere>
+    <Matiere codeMatiere="G3EI18">9</Matiere>
+    <Matiere codeMatiere="G3EI19">12</Matiere>
   </Note>
   <Note>
-    <CNE>19000043</CNE>
-    <LastName>G3EI1_LN3</LastName>
-    <FirstName>G3EI1_FN3</FirstName>
-    <Matiere codeMatiere="G3EI111">18.65</Matiere>
-    <Matiere codeMatiere="G3EI112">12</Matiere>
-    <Matiere codeMatiere="G3EI113">12.39</Matiere>
-    <Matiere codeMatiere="G3EI114">10.52</Matiere>
-    <Matiere codeMatiere="G3EI115">12.26</Matiere>
-    <Matiere codeMatiere="G3EI116">15.77</Matiere>
-    <Matiere codeMatiere="G3EI121">19.45</Matiere>
-    <Matiere codeMatiere="G3EI122">18.89</Matiere>
-    <Matiere codeMatiere="G3EI123">10</Matiere>
+    <CNE>19000203</CNE>
+    <LastName>Channing Gregory</LastName>
+    <FirstName>Nevada Mullins</FirstName>
+    <Matiere codeMatiere="G3EI11">16</Matiere>
+    <Matiere codeMatiere="G3EI12">14</Matiere>
+    <Matiere codeMatiere="G3EI13">10</Matiere>
+    <Matiere codeMatiere="G3EI14">16</Matiere>
+    <Matiere codeMatiere="G3EI15">12</Matiere>
+    <Matiere codeMatiere="G3EI16">14</Matiere>
+    <Matiere codeMatiere="G3EI17">19</Matiere>
+    <Matiere codeMatiere="G3EI18">11</Matiere>
+    <Matiere codeMatiere="G3EI19">12</Matiere>
   </Note>
   <Note>
-    <CNE>19000044</CNE>
-    <LastName>G3EI1_LN4</LastName>
-    <FirstName>G3EI1_FN4</FirstName>
-    <Matiere codeMatiere="G3EI111">10</Matiere>
-    <Matiere codeMatiere="G3EI112">18</Matiere>
-    <Matiere codeMatiere="G3EI113">13.09</Matiere>
-    <Matiere codeMatiere="G3EI114">17.56</Matiere>
-    <Matiere codeMatiere="G3EI115">11.26</Matiere>
-    <Matiere codeMatiere="G3EI116">16.26</Matiere>
-    <Matiere codeMatiere="G3EI121">12.91</Matiere>
-    <Matiere codeMatiere="G3EI122">14.16</Matiere>
-    <Matiere codeMatiere="G3EI123">13.34</Matiere>
+    <CNE>19000204</CNE>
+    <LastName>Sheila Baxter</LastName>
+    <FirstName>Chanda Brooks</FirstName>
+    <Matiere codeMatiere="G3EI11">12</Matiere>
+    <Matiere codeMatiere="G3EI12">18</Matiere>
+    <Matiere codeMatiere="G3EI13">13</Matiere>
+    <Matiere codeMatiere="G3EI14">12</Matiere>
+    <Matiere codeMatiere="G3EI15">16</Matiere>
+    <Matiere codeMatiere="G3EI16">16</Matiere>
+    <Matiere codeMatiere="G3EI17">9</Matiere>
+    <Matiere codeMatiere="G3EI18">10</Matiere>
+    <Matiere codeMatiere="G3EI19">19</Matiere>
   </Note>
   <Note>
-    <CNE>19000045</CNE>
-    <LastName>G3EI1_LN5</LastName>
-    <FirstName>G3EI1_FN5</FirstName>
-    <Matiere codeMatiere="G3EI111">13.89</Matiere>
-    <Matiere codeMatiere="G3EI112">10</Matiere>
-    <Matiere codeMatiere="G3EI113">17.88</Matiere>
-    <Matiere codeMatiere="G3EI114">17.66</Matiere>
-    <Matiere codeMatiere="G3EI115">10.67</Matiere>
-    <Matiere codeMatiere="G3EI116">16.66</Matiere>
-    <Matiere codeMatiere="G3EI121">18.24</Matiere>
-    <Matiere codeMatiere="G3EI122">17.93</Matiere>
-    <Matiere codeMatiere="G3EI123">15.91</Matiere>
+    <CNE>19000205</CNE>
+    <LastName>Aurelia Carney</LastName>
+    <FirstName>Ignatius Cooper</FirstName>
+    <Matiere codeMatiere="G3EI11">12</Matiere>
+    <Matiere codeMatiere="G3EI12">12</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">16</Matiere>
+    <Matiere codeMatiere="G3EI15">18</Matiere>
+    <Matiere codeMatiere="G3EI16">10</Matiere>
+    <Matiere codeMatiere="G3EI17">10</Matiere>
+    <Matiere codeMatiere="G3EI18">10</Matiere>
+    <Matiere codeMatiere="G3EI19">10</Matiere>
   </Note>
   <Note>
-    <CNE>19000046</CNE>
-    <LastName>G3EI1_LN6</LastName>
-    <FirstName>G3EI1_FN6</FirstName>
-    <Matiere codeMatiere="G3EI111">10</Matiere>
-    <Matiere codeMatiere="G3EI112">16</Matiere>
-    <Matiere codeMatiere="G3EI113">9.87</Matiere>
-    <Matiere codeMatiere="G3EI114">14.74</Matiere>
-    <Matiere codeMatiere="G3EI115">10</Matiere>
-    <Matiere codeMatiere="G3EI116">11.85</Matiere>
-    <Matiere codeMatiere="G3EI121">12.21</Matiere>
-    <Matiere codeMatiere="G3EI122">16.71</Matiere>
-    <Matiere codeMatiere="G3EI123">11.29</Matiere>
+    <CNE>19000206</CNE>
+    <LastName>Phillip Hardin</LastName>
+    <FirstName>Wilma Mayer</FirstName>
+    <Matiere codeMatiere="G3EI11">12</Matiere>
+    <Matiere codeMatiere="G3EI12">9</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">17</Matiere>
+    <Matiere codeMatiere="G3EI15">9</Matiere>
+    <Matiere codeMatiere="G3EI16">17</Matiere>
+    <Matiere codeMatiere="G3EI17">15</Matiere>
+    <Matiere codeMatiere="G3EI18">14</Matiere>
+    <Matiere codeMatiere="G3EI19">19</Matiere>
   </Note>
   <Note>
-    <CNE>19000047</CNE>
-    <LastName>G3EI1_LN7</LastName>
-    <FirstName>G3EI1_FN7</FirstName>
-    <Matiere codeMatiere="G3EI111">10</Matiere>
-    <Matiere codeMatiere="G3EI112">10</Matiere>
-    <Matiere codeMatiere="G3EI113">13.82</Matiere>
-    <Matiere codeMatiere="G3EI114">12.86</Matiere>
-    <Matiere codeMatiere="G3EI115">12.72</Matiere>
-    <Matiere codeMatiere="G3EI116">14.11</Matiere>
-    <Matiere codeMatiere="G3EI121">13.87</Matiere>
-    <Matiere codeMatiere="G3EI122">12.78</Matiere>
-    <Matiere codeMatiere="G3EI123">13.17</Matiere>
+    <CNE>19000207</CNE>
+    <LastName>Cody Solomon</LastName>
+    <FirstName>Blythe Pitts</FirstName>
+    <Matiere codeMatiere="G3EI11">19</Matiere>
+    <Matiere codeMatiere="G3EI12">10</Matiere>
+    <Matiere codeMatiere="G3EI13">10</Matiere>
+    <Matiere codeMatiere="G3EI14">14</Matiere>
+    <Matiere codeMatiere="G3EI15">9</Matiere>
+    <Matiere codeMatiere="G3EI16">13</Matiere>
+    <Matiere codeMatiere="G3EI17">16</Matiere>
+    <Matiere codeMatiere="G3EI18">10</Matiere>
+    <Matiere codeMatiere="G3EI19">14</Matiere>
   </Note>
   <Note>
-    <CNE>19000048</CNE>
-    <LastName>G3EI1_LN8</LastName>
-    <FirstName>G3EI1_FN8</FirstName>
-    <Matiere codeMatiere="G3EI111">12</Matiere>
-    <Matiere codeMatiere="G3EI112">8.98</Matiere>
-    <Matiere codeMatiere="G3EI113">12</Matiere>
-    <Matiere codeMatiere="G3EI114">16.51</Matiere>
-    <Matiere codeMatiere="G3EI115">18.84</Matiere>
-    <Matiere codeMatiere="G3EI116">13.45</Matiere>
-    <Matiere codeMatiere="G3EI121">16.75</Matiere>
-    <Matiere codeMatiere="G3EI122">12.07</Matiere>
-    <Matiere codeMatiere="G3EI123">14.63</Matiere>
+    <CNE>19000208</CNE>
+    <LastName>Bruno Ruiz</LastName>
+    <FirstName>Leonard Gilmore</FirstName>
+    <Matiere codeMatiere="G3EI11">9</Matiere>
+    <Matiere codeMatiere="G3EI12">12</Matiere>
+    <Matiere codeMatiere="G3EI13">9</Matiere>
+    <Matiere codeMatiere="G3EI14">18</Matiere>
+    <Matiere codeMatiere="G3EI15">18</Matiere>
+    <Matiere codeMatiere="G3EI16">13</Matiere>
+    <Matiere codeMatiere="G3EI17">16</Matiere>
+    <Matiere codeMatiere="G3EI18">12</Matiere>
+    <Matiere codeMatiere="G3EI19">12</Matiere>
   </Note>
   <Note>
-    <CNE>19000049</CNE>
-    <LastName>G3EI1_LN9</LastName>
-    <FirstName>G3EI1_FN9</FirstName>
-    <Matiere codeMatiere="G3EI111">12</Matiere>
-    <Matiere codeMatiere="G3EI112">13</Matiere>
-    <Matiere codeMatiere="G3EI113">15.78</Matiere>
-    <Matiere codeMatiere="G3EI114">17.15</Matiere>
-    <Matiere codeMatiere="G3EI115">10.95</Matiere>
-    <Matiere codeMatiere="G3EI116">17.83</Matiere>
-    <Matiere codeMatiere="G3EI121">14.99</Matiere>
-    <Matiere codeMatiere="G3EI122">12.65</Matiere>
-    <Matiere codeMatiere="G3EI123">14.02</Matiere>
+    <CNE>19000209</CNE>
+    <LastName>Nasim Dalton</LastName>
+    <FirstName>Akeem Reed</FirstName>
+    <Matiere codeMatiere="G3EI11">18</Matiere>
+    <Matiere codeMatiere="G3EI12">11</Matiere>
+    <Matiere codeMatiere="G3EI13">11</Matiere>
+    <Matiere codeMatiere="G3EI14">12</Matiere>
+    <Matiere codeMatiere="G3EI15">11</Matiere>
+    <Matiere codeMatiere="G3EI16">14</Matiere>
+    <Matiere codeMatiere="G3EI17">16</Matiere>
+    <Matiere codeMatiere="G3EI18">10</Matiere>
+    <Matiere codeMatiere="G3EI19">13</Matiere>
   </Note>
   <Note>
-    <CNE>19000050</CNE>
-    <LastName>G3EI1_LN10</LastName>
-    <FirstName>G3EI1_FN10</FirstName>
-    <Matiere codeMatiere="G3EI111">12</Matiere>
-    <Matiere codeMatiere="G3EI112">12</Matiere>
-    <Matiere codeMatiere="G3EI113">18.55</Matiere>
-    <Matiere codeMatiere="G3EI114">11.85</Matiere>
-    <Matiere codeMatiere="G3EI115">11.39</Matiere>
-    <Matiere codeMatiere="G3EI116">10</Matiere>
-    <Matiere codeMatiere="G3EI121">10.82</Matiere>
-    <Matiere codeMatiere="G3EI122">10</Matiere>
-    <Matiere codeMatiere="G3EI123">17.68</Matiere>
+    <CNE>19000210</CNE>
+    <LastName>Bell Delacruz</LastName>
+    <FirstName>Patrick Benjamin</FirstName>
+    <Matiere codeMatiere="G3EI11">10</Matiere>
+    <Matiere codeMatiere="G3EI12">16</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">16</Matiere>
+    <Matiere codeMatiere="G3EI15">12</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">11</Matiere>
+    <Matiere codeMatiere="G3EI18">10</Matiere>
+    <Matiere codeMatiere="G3EI19">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000211</CNE>
+    <LastName>Ray Willis</LastName>
+    <FirstName>Porter Hall</FirstName>
+    <Matiere codeMatiere="G3EI11">17</Matiere>
+    <Matiere codeMatiere="G3EI12">14</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">16</Matiere>
+    <Matiere codeMatiere="G3EI15">11</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">8</Matiere>
+    <Matiere codeMatiere="G3EI18">16</Matiere>
+    <Matiere codeMatiere="G3EI19">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000212</CNE>
+    <LastName>Tanek Terrell</LastName>
+    <FirstName>Ria Daniels</FirstName>
+    <Matiere codeMatiere="G3EI11">8</Matiere>
+    <Matiere codeMatiere="G3EI12">19</Matiere>
+    <Matiere codeMatiere="G3EI13">9</Matiere>
+    <Matiere codeMatiere="G3EI14">18</Matiere>
+    <Matiere codeMatiere="G3EI15">17</Matiere>
+    <Matiere codeMatiere="G3EI16">10</Matiere>
+    <Matiere codeMatiere="G3EI17">9</Matiere>
+    <Matiere codeMatiere="G3EI18">12</Matiere>
+    <Matiere codeMatiere="G3EI19">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000213</CNE>
+    <LastName>Lana Henson</LastName>
+    <FirstName>Lane Dodson</FirstName>
+    <Matiere codeMatiere="G3EI11">10</Matiere>
+    <Matiere codeMatiere="G3EI12">19</Matiere>
+    <Matiere codeMatiere="G3EI13">11</Matiere>
+    <Matiere codeMatiere="G3EI14">17</Matiere>
+    <Matiere codeMatiere="G3EI15">15</Matiere>
+    <Matiere codeMatiere="G3EI16">9</Matiere>
+    <Matiere codeMatiere="G3EI17">12</Matiere>
+    <Matiere codeMatiere="G3EI18">16</Matiere>
+    <Matiere codeMatiere="G3EI19">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000214</CNE>
+    <LastName>Cora West</LastName>
+    <FirstName>Erin Chambers</FirstName>
+    <Matiere codeMatiere="G3EI11">8</Matiere>
+    <Matiere codeMatiere="G3EI12">12</Matiere>
+    <Matiere codeMatiere="G3EI13">14</Matiere>
+    <Matiere codeMatiere="G3EI14">17</Matiere>
+    <Matiere codeMatiere="G3EI15">9</Matiere>
+    <Matiere codeMatiere="G3EI16">15</Matiere>
+    <Matiere codeMatiere="G3EI17">11</Matiere>
+    <Matiere codeMatiere="G3EI18">14</Matiere>
+    <Matiere codeMatiere="G3EI19">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000215</CNE>
+    <LastName>Sydnee Reid</LastName>
+    <FirstName>Hyacinth Fitzgerald</FirstName>
+    <Matiere codeMatiere="G3EI11">19</Matiere>
+    <Matiere codeMatiere="G3EI12">15</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">18</Matiere>
+    <Matiere codeMatiere="G3EI15">12</Matiere>
+    <Matiere codeMatiere="G3EI16">13</Matiere>
+    <Matiere codeMatiere="G3EI17">19</Matiere>
+    <Matiere codeMatiere="G3EI18">9</Matiere>
+    <Matiere codeMatiere="G3EI19">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000216</CNE>
+    <LastName>Isabelle Rhodes</LastName>
+    <FirstName>Jerome Cole</FirstName>
+    <Matiere codeMatiere="G3EI11">19</Matiere>
+    <Matiere codeMatiere="G3EI12">12</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">12</Matiere>
+    <Matiere codeMatiere="G3EI15">14</Matiere>
+    <Matiere codeMatiere="G3EI16">16</Matiere>
+    <Matiere codeMatiere="G3EI17">11</Matiere>
+    <Matiere codeMatiere="G3EI18">13</Matiere>
+    <Matiere codeMatiere="G3EI19">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000217</CNE>
+    <LastName>Kiara Rogers</LastName>
+    <FirstName>Bevis Vega</FirstName>
+    <Matiere codeMatiere="G3EI11">9</Matiere>
+    <Matiere codeMatiere="G3EI12">10</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">17</Matiere>
+    <Matiere codeMatiere="G3EI15">12</Matiere>
+    <Matiere codeMatiere="G3EI16">18</Matiere>
+    <Matiere codeMatiere="G3EI17">19</Matiere>
+    <Matiere codeMatiere="G3EI18">11</Matiere>
+    <Matiere codeMatiere="G3EI19">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000218</CNE>
+    <LastName>Tanya Melton</LastName>
+    <FirstName>Cole Case</FirstName>
+    <Matiere codeMatiere="G3EI11">8</Matiere>
+    <Matiere codeMatiere="G3EI12">19</Matiere>
+    <Matiere codeMatiere="G3EI13">15</Matiere>
+    <Matiere codeMatiere="G3EI14">11</Matiere>
+    <Matiere codeMatiere="G3EI15">9</Matiere>
+    <Matiere codeMatiere="G3EI16">15</Matiere>
+    <Matiere codeMatiere="G3EI17">7</Matiere>
+    <Matiere codeMatiere="G3EI18">15</Matiere>
+    <Matiere codeMatiere="G3EI19">15</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000219</CNE>
+    <LastName>Zephania Campbell</LastName>
+    <FirstName>Maris Randolph</FirstName>
+    <Matiere codeMatiere="G3EI11">16</Matiere>
+    <Matiere codeMatiere="G3EI12">15</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">18</Matiere>
+    <Matiere codeMatiere="G3EI15">12</Matiere>
+    <Matiere codeMatiere="G3EI16">16</Matiere>
+    <Matiere codeMatiere="G3EI17">12</Matiere>
+    <Matiere codeMatiere="G3EI18">9</Matiere>
+    <Matiere codeMatiere="G3EI19">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000220</CNE>
+    <LastName>Willa Alvarez</LastName>
+    <FirstName>Sawyer Saunders</FirstName>
+    <Matiere codeMatiere="G3EI11">18</Matiere>
+    <Matiere codeMatiere="G3EI12">15</Matiere>
+    <Matiere codeMatiere="G3EI13">14</Matiere>
+    <Matiere codeMatiere="G3EI14">15</Matiere>
+    <Matiere codeMatiere="G3EI15">8</Matiere>
+    <Matiere codeMatiere="G3EI16">17</Matiere>
+    <Matiere codeMatiere="G3EI17">7</Matiere>
+    <Matiere codeMatiere="G3EI18">14</Matiere>
+    <Matiere codeMatiere="G3EI19">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000221</CNE>
+    <LastName>Louis James</LastName>
+    <FirstName>Edward Nunez</FirstName>
+    <Matiere codeMatiere="G3EI11">12</Matiere>
+    <Matiere codeMatiere="G3EI12">8</Matiere>
+    <Matiere codeMatiere="G3EI13">14</Matiere>
+    <Matiere codeMatiere="G3EI14">12</Matiere>
+    <Matiere codeMatiere="G3EI15">15</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">9</Matiere>
+    <Matiere codeMatiere="G3EI18">17</Matiere>
+    <Matiere codeMatiere="G3EI19">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000222</CNE>
+    <LastName>Lucian Justice</LastName>
+    <FirstName>Bernard Wilcox</FirstName>
+    <Matiere codeMatiere="G3EI11">9</Matiere>
+    <Matiere codeMatiere="G3EI12">18</Matiere>
+    <Matiere codeMatiere="G3EI13">13</Matiere>
+    <Matiere codeMatiere="G3EI14">12</Matiere>
+    <Matiere codeMatiere="G3EI15">15</Matiere>
+    <Matiere codeMatiere="G3EI16">11</Matiere>
+    <Matiere codeMatiere="G3EI17">12</Matiere>
+    <Matiere codeMatiere="G3EI18">18</Matiere>
+    <Matiere codeMatiere="G3EI19">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000223</CNE>
+    <LastName>Rhiannon Small</LastName>
+    <FirstName>Rudyard Soto</FirstName>
+    <Matiere codeMatiere="G3EI11">8</Matiere>
+    <Matiere codeMatiere="G3EI12">7</Matiere>
+    <Matiere codeMatiere="G3EI13">9</Matiere>
+    <Matiere codeMatiere="G3EI14">11</Matiere>
+    <Matiere codeMatiere="G3EI15">7</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">17</Matiere>
+    <Matiere codeMatiere="G3EI18">16</Matiere>
+    <Matiere codeMatiere="G3EI19">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000224</CNE>
+    <LastName>Owen Mcpherson</LastName>
+    <FirstName>Bryar Whitley</FirstName>
+    <Matiere codeMatiere="G3EI11">8</Matiere>
+    <Matiere codeMatiere="G3EI12">13</Matiere>
+    <Matiere codeMatiere="G3EI13">11</Matiere>
+    <Matiere codeMatiere="G3EI14">14</Matiere>
+    <Matiere codeMatiere="G3EI15">16</Matiere>
+    <Matiere codeMatiere="G3EI16">10</Matiere>
+    <Matiere codeMatiere="G3EI17">8</Matiere>
+    <Matiere codeMatiere="G3EI18">17</Matiere>
+    <Matiere codeMatiere="G3EI19">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000225</CNE>
+    <LastName>Maile Hayden</LastName>
+    <FirstName>Rashad Ramsey</FirstName>
+    <Matiere codeMatiere="G3EI11">13</Matiere>
+    <Matiere codeMatiere="G3EI12">10</Matiere>
+    <Matiere codeMatiere="G3EI13">14</Matiere>
+    <Matiere codeMatiere="G3EI14">16</Matiere>
+    <Matiere codeMatiere="G3EI15">17</Matiere>
+    <Matiere codeMatiere="G3EI16">7</Matiere>
+    <Matiere codeMatiere="G3EI17">8</Matiere>
+    <Matiere codeMatiere="G3EI18">14</Matiere>
+    <Matiere codeMatiere="G3EI19">13</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000226</CNE>
+    <LastName>Ciaran Flowers</LastName>
+    <FirstName>Ella Wilcox</FirstName>
+    <Matiere codeMatiere="G3EI11">12</Matiere>
+    <Matiere codeMatiere="G3EI12">5</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">17</Matiere>
+    <Matiere codeMatiere="G3EI15">19</Matiere>
+    <Matiere codeMatiere="G3EI16">10</Matiere>
+    <Matiere codeMatiere="G3EI17">11</Matiere>
+    <Matiere codeMatiere="G3EI18">13</Matiere>
+    <Matiere codeMatiere="G3EI19">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000227</CNE>
+    <LastName>Oleg Bruce</LastName>
+    <FirstName>Colin Collier</FirstName>
+    <Matiere codeMatiere="G3EI11">18</Matiere>
+    <Matiere codeMatiere="G3EI12">19</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">18</Matiere>
+    <Matiere codeMatiere="G3EI15">15</Matiere>
+    <Matiere codeMatiere="G3EI16">9</Matiere>
+    <Matiere codeMatiere="G3EI17">16</Matiere>
+    <Matiere codeMatiere="G3EI18">12</Matiere>
+    <Matiere codeMatiere="G3EI19">19</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000228</CNE>
+    <LastName>Conan Bradshaw</LastName>
+    <FirstName>Alisa Dawson</FirstName>
+    <Matiere codeMatiere="G3EI11">19</Matiere>
+    <Matiere codeMatiere="G3EI12">17</Matiere>
+    <Matiere codeMatiere="G3EI13">14</Matiere>
+    <Matiere codeMatiere="G3EI14">12</Matiere>
+    <Matiere codeMatiere="G3EI15">14</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">11</Matiere>
+    <Matiere codeMatiere="G3EI18">16</Matiere>
+    <Matiere codeMatiere="G3EI19">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000229</CNE>
+    <LastName>Destiny Landry</LastName>
+    <FirstName>Lane Burt</FirstName>
+    <Matiere codeMatiere="G3EI11">17</Matiere>
+    <Matiere codeMatiere="G3EI12">20</Matiere>
+    <Matiere codeMatiere="G3EI13">13</Matiere>
+    <Matiere codeMatiere="G3EI14">17</Matiere>
+    <Matiere codeMatiere="G3EI15">15</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">17</Matiere>
+    <Matiere codeMatiere="G3EI18">11</Matiere>
+    <Matiere codeMatiere="G3EI19">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000230</CNE>
+    <LastName>Leandra Faulkner</LastName>
+    <FirstName>Raymond Weber</FirstName>
+    <Matiere codeMatiere="G3EI11">12</Matiere>
+    <Matiere codeMatiere="G3EI12">19</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">13</Matiere>
+    <Matiere codeMatiere="G3EI15">18</Matiere>
+    <Matiere codeMatiere="G3EI16">10</Matiere>
+    <Matiere codeMatiere="G3EI17">7</Matiere>
+    <Matiere codeMatiere="G3EI18">12</Matiere>
+    <Matiere codeMatiere="G3EI19">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000231</CNE>
+    <LastName>Maryam Richards</LastName>
+    <FirstName>Ursula Morrison</FirstName>
+    <Matiere codeMatiere="G3EI11">18</Matiere>
+    <Matiere codeMatiere="G3EI12">12</Matiere>
+    <Matiere codeMatiere="G3EI13">10</Matiere>
+    <Matiere codeMatiere="G3EI14">18</Matiere>
+    <Matiere codeMatiere="G3EI15">15</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">16</Matiere>
+    <Matiere codeMatiere="G3EI18">8</Matiere>
+    <Matiere codeMatiere="G3EI19">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000232</CNE>
+    <LastName>Odessa Jenkins</LastName>
+    <FirstName>Hakeem Cooper</FirstName>
+    <Matiere codeMatiere="G3EI11">15</Matiere>
+    <Matiere codeMatiere="G3EI12">15</Matiere>
+    <Matiere codeMatiere="G3EI13">8</Matiere>
+    <Matiere codeMatiere="G3EI14">17</Matiere>
+    <Matiere codeMatiere="G3EI15">18</Matiere>
+    <Matiere codeMatiere="G3EI16">8</Matiere>
+    <Matiere codeMatiere="G3EI17">14</Matiere>
+    <Matiere codeMatiere="G3EI18">12</Matiere>
+    <Matiere codeMatiere="G3EI19">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000233</CNE>
+    <LastName>Isaiah Franklin</LastName>
+    <FirstName>Valentine Bernard</FirstName>
+    <Matiere codeMatiere="G3EI11">12</Matiere>
+    <Matiere codeMatiere="G3EI12">8</Matiere>
+    <Matiere codeMatiere="G3EI13">11</Matiere>
+    <Matiere codeMatiere="G3EI14">15</Matiere>
+    <Matiere codeMatiere="G3EI15">15</Matiere>
+    <Matiere codeMatiere="G3EI16">14</Matiere>
+    <Matiere codeMatiere="G3EI17">6</Matiere>
+    <Matiere codeMatiere="G3EI18">15</Matiere>
+    <Matiere codeMatiere="G3EI19">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000234</CNE>
+    <LastName>Marvin Wilkinson</LastName>
+    <FirstName>Cassady Erickson</FirstName>
+    <Matiere codeMatiere="G3EI11">9</Matiere>
+    <Matiere codeMatiere="G3EI12">8</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">17</Matiere>
+    <Matiere codeMatiere="G3EI15">15</Matiere>
+    <Matiere codeMatiere="G3EI16">18</Matiere>
+    <Matiere codeMatiere="G3EI17">11</Matiere>
+    <Matiere codeMatiere="G3EI18">17</Matiere>
+    <Matiere codeMatiere="G3EI19">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000235</CNE>
+    <LastName>Jelani Ford</LastName>
+    <FirstName>Yuri Wilkerson</FirstName>
+    <Matiere codeMatiere="G3EI11">19</Matiere>
+    <Matiere codeMatiere="G3EI12">20</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">13</Matiere>
+    <Matiere codeMatiere="G3EI15">15</Matiere>
+    <Matiere codeMatiere="G3EI16">17</Matiere>
+    <Matiere codeMatiere="G3EI17">13</Matiere>
+    <Matiere codeMatiere="G3EI18">11</Matiere>
+    <Matiere codeMatiere="G3EI19">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000236</CNE>
+    <LastName>Veronica Rich</LastName>
+    <FirstName>Cara Kaufman</FirstName>
+    <Matiere codeMatiere="G3EI11">14</Matiere>
+    <Matiere codeMatiere="G3EI12">20</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">15</Matiere>
+    <Matiere codeMatiere="G3EI15">11</Matiere>
+    <Matiere codeMatiere="G3EI16">14</Matiere>
+    <Matiere codeMatiere="G3EI17">11</Matiere>
+    <Matiere codeMatiere="G3EI18">12</Matiere>
+    <Matiere codeMatiere="G3EI19">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000237</CNE>
+    <LastName>Vance Boyle</LastName>
+    <FirstName>Noelani Bernard</FirstName>
+    <Matiere codeMatiere="G3EI11">14</Matiere>
+    <Matiere codeMatiere="G3EI12">18</Matiere>
+    <Matiere codeMatiere="G3EI13">10</Matiere>
+    <Matiere codeMatiere="G3EI14">12</Matiere>
+    <Matiere codeMatiere="G3EI15">12</Matiere>
+    <Matiere codeMatiere="G3EI16">9</Matiere>
+    <Matiere codeMatiere="G3EI17">19</Matiere>
+    <Matiere codeMatiere="G3EI18">16</Matiere>
+    <Matiere codeMatiere="G3EI19">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000238</CNE>
+    <LastName>Shad Wilson</LastName>
+    <FirstName>Holmes Baird</FirstName>
+    <Matiere codeMatiere="G3EI11">13</Matiere>
+    <Matiere codeMatiere="G3EI12">19</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">18</Matiere>
+    <Matiere codeMatiere="G3EI15">15</Matiere>
+    <Matiere codeMatiere="G3EI16">10</Matiere>
+    <Matiere codeMatiere="G3EI17">18</Matiere>
+    <Matiere codeMatiere="G3EI18">13</Matiere>
+    <Matiere codeMatiere="G3EI19">16</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000239</CNE>
+    <LastName>Macy Holcomb</LastName>
+    <FirstName>Nasim Weaver</FirstName>
+    <Matiere codeMatiere="G3EI11">8</Matiere>
+    <Matiere codeMatiere="G3EI12">15</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">16</Matiere>
+    <Matiere codeMatiere="G3EI15">12</Matiere>
+    <Matiere codeMatiere="G3EI16">16</Matiere>
+    <Matiere codeMatiere="G3EI17">9</Matiere>
+    <Matiere codeMatiere="G3EI18">10</Matiere>
+    <Matiere codeMatiere="G3EI19">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000240</CNE>
+    <LastName>Cody Atkins</LastName>
+    <FirstName>Xenos Stout</FirstName>
+    <Matiere codeMatiere="G3EI11">14</Matiere>
+    <Matiere codeMatiere="G3EI12">13</Matiere>
+    <Matiere codeMatiere="G3EI13">11</Matiere>
+    <Matiere codeMatiere="G3EI14">12</Matiere>
+    <Matiere codeMatiere="G3EI15">19</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">8</Matiere>
+    <Matiere codeMatiere="G3EI18">7</Matiere>
+    <Matiere codeMatiere="G3EI19">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000241</CNE>
+    <LastName>Devin Mack</LastName>
+    <FirstName>MacKenzie Chase</FirstName>
+    <Matiere codeMatiere="G3EI11">9</Matiere>
+    <Matiere codeMatiere="G3EI12">15</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">18</Matiere>
+    <Matiere codeMatiere="G3EI15">12</Matiere>
+    <Matiere codeMatiere="G3EI16">15</Matiere>
+    <Matiere codeMatiere="G3EI17">16</Matiere>
+    <Matiere codeMatiere="G3EI18">12</Matiere>
+    <Matiere codeMatiere="G3EI19">19</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000242</CNE>
+    <LastName>Julian Ashley</LastName>
+    <FirstName>Priscilla Booth</FirstName>
+    <Matiere codeMatiere="G3EI11">14</Matiere>
+    <Matiere codeMatiere="G3EI12">8</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">13</Matiere>
+    <Matiere codeMatiere="G3EI15">12</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">10</Matiere>
+    <Matiere codeMatiere="G3EI18">12</Matiere>
+    <Matiere codeMatiere="G3EI19">16</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000243</CNE>
+    <LastName>Sigourney Cervantes</LastName>
+    <FirstName>Wade Santiago</FirstName>
+    <Matiere codeMatiere="G3EI11">7</Matiere>
+    <Matiere codeMatiere="G3EI12">10</Matiere>
+    <Matiere codeMatiere="G3EI13">13</Matiere>
+    <Matiere codeMatiere="G3EI14">16</Matiere>
+    <Matiere codeMatiere="G3EI15">12</Matiere>
+    <Matiere codeMatiere="G3EI16">18</Matiere>
+    <Matiere codeMatiere="G3EI17">8</Matiere>
+    <Matiere codeMatiere="G3EI18">10</Matiere>
+    <Matiere codeMatiere="G3EI19">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000244</CNE>
+    <LastName>Hamish Vaughn</LastName>
+    <FirstName>Serina Bowers</FirstName>
+    <Matiere codeMatiere="G3EI11">13</Matiere>
+    <Matiere codeMatiere="G3EI12">18</Matiere>
+    <Matiere codeMatiere="G3EI13">15</Matiere>
+    <Matiere codeMatiere="G3EI14">11</Matiere>
+    <Matiere codeMatiere="G3EI15">13</Matiere>
+    <Matiere codeMatiere="G3EI16">15</Matiere>
+    <Matiere codeMatiere="G3EI17">8</Matiere>
+    <Matiere codeMatiere="G3EI18">15</Matiere>
+    <Matiere codeMatiere="G3EI19">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000245</CNE>
+    <LastName>Malcolm Glover</LastName>
+    <FirstName>Sonya Soto</FirstName>
+    <Matiere codeMatiere="G3EI11">12</Matiere>
+    <Matiere codeMatiere="G3EI12">12</Matiere>
+    <Matiere codeMatiere="G3EI13">11</Matiere>
+    <Matiere codeMatiere="G3EI14">14</Matiere>
+    <Matiere codeMatiere="G3EI15">10</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">14</Matiere>
+    <Matiere codeMatiere="G3EI18">12</Matiere>
+    <Matiere codeMatiere="G3EI19">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000246</CNE>
+    <LastName>Reed Wiley</LastName>
+    <FirstName>Perry Lamb</FirstName>
+    <Matiere codeMatiere="G3EI11">12</Matiere>
+    <Matiere codeMatiere="G3EI12">14</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">12</Matiere>
+    <Matiere codeMatiere="G3EI15">14</Matiere>
+    <Matiere codeMatiere="G3EI16">10</Matiere>
+    <Matiere codeMatiere="G3EI17">6</Matiere>
+    <Matiere codeMatiere="G3EI18">12</Matiere>
+    <Matiere codeMatiere="G3EI19">19</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000247</CNE>
+    <LastName>Owen Wright</LastName>
+    <FirstName>Imogene House</FirstName>
+    <Matiere codeMatiere="G3EI11">12</Matiere>
+    <Matiere codeMatiere="G3EI12">8</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">13</Matiere>
+    <Matiere codeMatiere="G3EI15">14</Matiere>
+    <Matiere codeMatiere="G3EI16">10</Matiere>
+    <Matiere codeMatiere="G3EI17">19</Matiere>
+    <Matiere codeMatiere="G3EI18">9</Matiere>
+    <Matiere codeMatiere="G3EI19">19</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000248</CNE>
+    <LastName>Ali Simpson</LastName>
+    <FirstName>Zephania Hudson</FirstName>
+    <Matiere codeMatiere="G3EI11">8</Matiere>
+    <Matiere codeMatiere="G3EI12">15</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">14</Matiere>
+    <Matiere codeMatiere="G3EI15">9</Matiere>
+    <Matiere codeMatiere="G3EI16">12</Matiere>
+    <Matiere codeMatiere="G3EI17">8</Matiere>
+    <Matiere codeMatiere="G3EI18">17</Matiere>
+    <Matiere codeMatiere="G3EI19">13</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000249</CNE>
+    <LastName>Elijah Bradley</LastName>
+    <FirstName>Jelani Mcneil</FirstName>
+    <Matiere codeMatiere="G3EI11">10</Matiere>
+    <Matiere codeMatiere="G3EI12">12</Matiere>
+    <Matiere codeMatiere="G3EI13">12</Matiere>
+    <Matiere codeMatiere="G3EI14">17</Matiere>
+    <Matiere codeMatiere="G3EI15">13</Matiere>
+    <Matiere codeMatiere="G3EI16">11</Matiere>
+    <Matiere codeMatiere="G3EI17">6</Matiere>
+    <Matiere codeMatiere="G3EI18">7</Matiere>
+    <Matiere codeMatiere="G3EI19">19</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000250</CNE>
+    <LastName>Rhea Miller</LastName>
+    <FirstName>Athena Cline</FirstName>
+    <Matiere codeMatiere="G3EI11">13</Matiere>
+    <Matiere codeMatiere="G3EI12">12</Matiere>
+    <Matiere codeMatiere="G3EI13">10</Matiere>
+    <Matiere codeMatiere="G3EI14">11</Matiere>
+    <Matiere codeMatiere="G3EI15">11</Matiere>
+    <Matiere codeMatiere="G3EI16">9</Matiere>
+    <Matiere codeMatiere="G3EI17">10</Matiere>
+    <Matiere codeMatiere="G3EI18">17</Matiere>
+    <Matiere codeMatiere="G3EI19">17</Matiere>
   </Note>
 </Notes>

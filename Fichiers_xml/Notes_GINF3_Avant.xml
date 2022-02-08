@@ -1,113 +1,553 @@
 <?xml version="1.0"?>
 <Notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Notes.xsd">
   <Note>
-    <CNE>17000031</CNE>
-    <LastName>Ginf3_LN1</LastName>
-    <FirstName>Ginf3_FN1</FirstName>
-    <Matiere codeMatiere="GINF51">6</Matiere>
-    <Matiere codeMatiere="GINF52">5</Matiere>
+    <CNE>17000151</CNE>
+    <LastName>Ariel Woods</LastName>
+    <FirstName>Jin Patton</FirstName>
+    <Matiere codeMatiere="GINF51">8</Matiere>
+    <Matiere codeMatiere="GINF52">8</Matiere>
     <Matiere codeMatiere="GINF53">11</Matiere>
-    <Matiere codeMatiere="GINF54">14</Matiere>
+    <Matiere codeMatiere="GINF54">13</Matiere>
     <Matiere codeMatiere="GINF55">11</Matiere>
     <Matiere codeMatiere="GINF56">13</Matiere>
   </Note>
   <Note>
-    <CNE>17000032</CNE>
-    <LastName>Ginf3_LN2</LastName>
-    <FirstName>Ginf3_FN2</FirstName>
+    <CNE>17000152</CNE>
+    <LastName>Xaviera Justice</LastName>
+    <FirstName>Bradley Arnold</FirstName>
+    <Matiere codeMatiere="GINF51">18</Matiere>
+    <Matiere codeMatiere="GINF52">8</Matiere>
+    <Matiere codeMatiere="GINF53">14</Matiere>
+    <Matiere codeMatiere="GINF54">17</Matiere>
+    <Matiere codeMatiere="GINF55">16</Matiere>
+    <Matiere codeMatiere="GINF56">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000153</CNE>
+    <LastName>Benjamin Blackwell</LastName>
+    <FirstName>Rae Nixon</FirstName>
     <Matiere codeMatiere="GINF51">20</Matiere>
-    <Matiere codeMatiere="GINF52">17</Matiere>
-    <Matiere codeMatiere="GINF53">20</Matiere>
-    <Matiere codeMatiere="GINF54">20</Matiere>
+    <Matiere codeMatiere="GINF52">11</Matiere>
+    <Matiere codeMatiere="GINF53">14</Matiere>
+    <Matiere codeMatiere="GINF54">12</Matiere>
+    <Matiere codeMatiere="GINF55">8</Matiere>
+    <Matiere codeMatiere="GINF56">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000154</CNE>
+    <LastName>Mason Raymond</LastName>
+    <FirstName>Ivan Rasmussen</FirstName>
+    <Matiere codeMatiere="GINF51">19</Matiere>
+    <Matiere codeMatiere="GINF52">14</Matiere>
+    <Matiere codeMatiere="GINF53">8</Matiere>
+    <Matiere codeMatiere="GINF54">13</Matiere>
+    <Matiere codeMatiere="GINF55">15</Matiere>
+    <Matiere codeMatiere="GINF56">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000155</CNE>
+    <LastName>Brendan Gonzalez</LastName>
+    <FirstName>Debra Ferrell</FirstName>
+    <Matiere codeMatiere="GINF51">15</Matiere>
+    <Matiere codeMatiere="GINF52">5</Matiere>
+    <Matiere codeMatiere="GINF53">7</Matiere>
+    <Matiere codeMatiere="GINF54">11</Matiere>
+    <Matiere codeMatiere="GINF55">8</Matiere>
+    <Matiere codeMatiere="GINF56">16</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000156</CNE>
+    <LastName>Jessica Huber</LastName>
+    <FirstName>Chiquita Lara</FirstName>
+    <Matiere codeMatiere="GINF51">10</Matiere>
+    <Matiere codeMatiere="GINF52">18</Matiere>
+    <Matiere codeMatiere="GINF53">14</Matiere>
+    <Matiere codeMatiere="GINF54">16</Matiere>
+    <Matiere codeMatiere="GINF55">11</Matiere>
+    <Matiere codeMatiere="GINF56">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000157</CNE>
+    <LastName>Melvin Snider</LastName>
+    <FirstName>Keiko Booth</FirstName>
+    <Matiere codeMatiere="GINF51">15</Matiere>
+    <Matiere codeMatiere="GINF52">10</Matiere>
+    <Matiere codeMatiere="GINF53">8</Matiere>
+    <Matiere codeMatiere="GINF54">12</Matiere>
+    <Matiere codeMatiere="GINF55">18</Matiere>
+    <Matiere codeMatiere="GINF56">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000158</CNE>
+    <LastName>Steven Massey</LastName>
+    <FirstName>Nehru Dickerson</FirstName>
+    <Matiere codeMatiere="GINF51">17</Matiere>
+    <Matiere codeMatiere="GINF52">14</Matiere>
+    <Matiere codeMatiere="GINF53">10</Matiere>
+    <Matiere codeMatiere="GINF54">12</Matiere>
+    <Matiere codeMatiere="GINF55">7</Matiere>
+    <Matiere codeMatiere="GINF56">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000159</CNE>
+    <LastName>Darius Gilmore</LastName>
+    <FirstName>Todd Shannon</FirstName>
+    <Matiere codeMatiere="GINF51">18</Matiere>
+    <Matiere codeMatiere="GINF52">10</Matiere>
+    <Matiere codeMatiere="GINF53">10</Matiere>
+    <Matiere codeMatiere="GINF54">17</Matiere>
+    <Matiere codeMatiere="GINF55">12</Matiere>
+    <Matiere codeMatiere="GINF56">13</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000160</CNE>
+    <LastName>Yeo Reed</LastName>
+    <FirstName>Zelenia Mercado</FirstName>
+    <Matiere codeMatiere="GINF51">12</Matiere>
+    <Matiere codeMatiere="GINF52">19</Matiere>
+    <Matiere codeMatiere="GINF53">7</Matiere>
+    <Matiere codeMatiere="GINF54">14</Matiere>
     <Matiere codeMatiere="GINF55">17</Matiere>
+    <Matiere codeMatiere="GINF56">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000161</CNE>
+    <LastName>Flavia Knapp</LastName>
+    <FirstName>Cathleen Wynn</FirstName>
+    <Matiere codeMatiere="GINF51">6</Matiere>
+    <Matiere codeMatiere="GINF52">6</Matiere>
+    <Matiere codeMatiere="GINF53">10</Matiere>
+    <Matiere codeMatiere="GINF54">15</Matiere>
+    <Matiere codeMatiere="GINF55">18</Matiere>
+    <Matiere codeMatiere="GINF56">6</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000162</CNE>
+    <LastName>Halee Meadows</LastName>
+    <FirstName>Benedict Massey</FirstName>
+    <Matiere codeMatiere="GINF51">12</Matiere>
+    <Matiere codeMatiere="GINF52">7</Matiere>
+    <Matiere codeMatiere="GINF53">9</Matiere>
+    <Matiere codeMatiere="GINF54">16</Matiere>
+    <Matiere codeMatiere="GINF55">8</Matiere>
     <Matiere codeMatiere="GINF56">10</Matiere>
   </Note>
   <Note>
-    <CNE>17000033</CNE>
-    <LastName>Ginf3_LN3</LastName>
-    <FirstName>Ginf3_FN3</FirstName>
-    <Matiere codeMatiere="GINF51">9</Matiere>
+    <CNE>17000163</CNE>
+    <LastName>Yeo Guy</LastName>
+    <FirstName>Tad Hardin</FirstName>
+    <Matiere codeMatiere="GINF51">7</Matiere>
     <Matiere codeMatiere="GINF52">13</Matiere>
-    <Matiere codeMatiere="GINF53">16</Matiere>
-    <Matiere codeMatiere="GINF54">14</Matiere>
-    <Matiere codeMatiere="GINF55">9</Matiere>
-    <Matiere codeMatiere="GINF56">15</Matiere>
+    <Matiere codeMatiere="GINF53">14</Matiere>
+    <Matiere codeMatiere="GINF54">11</Matiere>
+    <Matiere codeMatiere="GINF55">15</Matiere>
+    <Matiere codeMatiere="GINF56">16</Matiere>
   </Note>
   <Note>
-    <CNE>17000034</CNE>
-    <LastName>Ginf3_LN4</LastName>
-    <FirstName>Ginf3_FN4</FirstName>
+    <CNE>17000164</CNE>
+    <LastName>Lester Atkinson</LastName>
+    <FirstName>Nehru Reed</FirstName>
     <Matiere codeMatiere="GINF51">12</Matiere>
-    <Matiere codeMatiere="GINF52">8</Matiere>
-    <Matiere codeMatiere="GINF53">14</Matiere>
+    <Matiere codeMatiere="GINF52">18</Matiere>
+    <Matiere codeMatiere="GINF53">11</Matiere>
     <Matiere codeMatiere="GINF54">13</Matiere>
     <Matiere codeMatiere="GINF55">9</Matiere>
     <Matiere codeMatiere="GINF56">16</Matiere>
   </Note>
   <Note>
-    <CNE>17000035</CNE>
-    <LastName>Ginf3_LN5</LastName>
-    <FirstName>Ginf3_FN5</FirstName>
-    <Matiere codeMatiere="GINF51">12</Matiere>
-    <Matiere codeMatiere="GINF52">9</Matiere>
+    <CNE>17000165</CNE>
+    <LastName>Jaden Cash</LastName>
+    <FirstName>Quinn Ross</FirstName>
+    <Matiere codeMatiere="GINF51">10</Matiere>
+    <Matiere codeMatiere="GINF52">6</Matiere>
+    <Matiere codeMatiere="GINF53">10</Matiere>
+    <Matiere codeMatiere="GINF54">15</Matiere>
+    <Matiere codeMatiere="GINF55">19</Matiere>
+    <Matiere codeMatiere="GINF56">15</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000166</CNE>
+    <LastName>Cain Bowers</LastName>
+    <FirstName>Honorato Sanford</FirstName>
+    <Matiere codeMatiere="GINF51">9</Matiere>
+    <Matiere codeMatiere="GINF52">16</Matiere>
     <Matiere codeMatiere="GINF53">12</Matiere>
+    <Matiere codeMatiere="GINF54">15</Matiere>
+    <Matiere codeMatiere="GINF55">17</Matiere>
+    <Matiere codeMatiere="GINF56">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000167</CNE>
+    <LastName>Kennan Tucker</LastName>
+    <FirstName>Boris Merrill</FirstName>
+    <Matiere codeMatiere="GINF51">13</Matiere>
+    <Matiere codeMatiere="GINF52">7</Matiere>
+    <Matiere codeMatiere="GINF53">13</Matiere>
+    <Matiere codeMatiere="GINF54">16</Matiere>
+    <Matiere codeMatiere="GINF55">13</Matiere>
+    <Matiere codeMatiere="GINF56">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000168</CNE>
+    <LastName>Nero Garrison</LastName>
+    <FirstName>Damon Dalton</FirstName>
+    <Matiere codeMatiere="GINF51">15</Matiere>
+    <Matiere codeMatiere="GINF52">17</Matiere>
+    <Matiere codeMatiere="GINF53">10</Matiere>
+    <Matiere codeMatiere="GINF54">11</Matiere>
+    <Matiere codeMatiere="GINF55">14</Matiere>
+    <Matiere codeMatiere="GINF56">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000169</CNE>
+    <LastName>Madonna Cook</LastName>
+    <FirstName>Linus Harrell</FirstName>
+    <Matiere codeMatiere="GINF51">15</Matiere>
+    <Matiere codeMatiere="GINF52">17</Matiere>
+    <Matiere codeMatiere="GINF53">15</Matiere>
+    <Matiere codeMatiere="GINF54">15</Matiere>
+    <Matiere codeMatiere="GINF55">8</Matiere>
+    <Matiere codeMatiere="GINF56">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000170</CNE>
+    <LastName>Nehru Hopkins</LastName>
+    <FirstName>Drew Brady</FirstName>
+    <Matiere codeMatiere="GINF51">10</Matiere>
+    <Matiere codeMatiere="GINF52">16</Matiere>
+    <Matiere codeMatiere="GINF53">13</Matiere>
+    <Matiere codeMatiere="GINF54">12</Matiere>
+    <Matiere codeMatiere="GINF55">13</Matiere>
+    <Matiere codeMatiere="GINF56">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000171</CNE>
+    <LastName>Len Kelley</LastName>
+    <FirstName>Oscar Macdonald</FirstName>
+    <Matiere codeMatiere="GINF51">10</Matiere>
+    <Matiere codeMatiere="GINF52">10</Matiere>
+    <Matiere codeMatiere="GINF53">11</Matiere>
+    <Matiere codeMatiere="GINF54">11</Matiere>
+    <Matiere codeMatiere="GINF55">17</Matiere>
+    <Matiere codeMatiere="GINF56">7</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000172</CNE>
+    <LastName>Darryl Richardson</LastName>
+    <FirstName>Hanae Castaneda</FirstName>
+    <Matiere codeMatiere="GINF51">15</Matiere>
+    <Matiere codeMatiere="GINF52">18</Matiere>
+    <Matiere codeMatiere="GINF53">12</Matiere>
+    <Matiere codeMatiere="GINF54">15</Matiere>
+    <Matiere codeMatiere="GINF55">14</Matiere>
+    <Matiere codeMatiere="GINF56">7</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000173</CNE>
+    <LastName>Hiram Wolfe</LastName>
+    <FirstName>Jackson Berger</FirstName>
+    <Matiere codeMatiere="GINF51">13</Matiere>
+    <Matiere codeMatiere="GINF52">16</Matiere>
+    <Matiere codeMatiere="GINF53">9</Matiere>
+    <Matiere codeMatiere="GINF54">17</Matiere>
+    <Matiere codeMatiere="GINF55">12</Matiere>
+    <Matiere codeMatiere="GINF56">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000174</CNE>
+    <LastName>Indigo O'Neill</LastName>
+    <FirstName>Nero Morrison</FirstName>
+    <Matiere codeMatiere="GINF51">9</Matiere>
+    <Matiere codeMatiere="GINF52">12</Matiere>
+    <Matiere codeMatiere="GINF53">11</Matiere>
+    <Matiere codeMatiere="GINF54">11</Matiere>
+    <Matiere codeMatiere="GINF55">13</Matiere>
+    <Matiere codeMatiere="GINF56">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000175</CNE>
+    <LastName>Cynthia Joseph</LastName>
+    <FirstName>Wyoming Boyle</FirstName>
+    <Matiere codeMatiere="GINF51">14</Matiere>
+    <Matiere codeMatiere="GINF52">13</Matiere>
+    <Matiere codeMatiere="GINF53">13</Matiere>
+    <Matiere codeMatiere="GINF54">14</Matiere>
+    <Matiere codeMatiere="GINF55">7</Matiere>
+    <Matiere codeMatiere="GINF56">6</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000176</CNE>
+    <LastName>Magee Hicks</LastName>
+    <FirstName>Nita Patterson</FirstName>
+    <Matiere codeMatiere="GINF51">18</Matiere>
+    <Matiere codeMatiere="GINF52">10</Matiere>
+    <Matiere codeMatiere="GINF53">13</Matiere>
+    <Matiere codeMatiere="GINF54">17</Matiere>
+    <Matiere codeMatiere="GINF55">9</Matiere>
+    <Matiere codeMatiere="GINF56">16</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000177</CNE>
+    <LastName>Clio Tate</LastName>
+    <FirstName>Burke Guerra</FirstName>
+    <Matiere codeMatiere="GINF51">5</Matiere>
+    <Matiere codeMatiere="GINF52">16</Matiere>
+    <Matiere codeMatiere="GINF53">10</Matiere>
     <Matiere codeMatiere="GINF54">11</Matiere>
     <Matiere codeMatiere="GINF55">12</Matiere>
+    <Matiere codeMatiere="GINF56">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000178</CNE>
+    <LastName>Bernard Hunter</LastName>
+    <FirstName>Alea Ramirez</FirstName>
+    <Matiere codeMatiere="GINF51">10</Matiere>
+    <Matiere codeMatiere="GINF52">12</Matiere>
+    <Matiere codeMatiere="GINF53">13</Matiere>
+    <Matiere codeMatiere="GINF54">15</Matiere>
+    <Matiere codeMatiere="GINF55">17</Matiere>
+    <Matiere codeMatiere="GINF56">6</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000179</CNE>
+    <LastName>Maggie Johnson</LastName>
+    <FirstName>Athena Harrington</FirstName>
+    <Matiere codeMatiere="GINF51">17</Matiere>
+    <Matiere codeMatiere="GINF52">11</Matiere>
+    <Matiere codeMatiere="GINF53">15</Matiere>
+    <Matiere codeMatiere="GINF54">12</Matiere>
+    <Matiere codeMatiere="GINF55">16</Matiere>
+    <Matiere codeMatiere="GINF56">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000180</CNE>
+    <LastName>Travis Kinney</LastName>
+    <FirstName>Yasir Walls</FirstName>
+    <Matiere codeMatiere="GINF51">19</Matiere>
+    <Matiere codeMatiere="GINF52">12</Matiere>
+    <Matiere codeMatiere="GINF53">13</Matiere>
+    <Matiere codeMatiere="GINF54">11</Matiere>
+    <Matiere codeMatiere="GINF55">12</Matiere>
+    <Matiere codeMatiere="GINF56">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000181</CNE>
+    <LastName>Stuart Spencer</LastName>
+    <FirstName>Ebony Maldonado</FirstName>
+    <Matiere codeMatiere="GINF51">6</Matiere>
+    <Matiere codeMatiere="GINF52">11</Matiere>
+    <Matiere codeMatiere="GINF53">14</Matiere>
+    <Matiere codeMatiere="GINF54">16</Matiere>
+    <Matiere codeMatiere="GINF55">15</Matiere>
+    <Matiere codeMatiere="GINF56">6</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000182</CNE>
+    <LastName>Whitney Ayala</LastName>
+    <FirstName>Francis Klein</FirstName>
+    <Matiere codeMatiere="GINF51">20</Matiere>
+    <Matiere codeMatiere="GINF52">7</Matiere>
+    <Matiere codeMatiere="GINF53">7</Matiere>
+    <Matiere codeMatiere="GINF54">18</Matiere>
+    <Matiere codeMatiere="GINF55">18</Matiere>
     <Matiere codeMatiere="GINF56">17</Matiere>
   </Note>
   <Note>
-    <CNE>17000036</CNE>
-    <LastName>Ginf3_LN6</LastName>
-    <FirstName>Ginf3_FN6</FirstName>
-    <Matiere codeMatiere="GINF51">16</Matiere>
-    <Matiere codeMatiere="GINF52">20</Matiere>
-    <Matiere codeMatiere="GINF53">20</Matiere>
+    <CNE>17000183</CNE>
+    <LastName>Deanna Guy</LastName>
+    <FirstName>Arsenio Howe</FirstName>
+    <Matiere codeMatiere="GINF51">19</Matiere>
+    <Matiere codeMatiere="GINF52">16</Matiere>
+    <Matiere codeMatiere="GINF53">15</Matiere>
+    <Matiere codeMatiere="GINF54">17</Matiere>
+    <Matiere codeMatiere="GINF55">7</Matiere>
+    <Matiere codeMatiere="GINF56">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000184</CNE>
+    <LastName>Ishmael Wyatt</LastName>
+    <FirstName>Britanney Mullen</FirstName>
+    <Matiere codeMatiere="GINF51">18</Matiere>
+    <Matiere codeMatiere="GINF52">18</Matiere>
+    <Matiere codeMatiere="GINF53">13</Matiere>
+    <Matiere codeMatiere="GINF54">17</Matiere>
+    <Matiere codeMatiere="GINF55">9</Matiere>
+    <Matiere codeMatiere="GINF56">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000185</CNE>
+    <LastName>Charles Harris</LastName>
+    <FirstName>Jasmine Rasmussen</FirstName>
+    <Matiere codeMatiere="GINF51">18</Matiere>
+    <Matiere codeMatiere="GINF52">12</Matiere>
+    <Matiere codeMatiere="GINF53">8</Matiere>
     <Matiere codeMatiere="GINF54">16</Matiere>
+    <Matiere codeMatiere="GINF55">8</Matiere>
+    <Matiere codeMatiere="GINF56">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000186</CNE>
+    <LastName>Yvette Dawson</LastName>
+    <FirstName>Mary Garner</FirstName>
+    <Matiere codeMatiere="GINF51">16</Matiere>
+    <Matiere codeMatiere="GINF52">18</Matiere>
+    <Matiere codeMatiere="GINF53">9</Matiere>
+    <Matiere codeMatiere="GINF54">13</Matiere>
+    <Matiere codeMatiere="GINF55">13</Matiere>
+    <Matiere codeMatiere="GINF56">16</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000187</CNE>
+    <LastName>Melvin Flynn</LastName>
+    <FirstName>Risa Sykes</FirstName>
+    <Matiere codeMatiere="GINF51">5</Matiere>
+    <Matiere codeMatiere="GINF52">7</Matiere>
+    <Matiere codeMatiere="GINF53">9</Matiere>
+    <Matiere codeMatiere="GINF54">14</Matiere>
+    <Matiere codeMatiere="GINF55">15</Matiere>
+    <Matiere codeMatiere="GINF56">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000188</CNE>
+    <LastName>Whoopi Griffith</LastName>
+    <FirstName>Darryl Wooten</FirstName>
+    <Matiere codeMatiere="GINF51">14</Matiere>
+    <Matiere codeMatiere="GINF52">14</Matiere>
+    <Matiere codeMatiere="GINF53">8</Matiere>
+    <Matiere codeMatiere="GINF54">11</Matiere>
     <Matiere codeMatiere="GINF55">16</Matiere>
+    <Matiere codeMatiere="GINF56">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000189</CNE>
+    <LastName>Heidi Hood</LastName>
+    <FirstName>Yuri Fisher</FirstName>
+    <Matiere codeMatiere="GINF51">12</Matiere>
+    <Matiere codeMatiere="GINF52">11</Matiere>
+    <Matiere codeMatiere="GINF53">11</Matiere>
+    <Matiere codeMatiere="GINF54">12</Matiere>
+    <Matiere codeMatiere="GINF55">11</Matiere>
     <Matiere codeMatiere="GINF56">13</Matiere>
   </Note>
   <Note>
-    <CNE>17000037</CNE>
-    <LastName>Ginf3_LN7</LastName>
-    <FirstName>Ginf3_FN7</FirstName>
-    <Matiere codeMatiere="GINF51">8</Matiere>
-    <Matiere codeMatiere="GINF52">13</Matiere>
-    <Matiere codeMatiere="GINF53">10</Matiere>
-    <Matiere codeMatiere="GINF54">20</Matiere>
+    <CNE>17000190</CNE>
+    <LastName>Shaine Montoya</LastName>
+    <FirstName>Lillian Hopkins</FirstName>
+    <Matiere codeMatiere="GINF51">11</Matiere>
+    <Matiere codeMatiere="GINF52">6</Matiere>
+    <Matiere codeMatiere="GINF53">13</Matiere>
+    <Matiere codeMatiere="GINF54">18</Matiere>
+    <Matiere codeMatiere="GINF55">7</Matiere>
+    <Matiere codeMatiere="GINF56">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000191</CNE>
+    <LastName>Brody Knox</LastName>
+    <FirstName>Aurora Holman</FirstName>
+    <Matiere codeMatiere="GINF51">12</Matiere>
+    <Matiere codeMatiere="GINF52">19</Matiere>
+    <Matiere codeMatiere="GINF53">8</Matiere>
+    <Matiere codeMatiere="GINF54">15</Matiere>
     <Matiere codeMatiere="GINF55">9</Matiere>
     <Matiere codeMatiere="GINF56">10</Matiere>
   </Note>
   <Note>
-    <CNE>17000038</CNE>
-    <LastName>Ginf3_LN8</LastName>
-    <FirstName>Ginf3_FN8</FirstName>
-    <Matiere codeMatiere="GINF51">14</Matiere>
-    <Matiere codeMatiere="GINF52">5</Matiere>
-    <Matiere codeMatiere="GINF53">15</Matiere>
-    <Matiere codeMatiere="GINF54">19</Matiere>
-    <Matiere codeMatiere="GINF55">11</Matiere>
-    <Matiere codeMatiere="GINF56">16</Matiere>
-  </Note>
-  <Note>
-    <CNE>17000039</CNE>
-    <LastName>Ginf3_LN9</LastName>
-    <FirstName>Ginf3_FN9</FirstName>
+    <CNE>17000192</CNE>
+    <LastName>Dora Cummings</LastName>
+    <FirstName>Damon Crosby</FirstName>
     <Matiere codeMatiere="GINF51">12</Matiere>
-    <Matiere codeMatiere="GINF52">20</Matiere>
-    <Matiere codeMatiere="GINF53">16</Matiere>
-    <Matiere codeMatiere="GINF54">18</Matiere>
-    <Matiere codeMatiere="GINF55">19</Matiere>
-    <Matiere codeMatiere="GINF56">16</Matiere>
+    <Matiere codeMatiere="GINF52">8</Matiere>
+    <Matiere codeMatiere="GINF53">8</Matiere>
+    <Matiere codeMatiere="GINF54">14</Matiere>
+    <Matiere codeMatiere="GINF55">10</Matiere>
+    <Matiere codeMatiere="GINF56">10</Matiere>
   </Note>
   <Note>
-    <CNE>17000040</CNE>
-    <LastName>Ginf3_LN10</LastName>
-    <FirstName>Ginf3_FN10</FirstName>
-    <Matiere codeMatiere="GINF51">15</Matiere>
-    <Matiere codeMatiere="GINF52">13</Matiere>
-    <Matiere codeMatiere="GINF53">18</Matiere>
-    <Matiere codeMatiere="GINF54">18</Matiere>
-    <Matiere codeMatiere="GINF55">17</Matiere>
+    <CNE>17000193</CNE>
+    <LastName>Ross Willis</LastName>
+    <FirstName>Erasmus Lawson</FirstName>
+    <Matiere codeMatiere="GINF51">18</Matiere>
+    <Matiere codeMatiere="GINF52">20</Matiere>
+    <Matiere codeMatiere="GINF53">8</Matiere>
+    <Matiere codeMatiere="GINF54">15</Matiere>
+    <Matiere codeMatiere="GINF55">12</Matiere>
     <Matiere codeMatiere="GINF56">15</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000194</CNE>
+    <LastName>Yvonne Nolan</LastName>
+    <FirstName>Zelenia Fernandez</FirstName>
+    <Matiere codeMatiere="GINF51">11</Matiere>
+    <Matiere codeMatiere="GINF52">6</Matiere>
+    <Matiere codeMatiere="GINF53">15</Matiere>
+    <Matiere codeMatiere="GINF54">12</Matiere>
+    <Matiere codeMatiere="GINF55">14</Matiere>
+    <Matiere codeMatiere="GINF56">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000195</CNE>
+    <LastName>Reece Whitehead</LastName>
+    <FirstName>Zenia Goodwin</FirstName>
+    <Matiere codeMatiere="GINF51">7</Matiere>
+    <Matiere codeMatiere="GINF52">8</Matiere>
+    <Matiere codeMatiere="GINF53">9</Matiere>
+    <Matiere codeMatiere="GINF54">15</Matiere>
+    <Matiere codeMatiere="GINF55">18</Matiere>
+    <Matiere codeMatiere="GINF56">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000196</CNE>
+    <LastName>Joshua Buckley</LastName>
+    <FirstName>Shelby Little</FirstName>
+    <Matiere codeMatiere="GINF51">9</Matiere>
+    <Matiere codeMatiere="GINF52">6</Matiere>
+    <Matiere codeMatiere="GINF53">10</Matiere>
+    <Matiere codeMatiere="GINF54">11</Matiere>
+    <Matiere codeMatiere="GINF55">8</Matiere>
+    <Matiere codeMatiere="GINF56">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000197</CNE>
+    <LastName>Nora Tyler</LastName>
+    <FirstName>Ferdinand Singleton</FirstName>
+    <Matiere codeMatiere="GINF51">14</Matiere>
+    <Matiere codeMatiere="GINF52">9</Matiere>
+    <Matiere codeMatiere="GINF53">11</Matiere>
+    <Matiere codeMatiere="GINF54">15</Matiere>
+    <Matiere codeMatiere="GINF55">14</Matiere>
+    <Matiere codeMatiere="GINF56">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000198</CNE>
+    <LastName>Autumn Langley</LastName>
+    <FirstName>Alea Weiss</FirstName>
+    <Matiere codeMatiere="GINF51">18</Matiere>
+    <Matiere codeMatiere="GINF52">13</Matiere>
+    <Matiere codeMatiere="GINF53">9</Matiere>
+    <Matiere codeMatiere="GINF54">17</Matiere>
+    <Matiere codeMatiere="GINF55">14</Matiere>
+    <Matiere codeMatiere="GINF56">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000199</CNE>
+    <LastName>Ella Livingston</LastName>
+    <FirstName>Cleo Small</FirstName>
+    <Matiere codeMatiere="GINF51">16</Matiere>
+    <Matiere codeMatiere="GINF52">15</Matiere>
+    <Matiere codeMatiere="GINF53">14</Matiere>
+    <Matiere codeMatiere="GINF54">11</Matiere>
+    <Matiere codeMatiere="GINF55">18</Matiere>
+    <Matiere codeMatiere="GINF56">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>17000200</CNE>
+    <LastName>Claire Stout</LastName>
+    <FirstName>Tatiana Yates</FirstName>
+    <Matiere codeMatiere="GINF51">19</Matiere>
+    <Matiere codeMatiere="GINF52">7</Matiere>
+    <Matiere codeMatiere="GINF53">12</Matiere>
+    <Matiere codeMatiere="GINF54">14</Matiere>
+    <Matiere codeMatiere="GINF55">18</Matiere>
+    <Matiere codeMatiere="GINF56">10</Matiere>
   </Note>
 </Notes>

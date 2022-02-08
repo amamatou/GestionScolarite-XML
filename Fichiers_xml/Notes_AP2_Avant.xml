@@ -2,142 +2,702 @@
 <Notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Notes.xsd">
   <Note>
     <CNE>20000001</CNE>
-    <LastName>AP2_LN1</LastName>
-    <FirstName>AP2_FN1</FirstName>
-    <Matiere codeMatiere="AP31">10.2</Matiere>
-    <Matiere codeMatiere="AP32">10.73</Matiere>
-    <Matiere codeMatiere="AP33">15.06</Matiere>
-    <Matiere codeMatiere="AP34">16.89</Matiere>
-    <Matiere codeMatiere="AP35">9.09</Matiere>
-    <Matiere codeMatiere="AP36">13.84</Matiere>
-    <Matiere codeMatiere="AP41">19.32</Matiere>
-    <Matiere codeMatiere="AP42">15.76</Matiere>
-    <Matiere codeMatiere="AP43">11.44</Matiere>
+    <LastName>Bo Alvarado</LastName>
+    <FirstName>Imelda Becker</FirstName>
+    <Matiere codeMatiere="AP31">16</Matiere>
+    <Matiere codeMatiere="AP32">11</Matiere>
+    <Matiere codeMatiere="AP33">9</Matiere>
+    <Matiere codeMatiere="AP34">12</Matiere>
+    <Matiere codeMatiere="AP35">13</Matiere>
+    <Matiere codeMatiere="AP36">16</Matiere>
+    <Matiere codeMatiere="AP41">9</Matiere>
+    <Matiere codeMatiere="AP42">8</Matiere>
+    <Matiere codeMatiere="AP43">13</Matiere>
   </Note>
   <Note>
     <CNE>20000002</CNE>
-    <LastName>AP2_LN2</LastName>
-    <FirstName>AP2_FN2</FirstName>
-    <Matiere codeMatiere="AP31">9.46</Matiere>
-    <Matiere codeMatiere="AP32">14.89</Matiere>
-    <Matiere codeMatiere="AP33">12,89</Matiere>
-    <Matiere codeMatiere="AP34">10.99</Matiere>
-    <Matiere codeMatiere="AP35">12.11</Matiere>
-    <Matiere codeMatiere="AP36">8.35</Matiere>
-    <Matiere codeMatiere="AP41">16.35</Matiere>
-    <Matiere codeMatiere="AP42">11.46</Matiere>
-    <Matiere codeMatiere="AP43">18.64</Matiere>
+    <LastName>Lacota Gay</LastName>
+    <FirstName>Cairo Hoover</FirstName>
+    <Matiere codeMatiere="AP31">17</Matiere>
+    <Matiere codeMatiere="AP32">10</Matiere>
+    <Matiere codeMatiere="AP33">13</Matiere>
+    <Matiere codeMatiere="AP34">17</Matiere>
+    <Matiere codeMatiere="AP35">16</Matiere>
+    <Matiere codeMatiere="AP36">16</Matiere>
+    <Matiere codeMatiere="AP41">16</Matiere>
+    <Matiere codeMatiere="AP42">18</Matiere>
+    <Matiere codeMatiere="AP43">17</Matiere>
   </Note>
   <Note>
     <CNE>20000003</CNE>
-    <LastName>AP2_LN3</LastName>
-    <FirstName>AP2_FN3</FirstName>
-    <Matiere codeMatiere="AP31">10.52</Matiere>
-    <Matiere codeMatiere="AP32">9.67</Matiere>
-    <Matiere codeMatiere="AP33">15.77</Matiere>
-    <Matiere codeMatiere="AP34">19.45</Matiere>
-    <Matiere codeMatiere="AP35">14.98</Matiere>
-    <Matiere codeMatiere="AP36">9.73</Matiere>
-    <Matiere codeMatiere="AP41">12.39</Matiere>
-    <Matiere codeMatiere="AP42">17.97</Matiere>
-    <Matiere codeMatiere="AP43">10.98</Matiere>
+    <LastName>Rudyard Guy</LastName>
+    <FirstName>Lesley Mcgowan</FirstName>
+    <Matiere codeMatiere="AP31">14</Matiere>
+    <Matiere codeMatiere="AP32">17</Matiere>
+    <Matiere codeMatiere="AP33">12</Matiere>
+    <Matiere codeMatiere="AP34">16</Matiere>
+    <Matiere codeMatiere="AP35">17</Matiere>
+    <Matiere codeMatiere="AP36">12</Matiere>
+    <Matiere codeMatiere="AP41">12</Matiere>
+    <Matiere codeMatiere="AP42">19</Matiere>
+    <Matiere codeMatiere="AP43">9</Matiere>
   </Note>
   <Note>
     <CNE>20000004</CNE>
-    <LastName>AP2_LN4</LastName>
-    <FirstName>AP2_FN4</FirstName>
-    <Matiere codeMatiere="AP31">15.57</Matiere>
-    <Matiere codeMatiere="AP32">13.96</Matiere>
-    <Matiere codeMatiere="AP33">16.26</Matiere>
-    <Matiere codeMatiere="AP34">12.91</Matiere>
-    <Matiere codeMatiere="AP35">14.16</Matiere>
-    <Matiere codeMatiere="AP36">11.45</Matiere>
-    <Matiere codeMatiere="AP41">13.09</Matiere>
-    <Matiere codeMatiere="AP42">10</Matiere>
-    <Matiere codeMatiere="AP43">17.3</Matiere>
+    <LastName>Lester Finley</LastName>
+    <FirstName>Herman Shields</FirstName>
+    <Matiere codeMatiere="AP31">15</Matiere>
+    <Matiere codeMatiere="AP32">16</Matiere>
+    <Matiere codeMatiere="AP33">8</Matiere>
+    <Matiere codeMatiere="AP34">14</Matiere>
+    <Matiere codeMatiere="AP35">15</Matiere>
+    <Matiere codeMatiere="AP36">14</Matiere>
+    <Matiere codeMatiere="AP41">15</Matiere>
+    <Matiere codeMatiere="AP42">8</Matiere>
+    <Matiere codeMatiere="AP43">14</Matiere>
   </Note>
   <Note>
     <CNE>20000005</CNE>
-    <LastName>AP2_LN5</LastName>
-    <FirstName>AP2_FN5</FirstName>
-    <Matiere codeMatiere="AP31">17.66</Matiere>
-    <Matiere codeMatiere="AP32">10.67</Matiere>
-    <Matiere codeMatiere="AP33">13.67</Matiere>
-    <Matiere codeMatiere="AP34">15.67</Matiere>
-    <Matiere codeMatiere="AP35">17.93</Matiere>
-    <Matiere codeMatiere="AP36">15.91</Matiere>
-    <Matiere codeMatiere="AP41">10.78</Matiere>
-    <Matiere codeMatiere="AP42">16.87</Matiere>
-    <Matiere codeMatiere="AP43">12.89</Matiere>
+    <LastName>Eagan Delacruz</LastName>
+    <FirstName>Driscoll Harrell</FirstName>
+    <Matiere codeMatiere="AP31">19</Matiere>
+    <Matiere codeMatiere="AP32">14</Matiere>
+    <Matiere codeMatiere="AP33">7</Matiere>
+    <Matiere codeMatiere="AP34">11</Matiere>
+    <Matiere codeMatiere="AP35">13</Matiere>
+    <Matiere codeMatiere="AP36">7</Matiere>
+    <Matiere codeMatiere="AP41">13</Matiere>
+    <Matiere codeMatiere="AP42">18</Matiere>
+    <Matiere codeMatiere="AP43">15</Matiere>
   </Note>
   <Note>
     <CNE>20000006</CNE>
-    <LastName>AP2_LN6</LastName>
-    <FirstName>AP2_FN6</FirstName>
-    <Matiere codeMatiere="AP31">12.65</Matiere>
-    <Matiere codeMatiere="AP32">8.54</Matiere>
-    <Matiere codeMatiere="AP33">11.85</Matiere>
-    <Matiere codeMatiere="AP34">11</Matiere>
-    <Matiere codeMatiere="AP35">16.71</Matiere>
-    <Matiere codeMatiere="AP36">11.29</Matiere>
-    <Matiere codeMatiere="AP41">8.66</Matiere>
-    <Matiere codeMatiere="AP42">12.78</Matiere>
-    <Matiere codeMatiere="AP43">16.22</Matiere>
+    <LastName>Jesse Crawford</LastName>
+    <FirstName>Sierra Strickland</FirstName>
+    <Matiere codeMatiere="AP31">10</Matiere>
+    <Matiere codeMatiere="AP32">13</Matiere>
+    <Matiere codeMatiere="AP33">13</Matiere>
+    <Matiere codeMatiere="AP34">17</Matiere>
+    <Matiere codeMatiere="AP35">11</Matiere>
+    <Matiere codeMatiere="AP36">10</Matiere>
+    <Matiere codeMatiere="AP41">9</Matiere>
+    <Matiere codeMatiere="AP42">10</Matiere>
+    <Matiere codeMatiere="AP43">15</Matiere>
   </Note>
   <Note>
     <CNE>20000007</CNE>
-    <LastName>AP2_LN7</LastName>
-    <FirstName>AP2_FN7</FirstName>
-    <Matiere codeMatiere="AP31">11.45</Matiere>
-    <Matiere codeMatiere="AP32">12.72</Matiere>
-    <Matiere codeMatiere="AP33">14.11</Matiere>
-    <Matiere codeMatiere="AP34">13.87</Matiere>
-    <Matiere codeMatiere="AP35">10.56</Matiere>
-    <Matiere codeMatiere="AP36">13.17</Matiere>
-    <Matiere codeMatiere="AP41">13.82</Matiere>
-    <Matiere codeMatiere="AP42">10.83</Matiere>
-    <Matiere codeMatiere="AP43">13.67</Matiere>
+    <LastName>Vernon Sloan</LastName>
+    <FirstName>Olga Holden</FirstName>
+    <Matiere codeMatiere="AP31">16</Matiere>
+    <Matiere codeMatiere="AP32">19</Matiere>
+    <Matiere codeMatiere="AP33">11</Matiere>
+    <Matiere codeMatiere="AP34">13</Matiere>
+    <Matiere codeMatiere="AP35">18</Matiere>
+    <Matiere codeMatiere="AP36">12</Matiere>
+    <Matiere codeMatiere="AP41">10</Matiere>
+    <Matiere codeMatiere="AP42">10</Matiere>
+    <Matiere codeMatiere="AP43">11</Matiere>
   </Note>
   <Note>
     <CNE>20000008</CNE>
-    <LastName>AP2_LN8</LastName>
-    <FirstName>AP2_FN8</FirstName>
-    <Matiere codeMatiere="AP31">14.69</Matiere>
-    <Matiere codeMatiere="AP32">17.56</Matiere>
-    <Matiere codeMatiere="AP33">12.78</Matiere>
-    <Matiere codeMatiere="AP34">15.65</Matiere>
-    <Matiere codeMatiere="AP35">12.07</Matiere>
-    <Matiere codeMatiere="AP36">14.63</Matiere>
+    <LastName>Virginia Schultz</LastName>
+    <FirstName>Brynne Sexton</FirstName>
+    <Matiere codeMatiere="AP31">17</Matiere>
+    <Matiere codeMatiere="AP32">13</Matiere>
+    <Matiere codeMatiere="AP33">8</Matiere>
+    <Matiere codeMatiere="AP34">14</Matiere>
+    <Matiere codeMatiere="AP35">11</Matiere>
+    <Matiere codeMatiere="AP36">11</Matiere>
     <Matiere codeMatiere="AP41">10</Matiere>
-    <Matiere codeMatiere="AP42">15.92</Matiere>
-    <Matiere codeMatiere="AP43">15.32</Matiere>
+    <Matiere codeMatiere="AP42">9</Matiere>
+    <Matiere codeMatiere="AP43">14</Matiere>
   </Note>
   <Note>
     <CNE>20000009</CNE>
-    <LastName>AP2_LN9</LastName>
-    <FirstName>AP2_FN9</FirstName>
-    <Matiere codeMatiere="AP31">17.15</Matiere>
-    <Matiere codeMatiere="AP32">10.95</Matiere>
-    <Matiere codeMatiere="AP33">17.83</Matiere>
-    <Matiere codeMatiere="AP34">14.99</Matiere>
-    <Matiere codeMatiere="AP35">13.47</Matiere>
-    <Matiere codeMatiere="AP36">13.78</Matiere>
-    <Matiere codeMatiere="AP41">15.78</Matiere>
-    <Matiere codeMatiere="AP42">16.32</Matiere>
-    <Matiere codeMatiere="AP43">14.56</Matiere>
+    <LastName>Pearl Ortega</LastName>
+    <FirstName>Laith Hancock</FirstName>
+    <Matiere codeMatiere="AP31">18</Matiere>
+    <Matiere codeMatiere="AP32">16</Matiere>
+    <Matiere codeMatiere="AP33">7</Matiere>
+    <Matiere codeMatiere="AP34">14</Matiere>
+    <Matiere codeMatiere="AP35">15</Matiere>
+    <Matiere codeMatiere="AP36">15</Matiere>
+    <Matiere codeMatiere="AP41">11</Matiere>
+    <Matiere codeMatiere="AP42">14</Matiere>
+    <Matiere codeMatiere="AP43">7</Matiere>
   </Note>
   <Note>
     <CNE>20000010</CNE>
-    <LastName>AP2_LN10</LastName>
-    <FirstName>AP2_FN10</FirstName>
-    <Matiere codeMatiere="AP31">11.85</Matiere>
-    <Matiere codeMatiere="AP32">11.39</Matiere>
-    <Matiere codeMatiere="AP33">9.67</Matiere>
-    <Matiere codeMatiere="AP34">10.82</Matiere>
-    <Matiere codeMatiere="AP35">8.78</Matiere>
-    <Matiere codeMatiere="AP36">17.68</Matiere>
-    <Matiere codeMatiere="AP41">18.55</Matiere>
-    <Matiere codeMatiere="AP42">7.56</Matiere>
-    <Matiere codeMatiere="AP43">13.89</Matiere>
+    <LastName>Teegan Nash</LastName>
+    <FirstName>Serena Blackwell</FirstName>
+    <Matiere codeMatiere="AP31">13</Matiere>
+    <Matiere codeMatiere="AP32">10</Matiere>
+    <Matiere codeMatiere="AP33">13</Matiere>
+    <Matiere codeMatiere="AP34">15</Matiere>
+    <Matiere codeMatiere="AP35">10</Matiere>
+    <Matiere codeMatiere="AP36">16</Matiere>
+    <Matiere codeMatiere="AP41">19</Matiere>
+    <Matiere codeMatiere="AP42">18</Matiere>
+    <Matiere codeMatiere="AP43">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000011</CNE>
+    <LastName>John Lee</LastName>
+    <FirstName>Sylvester Chase</FirstName>
+    <Matiere codeMatiere="AP31">8</Matiere>
+    <Matiere codeMatiere="AP32">18</Matiere>
+    <Matiere codeMatiere="AP33">10</Matiere>
+    <Matiere codeMatiere="AP34">15</Matiere>
+    <Matiere codeMatiere="AP35">15</Matiere>
+    <Matiere codeMatiere="AP36">12</Matiere>
+    <Matiere codeMatiere="AP41">14</Matiere>
+    <Matiere codeMatiere="AP42">17</Matiere>
+    <Matiere codeMatiere="AP43">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000012</CNE>
+    <LastName>Shellie Russo</LastName>
+    <FirstName>Karleigh Martinez</FirstName>
+    <Matiere codeMatiere="AP31">9</Matiere>
+    <Matiere codeMatiere="AP32">17</Matiere>
+    <Matiere codeMatiere="AP33">15</Matiere>
+    <Matiere codeMatiere="AP34">13</Matiere>
+    <Matiere codeMatiere="AP35">7</Matiere>
+    <Matiere codeMatiere="AP36">11</Matiere>
+    <Matiere codeMatiere="AP41">9</Matiere>
+    <Matiere codeMatiere="AP42">7</Matiere>
+    <Matiere codeMatiere="AP43">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000013</CNE>
+    <LastName>Roth Mcleod</LastName>
+    <FirstName>Karleigh Maxwell</FirstName>
+    <Matiere codeMatiere="AP31">11</Matiere>
+    <Matiere codeMatiere="AP32">8</Matiere>
+    <Matiere codeMatiere="AP33">14</Matiere>
+    <Matiere codeMatiere="AP34">12</Matiere>
+    <Matiere codeMatiere="AP35">14</Matiere>
+    <Matiere codeMatiere="AP36">16</Matiere>
+    <Matiere codeMatiere="AP41">14</Matiere>
+    <Matiere codeMatiere="AP42">6</Matiere>
+    <Matiere codeMatiere="AP43">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000014</CNE>
+    <LastName>Amir Perez</LastName>
+    <FirstName>Emery Ayers</FirstName>
+    <Matiere codeMatiere="AP31">10</Matiere>
+    <Matiere codeMatiere="AP32">11</Matiere>
+    <Matiere codeMatiere="AP33">9</Matiere>
+    <Matiere codeMatiere="AP34">15</Matiere>
+    <Matiere codeMatiere="AP35">13</Matiere>
+    <Matiere codeMatiere="AP36">6</Matiere>
+    <Matiere codeMatiere="AP41">10</Matiere>
+    <Matiere codeMatiere="AP42">16</Matiere>
+    <Matiere codeMatiere="AP43">13</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000015</CNE>
+    <LastName>Dacey Todd</LastName>
+    <FirstName>Madaline Jacobson</FirstName>
+    <Matiere codeMatiere="AP31">8</Matiere>
+    <Matiere codeMatiere="AP32">5</Matiere>
+    <Matiere codeMatiere="AP33">8</Matiere>
+    <Matiere codeMatiere="AP34">11</Matiere>
+    <Matiere codeMatiere="AP35">7</Matiere>
+    <Matiere codeMatiere="AP36">17</Matiere>
+    <Matiere codeMatiere="AP41">16</Matiere>
+    <Matiere codeMatiere="AP42">9</Matiere>
+    <Matiere codeMatiere="AP43">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000016</CNE>
+    <LastName>Charles Haley</LastName>
+    <FirstName>Eve Daniel</FirstName>
+    <Matiere codeMatiere="AP31">17</Matiere>
+    <Matiere codeMatiere="AP32">14</Matiere>
+    <Matiere codeMatiere="AP33">15</Matiere>
+    <Matiere codeMatiere="AP34">13</Matiere>
+    <Matiere codeMatiere="AP35">8</Matiere>
+    <Matiere codeMatiere="AP36">7</Matiere>
+    <Matiere codeMatiere="AP41">11</Matiere>
+    <Matiere codeMatiere="AP42">18</Matiere>
+    <Matiere codeMatiere="AP43">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000017</CNE>
+    <LastName>Adena Cooper</LastName>
+    <FirstName>Leilani Orr</FirstName>
+    <Matiere codeMatiere="AP31">7</Matiere>
+    <Matiere codeMatiere="AP32">18</Matiere>
+    <Matiere codeMatiere="AP33">14</Matiere>
+    <Matiere codeMatiere="AP34">11</Matiere>
+    <Matiere codeMatiere="AP35">15</Matiere>
+    <Matiere codeMatiere="AP36">8</Matiere>
+    <Matiere codeMatiere="AP41">13</Matiere>
+    <Matiere codeMatiere="AP42">19</Matiere>
+    <Matiere codeMatiere="AP43">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000018</CNE>
+    <LastName>Maite Sandoval</LastName>
+    <FirstName>Alfonso Guerra</FirstName>
+    <Matiere codeMatiere="AP31">13</Matiere>
+    <Matiere codeMatiere="AP32">9</Matiere>
+    <Matiere codeMatiere="AP33">9</Matiere>
+    <Matiere codeMatiere="AP34">12</Matiere>
+    <Matiere codeMatiere="AP35">19</Matiere>
+    <Matiere codeMatiere="AP36">11</Matiere>
+    <Matiere codeMatiere="AP41">20</Matiere>
+    <Matiere codeMatiere="AP42">16</Matiere>
+    <Matiere codeMatiere="AP43">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000019</CNE>
+    <LastName>Rashad Rasmussen</LastName>
+    <FirstName>Raven Fowler</FirstName>
+    <Matiere codeMatiere="AP31">18</Matiere>
+    <Matiere codeMatiere="AP32">16</Matiere>
+    <Matiere codeMatiere="AP33">12</Matiere>
+    <Matiere codeMatiere="AP34">14</Matiere>
+    <Matiere codeMatiere="AP35">14</Matiere>
+    <Matiere codeMatiere="AP36">9</Matiere>
+    <Matiere codeMatiere="AP41">7</Matiere>
+    <Matiere codeMatiere="AP42">20</Matiere>
+    <Matiere codeMatiere="AP43">7</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000020</CNE>
+    <LastName>Oprah Lee</LastName>
+    <FirstName>Ezekiel Berry</FirstName>
+    <Matiere codeMatiere="AP31">11</Matiere>
+    <Matiere codeMatiere="AP32">9</Matiere>
+    <Matiere codeMatiere="AP33">10</Matiere>
+    <Matiere codeMatiere="AP34">15</Matiere>
+    <Matiere codeMatiere="AP35">10</Matiere>
+    <Matiere codeMatiere="AP36">12</Matiere>
+    <Matiere codeMatiere="AP41">18</Matiere>
+    <Matiere codeMatiere="AP42">14</Matiere>
+    <Matiere codeMatiere="AP43">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000021</CNE>
+    <LastName>Channing Suarez</LastName>
+    <FirstName>Caldwell Melendez</FirstName>
+    <Matiere codeMatiere="AP31">16</Matiere>
+    <Matiere codeMatiere="AP32">12</Matiere>
+    <Matiere codeMatiere="AP33">14</Matiere>
+    <Matiere codeMatiere="AP34">11</Matiere>
+    <Matiere codeMatiere="AP35">8</Matiere>
+    <Matiere codeMatiere="AP36">8</Matiere>
+    <Matiere codeMatiere="AP41">8</Matiere>
+    <Matiere codeMatiere="AP42">11</Matiere>
+    <Matiere codeMatiere="AP43">7</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000022</CNE>
+    <LastName>Erasmus Battle</LastName>
+    <FirstName>Eliana Chavez</FirstName>
+    <Matiere codeMatiere="AP31">19</Matiere>
+    <Matiere codeMatiere="AP32">13</Matiere>
+    <Matiere codeMatiere="AP33">11</Matiere>
+    <Matiere codeMatiere="AP34">11</Matiere>
+    <Matiere codeMatiere="AP35">18</Matiere>
+    <Matiere codeMatiere="AP36">10</Matiere>
+    <Matiere codeMatiere="AP41">8</Matiere>
+    <Matiere codeMatiere="AP42">13</Matiere>
+    <Matiere codeMatiere="AP43">7</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000023</CNE>
+    <LastName>Sacha Meadows</LastName>
+    <FirstName>Aaron Horn</FirstName>
+    <Matiere codeMatiere="AP31">14</Matiere>
+    <Matiere codeMatiere="AP32">17</Matiere>
+    <Matiere codeMatiere="AP33">10</Matiere>
+    <Matiere codeMatiere="AP34">16</Matiere>
+    <Matiere codeMatiere="AP35">15</Matiere>
+    <Matiere codeMatiere="AP36">10</Matiere>
+    <Matiere codeMatiere="AP41">13</Matiere>
+    <Matiere codeMatiere="AP42">12</Matiere>
+    <Matiere codeMatiere="AP43">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000024</CNE>
+    <LastName>Wing Stephenson</LastName>
+    <FirstName>Sierra Osborn</FirstName>
+    <Matiere codeMatiere="AP31">15</Matiere>
+    <Matiere codeMatiere="AP32">5</Matiere>
+    <Matiere codeMatiere="AP33">13</Matiere>
+    <Matiere codeMatiere="AP34">17</Matiere>
+    <Matiere codeMatiere="AP35">11</Matiere>
+    <Matiere codeMatiere="AP36">9</Matiere>
+    <Matiere codeMatiere="AP41">10</Matiere>
+    <Matiere codeMatiere="AP42">18</Matiere>
+    <Matiere codeMatiere="AP43">6</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000025</CNE>
+    <LastName>Tucker Combs</LastName>
+    <FirstName>Moana Lyons</FirstName>
+    <Matiere codeMatiere="AP31">15</Matiere>
+    <Matiere codeMatiere="AP32">20</Matiere>
+    <Matiere codeMatiere="AP33">7</Matiere>
+    <Matiere codeMatiere="AP34">14</Matiere>
+    <Matiere codeMatiere="AP35">8</Matiere>
+    <Matiere codeMatiere="AP36">16</Matiere>
+    <Matiere codeMatiere="AP41">16</Matiere>
+    <Matiere codeMatiere="AP42">19</Matiere>
+    <Matiere codeMatiere="AP43">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000026</CNE>
+    <LastName>Tyrone Baker</LastName>
+    <FirstName>Jenna Cunningham</FirstName>
+    <Matiere codeMatiere="AP31">9</Matiere>
+    <Matiere codeMatiere="AP32">10</Matiere>
+    <Matiere codeMatiere="AP33">14</Matiere>
+    <Matiere codeMatiere="AP34">13</Matiere>
+    <Matiere codeMatiere="AP35">14</Matiere>
+    <Matiere codeMatiere="AP36">8</Matiere>
+    <Matiere codeMatiere="AP41">17</Matiere>
+    <Matiere codeMatiere="AP42">19</Matiere>
+    <Matiere codeMatiere="AP43">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000027</CNE>
+    <LastName>Lucy Barnes</LastName>
+    <FirstName>Ryder Molina</FirstName>
+    <Matiere codeMatiere="AP31">6</Matiere>
+    <Matiere codeMatiere="AP32">13</Matiere>
+    <Matiere codeMatiere="AP33">9</Matiere>
+    <Matiere codeMatiere="AP34">14</Matiere>
+    <Matiere codeMatiere="AP35">16</Matiere>
+    <Matiere codeMatiere="AP36">11</Matiere>
+    <Matiere codeMatiere="AP41">10</Matiere>
+    <Matiere codeMatiere="AP42">9</Matiere>
+    <Matiere codeMatiere="AP43">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000028</CNE>
+    <LastName>August Mayer</LastName>
+    <FirstName>Leonard Moss</FirstName>
+    <Matiere codeMatiere="AP31">12</Matiere>
+    <Matiere codeMatiere="AP32">10</Matiere>
+    <Matiere codeMatiere="AP33">14</Matiere>
+    <Matiere codeMatiere="AP34">12</Matiere>
+    <Matiere codeMatiere="AP35">8</Matiere>
+    <Matiere codeMatiere="AP36">11</Matiere>
+    <Matiere codeMatiere="AP41">6</Matiere>
+    <Matiere codeMatiere="AP42">9</Matiere>
+    <Matiere codeMatiere="AP43">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000029</CNE>
+    <LastName>Vaughan Ellis</LastName>
+    <FirstName>Salvador Holden</FirstName>
+    <Matiere codeMatiere="AP31">8</Matiere>
+    <Matiere codeMatiere="AP32">19</Matiere>
+    <Matiere codeMatiere="AP33">9</Matiere>
+    <Matiere codeMatiere="AP34">15</Matiere>
+    <Matiere codeMatiere="AP35">10</Matiere>
+    <Matiere codeMatiere="AP36">10</Matiere>
+    <Matiere codeMatiere="AP41">12</Matiere>
+    <Matiere codeMatiere="AP42">19</Matiere>
+    <Matiere codeMatiere="AP43">6</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000030</CNE>
+    <LastName>Desirae Park</LastName>
+    <FirstName>Lance Farrell</FirstName>
+    <Matiere codeMatiere="AP31">14</Matiere>
+    <Matiere codeMatiere="AP32">17</Matiere>
+    <Matiere codeMatiere="AP33">11</Matiere>
+    <Matiere codeMatiere="AP34">11</Matiere>
+    <Matiere codeMatiere="AP35">14</Matiere>
+    <Matiere codeMatiere="AP36">13</Matiere>
+    <Matiere codeMatiere="AP41">10</Matiere>
+    <Matiere codeMatiere="AP42">6</Matiere>
+    <Matiere codeMatiere="AP43">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000031</CNE>
+    <LastName>Kitra Blanchard</LastName>
+    <FirstName>Bevis Whitfield</FirstName>
+    <Matiere codeMatiere="AP31">17</Matiere>
+    <Matiere codeMatiere="AP32">8</Matiere>
+    <Matiere codeMatiere="AP33">7</Matiere>
+    <Matiere codeMatiere="AP34">14</Matiere>
+    <Matiere codeMatiere="AP35">14</Matiere>
+    <Matiere codeMatiere="AP36">10</Matiere>
+    <Matiere codeMatiere="AP41">6</Matiere>
+    <Matiere codeMatiere="AP42">12</Matiere>
+    <Matiere codeMatiere="AP43">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000032</CNE>
+    <LastName>Ursula Hudson</LastName>
+    <FirstName>Adria Wilcox</FirstName>
+    <Matiere codeMatiere="AP31">18</Matiere>
+    <Matiere codeMatiere="AP32">6</Matiere>
+    <Matiere codeMatiere="AP33">13</Matiere>
+    <Matiere codeMatiere="AP34">11</Matiere>
+    <Matiere codeMatiere="AP35">17</Matiere>
+    <Matiere codeMatiere="AP36">15</Matiere>
+    <Matiere codeMatiere="AP41">8</Matiere>
+    <Matiere codeMatiere="AP42">7</Matiere>
+    <Matiere codeMatiere="AP43">13</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000033</CNE>
+    <LastName>Hasad Foreman</LastName>
+    <FirstName>Randall Nixon</FirstName>
+    <Matiere codeMatiere="AP31">8</Matiere>
+    <Matiere codeMatiere="AP32">15</Matiere>
+    <Matiere codeMatiere="AP33">13</Matiere>
+    <Matiere codeMatiere="AP34">14</Matiere>
+    <Matiere codeMatiere="AP35">8</Matiere>
+    <Matiere codeMatiere="AP36">11</Matiere>
+    <Matiere codeMatiere="AP41">10</Matiere>
+    <Matiere codeMatiere="AP42">9</Matiere>
+    <Matiere codeMatiere="AP43">15</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000034</CNE>
+    <LastName>Owen Cannon</LastName>
+    <FirstName>Graiden Myers</FirstName>
+    <Matiere codeMatiere="AP31">13</Matiere>
+    <Matiere codeMatiere="AP32">17</Matiere>
+    <Matiere codeMatiere="AP33">10</Matiere>
+    <Matiere codeMatiere="AP34">13</Matiere>
+    <Matiere codeMatiere="AP35">9</Matiere>
+    <Matiere codeMatiere="AP36">17</Matiere>
+    <Matiere codeMatiere="AP41">17</Matiere>
+    <Matiere codeMatiere="AP42">17</Matiere>
+    <Matiere codeMatiere="AP43">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000035</CNE>
+    <LastName>Cyrus Spencer</LastName>
+    <FirstName>Lucas Calderon</FirstName>
+    <Matiere codeMatiere="AP31">13</Matiere>
+    <Matiere codeMatiere="AP32">6</Matiere>
+    <Matiere codeMatiere="AP33">14</Matiere>
+    <Matiere codeMatiere="AP34">13</Matiere>
+    <Matiere codeMatiere="AP35">13</Matiere>
+    <Matiere codeMatiere="AP36">15</Matiere>
+    <Matiere codeMatiere="AP41">7</Matiere>
+    <Matiere codeMatiere="AP42">20</Matiere>
+    <Matiere codeMatiere="AP43">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000036</CNE>
+    <LastName>Kimberley Valencia</LastName>
+    <FirstName>Jade Murray</FirstName>
+    <Matiere codeMatiere="AP31">12</Matiere>
+    <Matiere codeMatiere="AP32">9</Matiere>
+    <Matiere codeMatiere="AP33">9</Matiere>
+    <Matiere codeMatiere="AP34">16</Matiere>
+    <Matiere codeMatiere="AP35">10</Matiere>
+    <Matiere codeMatiere="AP36">11</Matiere>
+    <Matiere codeMatiere="AP41">14</Matiere>
+    <Matiere codeMatiere="AP42">17</Matiere>
+    <Matiere codeMatiere="AP43">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000037</CNE>
+    <LastName>Risa Webster</LastName>
+    <FirstName>Hasad Church</FirstName>
+    <Matiere codeMatiere="AP31">17</Matiere>
+    <Matiere codeMatiere="AP32">15</Matiere>
+    <Matiere codeMatiere="AP33">12</Matiere>
+    <Matiere codeMatiere="AP34">14</Matiere>
+    <Matiere codeMatiere="AP35">11</Matiere>
+    <Matiere codeMatiere="AP36">15</Matiere>
+    <Matiere codeMatiere="AP41">12</Matiere>
+    <Matiere codeMatiere="AP42">15</Matiere>
+    <Matiere codeMatiere="AP43">15</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000038</CNE>
+    <LastName>Jemima Knight</LastName>
+    <FirstName>Gabriel Walsh</FirstName>
+    <Matiere codeMatiere="AP31">9</Matiere>
+    <Matiere codeMatiere="AP32">11</Matiere>
+    <Matiere codeMatiere="AP33">8</Matiere>
+    <Matiere codeMatiere="AP34">16</Matiere>
+    <Matiere codeMatiere="AP35">12</Matiere>
+    <Matiere codeMatiere="AP36">8</Matiere>
+    <Matiere codeMatiere="AP41">6</Matiere>
+    <Matiere codeMatiere="AP42">17</Matiere>
+    <Matiere codeMatiere="AP43">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000039</CNE>
+    <LastName>Carlos Gill</LastName>
+    <FirstName>Octavia Marquez</FirstName>
+    <Matiere codeMatiere="AP31">8</Matiere>
+    <Matiere codeMatiere="AP32">10</Matiere>
+    <Matiere codeMatiere="AP33">14</Matiere>
+    <Matiere codeMatiere="AP34">18</Matiere>
+    <Matiere codeMatiere="AP35">17</Matiere>
+    <Matiere codeMatiere="AP36">17</Matiere>
+    <Matiere codeMatiere="AP41">20</Matiere>
+    <Matiere codeMatiere="AP42">8</Matiere>
+    <Matiere codeMatiere="AP43">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000040</CNE>
+    <LastName>Denise Sanchez</LastName>
+    <FirstName>Minerva O'brien</FirstName>
+    <Matiere codeMatiere="AP31">11</Matiere>
+    <Matiere codeMatiere="AP32">20</Matiere>
+    <Matiere codeMatiere="AP33">9</Matiere>
+    <Matiere codeMatiere="AP34">13</Matiere>
+    <Matiere codeMatiere="AP35">15</Matiere>
+    <Matiere codeMatiere="AP36">8</Matiere>
+    <Matiere codeMatiere="AP41">13</Matiere>
+    <Matiere codeMatiere="AP42">6</Matiere>
+    <Matiere codeMatiere="AP43">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000041</CNE>
+    <LastName>Tamara Wong</LastName>
+    <FirstName>Zane Booth</FirstName>
+    <Matiere codeMatiere="AP31">17</Matiere>
+    <Matiere codeMatiere="AP32">9</Matiere>
+    <Matiere codeMatiere="AP33">13</Matiere>
+    <Matiere codeMatiere="AP34">12</Matiere>
+    <Matiere codeMatiere="AP35">15</Matiere>
+    <Matiere codeMatiere="AP36">12</Matiere>
+    <Matiere codeMatiere="AP41">8</Matiere>
+    <Matiere codeMatiere="AP42">9</Matiere>
+    <Matiere codeMatiere="AP43">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000042</CNE>
+    <LastName>Medge Keller</LastName>
+    <FirstName>Carl Hayes</FirstName>
+    <Matiere codeMatiere="AP31">7</Matiere>
+    <Matiere codeMatiere="AP32">5</Matiere>
+    <Matiere codeMatiere="AP33">10</Matiere>
+    <Matiere codeMatiere="AP34">17</Matiere>
+    <Matiere codeMatiere="AP35">9</Matiere>
+    <Matiere codeMatiere="AP36">15</Matiere>
+    <Matiere codeMatiere="AP41">19</Matiere>
+    <Matiere codeMatiere="AP42">9</Matiere>
+    <Matiere codeMatiere="AP43">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000043</CNE>
+    <LastName>Amery Foley</LastName>
+    <FirstName>Acton Sweet</FirstName>
+    <Matiere codeMatiere="AP31">13</Matiere>
+    <Matiere codeMatiere="AP32">18</Matiere>
+    <Matiere codeMatiere="AP33">8</Matiere>
+    <Matiere codeMatiere="AP34">11</Matiere>
+    <Matiere codeMatiere="AP35">14</Matiere>
+    <Matiere codeMatiere="AP36">17</Matiere>
+    <Matiere codeMatiere="AP41">12</Matiere>
+    <Matiere codeMatiere="AP42">9</Matiere>
+    <Matiere codeMatiere="AP43">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000044</CNE>
+    <LastName>Tiger Solis</LastName>
+    <FirstName>Cameron Clay</FirstName>
+    <Matiere codeMatiere="AP31">17</Matiere>
+    <Matiere codeMatiere="AP32">7</Matiere>
+    <Matiere codeMatiere="AP33">13</Matiere>
+    <Matiere codeMatiere="AP34">15</Matiere>
+    <Matiere codeMatiere="AP35">11</Matiere>
+    <Matiere codeMatiere="AP36">9</Matiere>
+    <Matiere codeMatiere="AP41">11</Matiere>
+    <Matiere codeMatiere="AP42">13</Matiere>
+    <Matiere codeMatiere="AP43">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000045</CNE>
+    <LastName>Colette Hinton</LastName>
+    <FirstName>Chandler Spears</FirstName>
+    <Matiere codeMatiere="AP31">14</Matiere>
+    <Matiere codeMatiere="AP32">18</Matiere>
+    <Matiere codeMatiere="AP33">7</Matiere>
+    <Matiere codeMatiere="AP34">16</Matiere>
+    <Matiere codeMatiere="AP35">18</Matiere>
+    <Matiere codeMatiere="AP36">8</Matiere>
+    <Matiere codeMatiere="AP41">20</Matiere>
+    <Matiere codeMatiere="AP42">7</Matiere>
+    <Matiere codeMatiere="AP43">6</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000046</CNE>
+    <LastName>Emery Cummings</LastName>
+    <FirstName>Constance Salinas</FirstName>
+    <Matiere codeMatiere="AP31">18</Matiere>
+    <Matiere codeMatiere="AP32">19</Matiere>
+    <Matiere codeMatiere="AP33">11</Matiere>
+    <Matiere codeMatiere="AP34">17</Matiere>
+    <Matiere codeMatiere="AP35">7</Matiere>
+    <Matiere codeMatiere="AP36">16</Matiere>
+    <Matiere codeMatiere="AP41">10</Matiere>
+    <Matiere codeMatiere="AP42">18</Matiere>
+    <Matiere codeMatiere="AP43">15</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000047</CNE>
+    <LastName>Dale Mccray</LastName>
+    <FirstName>Caryn Riley</FirstName>
+    <Matiere codeMatiere="AP31">18</Matiere>
+    <Matiere codeMatiere="AP32">5</Matiere>
+    <Matiere codeMatiere="AP33">9</Matiere>
+    <Matiere codeMatiere="AP34">13</Matiere>
+    <Matiere codeMatiere="AP35">14</Matiere>
+    <Matiere codeMatiere="AP36">11</Matiere>
+    <Matiere codeMatiere="AP41">12</Matiere>
+    <Matiere codeMatiere="AP42">9</Matiere>
+    <Matiere codeMatiere="AP43">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000048</CNE>
+    <LastName>Ferris Wilkerson</LastName>
+    <FirstName>Aline Aguirre</FirstName>
+    <Matiere codeMatiere="AP31">11</Matiere>
+    <Matiere codeMatiere="AP32">19</Matiere>
+    <Matiere codeMatiere="AP33">11</Matiere>
+    <Matiere codeMatiere="AP34">16</Matiere>
+    <Matiere codeMatiere="AP35">8</Matiere>
+    <Matiere codeMatiere="AP36">16</Matiere>
+    <Matiere codeMatiere="AP41">19</Matiere>
+    <Matiere codeMatiere="AP42">16</Matiere>
+    <Matiere codeMatiere="AP43">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000049</CNE>
+    <LastName>Jenna Mcmahon</LastName>
+    <FirstName>Velma Baird</FirstName>
+    <Matiere codeMatiere="AP31">19</Matiere>
+    <Matiere codeMatiere="AP32">8</Matiere>
+    <Matiere codeMatiere="AP33">12</Matiere>
+    <Matiere codeMatiere="AP34">12</Matiere>
+    <Matiere codeMatiere="AP35">13</Matiere>
+    <Matiere codeMatiere="AP36">17</Matiere>
+    <Matiere codeMatiere="AP41">11</Matiere>
+    <Matiere codeMatiere="AP42">16</Matiere>
+    <Matiere codeMatiere="AP43">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>20000050</CNE>
+    <LastName>Kylee Maddox</LastName>
+    <FirstName>Octavius Holloway</FirstName>
+    <Matiere codeMatiere="AP31">13</Matiere>
+    <Matiere codeMatiere="AP32">12</Matiere>
+    <Matiere codeMatiere="AP33">8</Matiere>
+    <Matiere codeMatiere="AP34">13</Matiere>
+    <Matiere codeMatiere="AP35">13</Matiere>
+    <Matiere codeMatiere="AP36">8</Matiere>
+    <Matiere codeMatiere="AP41">9</Matiere>
+    <Matiere codeMatiere="AP42">16</Matiere>
+    <Matiere codeMatiere="AP43">8</Matiere>
   </Note>
 </Notes>

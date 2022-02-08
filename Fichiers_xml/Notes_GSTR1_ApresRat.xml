@@ -2,172 +2,852 @@
 <Notes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Notes.xsd">
   <Note>
     <CNE>19000001</CNE>
-    <LastName>Gstr1_LN1</LastName>
-    <FirstName>Gstr1_FN1</FirstName>
-    <Matiere codeMatiere="GSTR11">12</Matiere>
-    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <LastName>Sandra</LastName>
+    <FirstName>Wing Harrell</FirstName>
+    <Matiere codeMatiere="GSTR11">19</Matiere>
+    <Matiere codeMatiere="GSTR12">14</Matiere>
     <Matiere codeMatiere="GSTR13">12</Matiere>
-    <Matiere codeMatiere="GSTR14">13</Matiere>
+    <Matiere codeMatiere="GSTR14">12</Matiere>
     <Matiere codeMatiere="GSTR15">12</Matiere>
-    <Matiere codeMatiere="GSTR16">12</Matiere>
-    <Matiere codeMatiere="GSTR21">12</Matiere>
-    <Matiere codeMatiere="GSTR22">16</Matiere>
-    <Matiere codeMatiere="GSTR23">17</Matiere>
+    <Matiere codeMatiere="GSTR16">13</Matiere>
+    <Matiere codeMatiere="GSTR21">14</Matiere>
+    <Matiere codeMatiere="GSTR22">17</Matiere>
+    <Matiere codeMatiere="GSTR23">14</Matiere>
     <Matiere codeMatiere="GSTR24">12</Matiere>
-    <Matiere codeMatiere="GSTR25">10</Matiere>
-    <Matiere codeMatiere="GSTR26">14</Matiere>
+    <Matiere codeMatiere="GSTR25">12</Matiere>
+    <Matiere codeMatiere="GSTR26">11</Matiere>
   </Note>
   <Note>
     <CNE>19000002</CNE>
-    <LastName>Gstr1_LN2</LastName>
-    <FirstName>Gstr1_FN2</FirstName>
-    <Matiere codeMatiere="GSTR11">10</Matiere>
-    <Matiere codeMatiere="GSTR12">13</Matiere>
-    <Matiere codeMatiere="GSTR13">12</Matiere>
-    <Matiere codeMatiere="GSTR14">12</Matiere>
-    <Matiere codeMatiere="GSTR15">13</Matiere>
-    <Matiere codeMatiere="GSTR16">13</Matiere>
-    <Matiere codeMatiere="GSTR21">13</Matiere>
-    <Matiere codeMatiere="GSTR22">13</Matiere>
-    <Matiere codeMatiere="GSTR23">17</Matiere>
+    <LastName>Bell</LastName>
+    <FirstName>Medge Mcdonald</FirstName>
+    <Matiere codeMatiere="GSTR11">12</Matiere>
+    <Matiere codeMatiere="GSTR12">8</Matiere>
+    <Matiere codeMatiere="GSTR13">14</Matiere>
+    <Matiere codeMatiere="GSTR14">16</Matiere>
+    <Matiere codeMatiere="GSTR15">8</Matiere>
+    <Matiere codeMatiere="GSTR16">11</Matiere>
+    <Matiere codeMatiere="GSTR21">9</Matiere>
+    <Matiere codeMatiere="GSTR22">11</Matiere>
+    <Matiere codeMatiere="GSTR23">18</Matiere>
     <Matiere codeMatiere="GSTR24">12</Matiere>
-    <Matiere codeMatiere="GSTR25">13</Matiere>
-    <Matiere codeMatiere="GSTR26">12</Matiere>
+    <Matiere codeMatiere="GSTR25">12</Matiere>
+    <Matiere codeMatiere="GSTR26">15</Matiere>
   </Note>
   <Note>
     <CNE>19000003</CNE>
-    <LastName>Gstr1_LN3</LastName>
-    <FirstName>Gstr1_FN3</FirstName>
-    <Matiere codeMatiere="GSTR11">19</Matiere>
-    <Matiere codeMatiere="GSTR12">12</Matiere>
-    <Matiere codeMatiere="GSTR13">13</Matiere>
+    <LastName>Christopher</LastName>
+    <FirstName>Nita Morton</FirstName>
+    <Matiere codeMatiere="GSTR11">9</Matiere>
+    <Matiere codeMatiere="GSTR12">17</Matiere>
+    <Matiere codeMatiere="GSTR13">8</Matiere>
     <Matiere codeMatiere="GSTR14">12</Matiere>
     <Matiere codeMatiere="GSTR15">12</Matiere>
-    <Matiere codeMatiere="GSTR16">14</Matiere>
-    <Matiere codeMatiere="GSTR21">14</Matiere>
+    <Matiere codeMatiere="GSTR16">12</Matiere>
+    <Matiere codeMatiere="GSTR21">16</Matiere>
+    <Matiere codeMatiere="GSTR22">11</Matiere>
+    <Matiere codeMatiere="GSTR23">12</Matiere>
+    <Matiere codeMatiere="GSTR24">11</Matiere>
+    <Matiere codeMatiere="GSTR25">10</Matiere>
+    <Matiere codeMatiere="GSTR26">19</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000004</CNE>
+    <LastName>Benjamin</LastName>
+    <FirstName>Lionel Moran</FirstName>
+    <Matiere codeMatiere="GSTR11">14</Matiere>
+    <Matiere codeMatiere="GSTR12">8</Matiere>
+    <Matiere codeMatiere="GSTR13">13</Matiere>
+    <Matiere codeMatiere="GSTR14">12</Matiere>
+    <Matiere codeMatiere="GSTR15">16</Matiere>
+    <Matiere codeMatiere="GSTR16">13</Matiere>
+    <Matiere codeMatiere="GSTR21">8</Matiere>
     <Matiere codeMatiere="GSTR22">19</Matiere>
     <Matiere codeMatiere="GSTR23">16</Matiere>
+    <Matiere codeMatiere="GSTR24">18</Matiere>
+    <Matiere codeMatiere="GSTR25">10</Matiere>
+    <Matiere codeMatiere="GSTR26">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000005</CNE>
+    <LastName>Laura</LastName>
+    <FirstName>Charissa Buck</FirstName>
+    <Matiere codeMatiere="GSTR11">12</Matiere>
+    <Matiere codeMatiere="GSTR12">14</Matiere>
+    <Matiere codeMatiere="GSTR13">11</Matiere>
+    <Matiere codeMatiere="GSTR14">17</Matiere>
+    <Matiere codeMatiere="GSTR15">12</Matiere>
+    <Matiere codeMatiere="GSTR16">13</Matiere>
+    <Matiere codeMatiere="GSTR21">12</Matiere>
+    <Matiere codeMatiere="GSTR22">5</Matiere>
+    <Matiere codeMatiere="GSTR23">17</Matiere>
+    <Matiere codeMatiere="GSTR24">12</Matiere>
+    <Matiere codeMatiere="GSTR25">13</Matiere>
+    <Matiere codeMatiere="GSTR26">16</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000006</CNE>
+    <LastName>Shellie</LastName>
+    <FirstName>Mark Sloan</FirstName>
+    <Matiere codeMatiere="GSTR11">11</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">13</Matiere>
+    <Matiere codeMatiere="GSTR15">18</Matiere>
+    <Matiere codeMatiere="GSTR16">16</Matiere>
+    <Matiere codeMatiere="GSTR21">12</Matiere>
+    <Matiere codeMatiere="GSTR22">9</Matiere>
+    <Matiere codeMatiere="GSTR23">8</Matiere>
+    <Matiere codeMatiere="GSTR24">15</Matiere>
+    <Matiere codeMatiere="GSTR25">12</Matiere>
+    <Matiere codeMatiere="GSTR26">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000007</CNE>
+    <LastName>Judith</LastName>
+    <FirstName>Adrian Fry</FirstName>
+    <Matiere codeMatiere="GSTR11">18</Matiere>
+    <Matiere codeMatiere="GSTR12">11</Matiere>
+    <Matiere codeMatiere="GSTR13">9</Matiere>
+    <Matiere codeMatiere="GSTR14">15</Matiere>
+    <Matiere codeMatiere="GSTR15">12</Matiere>
+    <Matiere codeMatiere="GSTR16">14</Matiere>
+    <Matiere codeMatiere="GSTR21">12</Matiere>
+    <Matiere codeMatiere="GSTR22">12</Matiere>
+    <Matiere codeMatiere="GSTR23">16</Matiere>
+    <Matiere codeMatiere="GSTR24">11</Matiere>
+    <Matiere codeMatiere="GSTR25">11</Matiere>
+    <Matiere codeMatiere="GSTR26">16</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000008</CNE>
+    <LastName>Boris</LastName>
+    <FirstName>Tarik Lloyd</FirstName>
+    <Matiere codeMatiere="GSTR11">20</Matiere>
+    <Matiere codeMatiere="GSTR12">19</Matiere>
+    <Matiere codeMatiere="GSTR13">13</Matiere>
+    <Matiere codeMatiere="GSTR14">17</Matiere>
+    <Matiere codeMatiere="GSTR15">13</Matiere>
+    <Matiere codeMatiere="GSTR16">14</Matiere>
+    <Matiere codeMatiere="GSTR21">17</Matiere>
+    <Matiere codeMatiere="GSTR22">12</Matiere>
+    <Matiere codeMatiere="GSTR23">13</Matiere>
+    <Matiere codeMatiere="GSTR24">12</Matiere>
+    <Matiere codeMatiere="GSTR25">9</Matiere>
+    <Matiere codeMatiere="GSTR26">20</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000009</CNE>
+    <LastName>Amaya</LastName>
+    <FirstName>Octavius Fitzpatrick</FirstName>
+    <Matiere codeMatiere="GSTR11">15</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">14</Matiere>
+    <Matiere codeMatiere="GSTR14">10</Matiere>
+    <Matiere codeMatiere="GSTR15">15</Matiere>
+    <Matiere codeMatiere="GSTR16">9</Matiere>
+    <Matiere codeMatiere="GSTR21">13</Matiere>
+    <Matiere codeMatiere="GSTR22">10</Matiere>
+    <Matiere codeMatiere="GSTR23">17</Matiere>
+    <Matiere codeMatiere="GSTR24">11</Matiere>
+    <Matiere codeMatiere="GSTR25">11</Matiere>
+    <Matiere codeMatiere="GSTR26">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000010</CNE>
+    <LastName>Eagan</LastName>
+    <FirstName>Alexander Richards</FirstName>
+    <Matiere codeMatiere="GSTR11">12</Matiere>
+    <Matiere codeMatiere="GSTR12">17</Matiere>
+    <Matiere codeMatiere="GSTR13">8</Matiere>
+    <Matiere codeMatiere="GSTR14">17</Matiere>
+    <Matiere codeMatiere="GSTR15">12</Matiere>
+    <Matiere codeMatiere="GSTR16">13</Matiere>
+    <Matiere codeMatiere="GSTR21">9</Matiere>
+    <Matiere codeMatiere="GSTR22">15</Matiere>
+    <Matiere codeMatiere="GSTR23">13</Matiere>
+    <Matiere codeMatiere="GSTR24">17</Matiere>
+    <Matiere codeMatiere="GSTR25">17</Matiere>
+    <Matiere codeMatiere="GSTR26">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000011</CNE>
+    <LastName>Demetria</LastName>
+    <FirstName>Nina Gentry</FirstName>
+    <Matiere codeMatiere="GSTR11">17</Matiere>
+    <Matiere codeMatiere="GSTR12">17</Matiere>
+    <Matiere codeMatiere="GSTR13">15</Matiere>
+    <Matiere codeMatiere="GSTR14">15</Matiere>
+    <Matiere codeMatiere="GSTR15">16</Matiere>
+    <Matiere codeMatiere="GSTR16">17</Matiere>
+    <Matiere codeMatiere="GSTR21">12</Matiere>
+    <Matiere codeMatiere="GSTR22">19</Matiere>
+    <Matiere codeMatiere="GSTR23">12</Matiere>
     <Matiere codeMatiere="GSTR24">18</Matiere>
     <Matiere codeMatiere="GSTR25">12</Matiere>
     <Matiere codeMatiere="GSTR26">12</Matiere>
   </Note>
   <Note>
-    <CNE>19000004</CNE>
-    <LastName>Gstr1_LN4</LastName>
-    <FirstName>Gstr1_FN4</FirstName>
-    <Matiere codeMatiere="GSTR11">12</Matiere>
-    <Matiere codeMatiere="GSTR12">17</Matiere>
-    <Matiere codeMatiere="GSTR13">8</Matiere>
-    <Matiere codeMatiere="GSTR14">10</Matiere>
-    <Matiere codeMatiere="GSTR15">15</Matiere>
-    <Matiere codeMatiere="GSTR16">18</Matiere>
-    <Matiere codeMatiere="GSTR21">15</Matiere>
-    <Matiere codeMatiere="GSTR22">12</Matiere>
-    <Matiere codeMatiere="GSTR23">15</Matiere>
-    <Matiere codeMatiere="GSTR24">19</Matiere>
-    <Matiere codeMatiere="GSTR25">9</Matiere>
-    <Matiere codeMatiere="GSTR26">9</Matiere>
+    <CNE>19000012</CNE>
+    <LastName>Jana</LastName>
+    <FirstName>Aidan Ware</FirstName>
+    <Matiere codeMatiere="GSTR11">10</Matiere>
+    <Matiere codeMatiere="GSTR12">18</Matiere>
+    <Matiere codeMatiere="GSTR13">14</Matiere>
+    <Matiere codeMatiere="GSTR14">18</Matiere>
+    <Matiere codeMatiere="GSTR15">13</Matiere>
+    <Matiere codeMatiere="GSTR16">11</Matiere>
+    <Matiere codeMatiere="GSTR21">14</Matiere>
+    <Matiere codeMatiere="GSTR22">18</Matiere>
+    <Matiere codeMatiere="GSTR23">12</Matiere>
+    <Matiere codeMatiere="GSTR24">13</Matiere>
+    <Matiere codeMatiere="GSTR25">12</Matiere>
+    <Matiere codeMatiere="GSTR26">14</Matiere>
   </Note>
   <Note>
-    <CNE>19000005</CNE>
-    <LastName>Gstr1_LN5</LastName>
-    <FirstName>Gstr1_FN5</FirstName>
+    <CNE>19000013</CNE>
+    <LastName>Hedley</LastName>
+    <FirstName>Leila Welch</FirstName>
     <Matiere codeMatiere="GSTR11">12</Matiere>
-    <Matiere codeMatiere="GSTR12">16</Matiere>
-    <Matiere codeMatiere="GSTR13">17</Matiere>
-    <Matiere codeMatiere="GSTR14">12</Matiere>
-    <Matiere codeMatiere="GSTR15">12</Matiere>
+    <Matiere codeMatiere="GSTR12">8</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">17</Matiere>
+    <Matiere codeMatiere="GSTR15">11</Matiere>
+    <Matiere codeMatiere="GSTR16">10</Matiere>
+    <Matiere codeMatiere="GSTR21">14</Matiere>
+    <Matiere codeMatiere="GSTR22">5</Matiere>
+    <Matiere codeMatiere="GSTR23">16</Matiere>
+    <Matiere codeMatiere="GSTR24">12</Matiere>
+    <Matiere codeMatiere="GSTR25">9</Matiere>
+    <Matiere codeMatiere="GSTR26">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000014</CNE>
+    <LastName>Kamal</LastName>
+    <FirstName>Donovan Snow</FirstName>
+    <Matiere codeMatiere="GSTR11">17</Matiere>
+    <Matiere codeMatiere="GSTR12">19</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">13</Matiere>
+    <Matiere codeMatiere="GSTR15">18</Matiere>
     <Matiere codeMatiere="GSTR16">12</Matiere>
-    <Matiere codeMatiere="GSTR21">19</Matiere>
+    <Matiere codeMatiere="GSTR21">14</Matiere>
+    <Matiere codeMatiere="GSTR22">8</Matiere>
+    <Matiere codeMatiere="GSTR23">12</Matiere>
+    <Matiere codeMatiere="GSTR24">11</Matiere>
+    <Matiere codeMatiere="GSTR25">12</Matiere>
+    <Matiere codeMatiere="GSTR26">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000015</CNE>
+    <LastName>Dillon</LastName>
+    <FirstName>Marshall Ashley</FirstName>
+    <Matiere codeMatiere="GSTR11">15</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">12</Matiere>
+    <Matiere codeMatiere="GSTR15">13</Matiere>
+    <Matiere codeMatiere="GSTR16">9</Matiere>
+    <Matiere codeMatiere="GSTR21">16</Matiere>
+    <Matiere codeMatiere="GSTR22">12</Matiere>
+    <Matiere codeMatiere="GSTR23">10</Matiere>
+    <Matiere codeMatiere="GSTR24">8</Matiere>
+    <Matiere codeMatiere="GSTR25">12</Matiere>
+    <Matiere codeMatiere="GSTR26">16</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000016</CNE>
+    <LastName>Brock</LastName>
+    <FirstName>Xantha Kim</FirstName>
+    <Matiere codeMatiere="GSTR11">15</Matiere>
+    <Matiere codeMatiere="GSTR12">8</Matiere>
+    <Matiere codeMatiere="GSTR13">13</Matiere>
+    <Matiere codeMatiere="GSTR14">15</Matiere>
+    <Matiere codeMatiere="GSTR15">13</Matiere>
+    <Matiere codeMatiere="GSTR16">17</Matiere>
+    <Matiere codeMatiere="GSTR21">14</Matiere>
+    <Matiere codeMatiere="GSTR22">10</Matiere>
+    <Matiere codeMatiere="GSTR23">14</Matiere>
+    <Matiere codeMatiere="GSTR24">16</Matiere>
+    <Matiere codeMatiere="GSTR25">13</Matiere>
+    <Matiere codeMatiere="GSTR26">13</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000017</CNE>
+    <LastName>Jenette</LastName>
+    <FirstName>Jorden Wiley</FirstName>
+    <Matiere codeMatiere="GSTR11">12</Matiere>
+    <Matiere codeMatiere="GSTR12">11</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">12</Matiere>
+    <Matiere codeMatiere="GSTR15">8</Matiere>
+    <Matiere codeMatiere="GSTR16">10</Matiere>
+    <Matiere codeMatiere="GSTR21">12</Matiere>
     <Matiere codeMatiere="GSTR22">11</Matiere>
-    <Matiere codeMatiere="GSTR23">17</Matiere>
+    <Matiere codeMatiere="GSTR23">12</Matiere>
+    <Matiere codeMatiere="GSTR24">16</Matiere>
+    <Matiere codeMatiere="GSTR25">11</Matiere>
+    <Matiere codeMatiere="GSTR26">12</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000018</CNE>
+    <LastName>Linda</LastName>
+    <FirstName>Vladimir Key</FirstName>
+    <Matiere codeMatiere="GSTR11">18</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">14</Matiere>
+    <Matiere codeMatiere="GSTR14">13</Matiere>
+    <Matiere codeMatiere="GSTR15">13</Matiere>
+    <Matiere codeMatiere="GSTR16">6</Matiere>
+    <Matiere codeMatiere="GSTR21">10</Matiere>
+    <Matiere codeMatiere="GSTR22">9</Matiere>
+    <Matiere codeMatiere="GSTR23">16</Matiere>
+    <Matiere codeMatiere="GSTR24">12</Matiere>
+    <Matiere codeMatiere="GSTR25">15</Matiere>
+    <Matiere codeMatiere="GSTR26">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000019</CNE>
+    <LastName>Cassandra</LastName>
+    <FirstName>Aretha Suarez</FirstName>
+    <Matiere codeMatiere="GSTR11">13</Matiere>
+    <Matiere codeMatiere="GSTR12">11</Matiere>
+    <Matiere codeMatiere="GSTR13">15</Matiere>
+    <Matiere codeMatiere="GSTR14">13</Matiere>
+    <Matiere codeMatiere="GSTR15">17</Matiere>
+    <Matiere codeMatiere="GSTR16">9</Matiere>
+    <Matiere codeMatiere="GSTR21">12</Matiere>
+    <Matiere codeMatiere="GSTR22">18</Matiere>
+    <Matiere codeMatiere="GSTR23">8</Matiere>
+    <Matiere codeMatiere="GSTR24">11</Matiere>
+    <Matiere codeMatiere="GSTR25">8</Matiere>
+    <Matiere codeMatiere="GSTR26">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000020</CNE>
+    <LastName>Kane</LastName>
+    <FirstName>Walter Bradford</FirstName>
+    <Matiere codeMatiere="GSTR11">12</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">18</Matiere>
+    <Matiere codeMatiere="GSTR15">17</Matiere>
+    <Matiere codeMatiere="GSTR16">10</Matiere>
+    <Matiere codeMatiere="GSTR21">20</Matiere>
+    <Matiere codeMatiere="GSTR22">13</Matiere>
+    <Matiere codeMatiere="GSTR23">16</Matiere>
+    <Matiere codeMatiere="GSTR24">13</Matiere>
+    <Matiere codeMatiere="GSTR25">11</Matiere>
+    <Matiere codeMatiere="GSTR26">15</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000021</CNE>
+    <LastName>Elijah</LastName>
+    <FirstName>Price Morrison</FirstName>
+    <Matiere codeMatiere="GSTR11">12</Matiere>
+    <Matiere codeMatiere="GSTR12">19</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">15</Matiere>
+    <Matiere codeMatiere="GSTR15">8</Matiere>
+    <Matiere codeMatiere="GSTR16">13</Matiere>
+    <Matiere codeMatiere="GSTR21">10</Matiere>
+    <Matiere codeMatiere="GSTR22">17</Matiere>
+    <Matiere codeMatiere="GSTR23">11</Matiere>
     <Matiere codeMatiere="GSTR24">12</Matiere>
     <Matiere codeMatiere="GSTR25">12</Matiere>
     <Matiere codeMatiere="GSTR26">17</Matiere>
   </Note>
   <Note>
-    <CNE>19000006</CNE>
-    <LastName>Gstr1_LN6</LastName>
-    <FirstName>Gstr1_FN6</FirstName>
-    <Matiere codeMatiere="GSTR11">12</Matiere>
-    <Matiere codeMatiere="GSTR12">10</Matiere>
-    <Matiere codeMatiere="GSTR13">16</Matiere>
-    <Matiere codeMatiere="GSTR14">15</Matiere>
-    <Matiere codeMatiere="GSTR15">15</Matiere>
-    <Matiere codeMatiere="GSTR16">14</Matiere>
-    <Matiere codeMatiere="GSTR21">12</Matiere>
-    <Matiere codeMatiere="GSTR22">10</Matiere>
-    <Matiere codeMatiere="GSTR23">16</Matiere>
-    <Matiere codeMatiere="GSTR24">18</Matiere>
-    <Matiere codeMatiere="GSTR25">12</Matiere>
-    <Matiere codeMatiere="GSTR26">12</Matiere>
-  </Note>
-  <Note>
-    <CNE>19000007</CNE>
-    <LastName>Gstr1_LN7</LastName>
-    <FirstName>Gstr1_FN7</FirstName>
+    <CNE>19000022</CNE>
+    <LastName>Iris</LastName>
+    <FirstName>Eve Garcia</FirstName>
     <Matiere codeMatiere="GSTR11">11</Matiere>
-    <Matiere codeMatiere="GSTR12">13</Matiere>
-    <Matiere codeMatiere="GSTR13">13</Matiere>
-    <Matiere codeMatiere="GSTR14">17</Matiere>
-    <Matiere codeMatiere="GSTR15">17</Matiere>
-    <Matiere codeMatiere="GSTR16">12</Matiere>
-    <Matiere codeMatiere="GSTR21">12</Matiere>
-    <Matiere codeMatiere="GSTR22">14</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">7</Matiere>
+    <Matiere codeMatiere="GSTR14">13</Matiere>
+    <Matiere codeMatiere="GSTR15">12</Matiere>
+    <Matiere codeMatiere="GSTR16">10</Matiere>
+    <Matiere codeMatiere="GSTR21">16</Matiere>
+    <Matiere codeMatiere="GSTR22">5</Matiere>
     <Matiere codeMatiere="GSTR23">8</Matiere>
-    <Matiere codeMatiere="GSTR24">16</Matiere>
-    <Matiere codeMatiere="GSTR25">19</Matiere>
-    <Matiere codeMatiere="GSTR26">20</Matiere>
+    <Matiere codeMatiere="GSTR24">12</Matiere>
+    <Matiere codeMatiere="GSTR25">10</Matiere>
+    <Matiere codeMatiere="GSTR26">8</Matiere>
   </Note>
   <Note>
-    <CNE>19000008</CNE>
-    <LastName>Gstr1_LN8</LastName>
-    <FirstName>Gstr1_FN8</FirstName>
+    <CNE>19000023</CNE>
+    <LastName>Drew</LastName>
+    <FirstName>Ryder Lucas</FirstName>
     <Matiere codeMatiere="GSTR11">9</Matiere>
+    <Matiere codeMatiere="GSTR12">18</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">12</Matiere>
+    <Matiere codeMatiere="GSTR15">18</Matiere>
+    <Matiere codeMatiere="GSTR16">8</Matiere>
+    <Matiere codeMatiere="GSTR21">18</Matiere>
+    <Matiere codeMatiere="GSTR22">15</Matiere>
+    <Matiere codeMatiere="GSTR23">11</Matiere>
+    <Matiere codeMatiere="GSTR24">10</Matiere>
+    <Matiere codeMatiere="GSTR25">16</Matiere>
+    <Matiere codeMatiere="GSTR26">10</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000024</CNE>
+    <LastName>Delilah</LastName>
+    <FirstName>Isadora Beard</FirstName>
+    <Matiere codeMatiere="GSTR11">17</Matiere>
+    <Matiere codeMatiere="GSTR12">16</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">15</Matiere>
+    <Matiere codeMatiere="GSTR15">9</Matiere>
+    <Matiere codeMatiere="GSTR16">14</Matiere>
+    <Matiere codeMatiere="GSTR21">14</Matiere>
+    <Matiere codeMatiere="GSTR22">11</Matiere>
+    <Matiere codeMatiere="GSTR23">12</Matiere>
+    <Matiere codeMatiere="GSTR24">9</Matiere>
+    <Matiere codeMatiere="GSTR25">14</Matiere>
+    <Matiere codeMatiere="GSTR26">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000025</CNE>
+    <LastName>Tyrone</LastName>
+    <FirstName>Sean Martin</FirstName>
+    <Matiere codeMatiere="GSTR11">12</Matiere>
     <Matiere codeMatiere="GSTR12">17</Matiere>
+    <Matiere codeMatiere="GSTR13">10</Matiere>
+    <Matiere codeMatiere="GSTR14">16</Matiere>
+    <Matiere codeMatiere="GSTR15">15</Matiere>
+    <Matiere codeMatiere="GSTR16">10</Matiere>
+    <Matiere codeMatiere="GSTR21">18</Matiere>
+    <Matiere codeMatiere="GSTR22">11</Matiere>
+    <Matiere codeMatiere="GSTR23">12</Matiere>
+    <Matiere codeMatiere="GSTR24">18</Matiere>
+    <Matiere codeMatiere="GSTR25">7</Matiere>
+    <Matiere codeMatiere="GSTR26">13</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000026</CNE>
+    <LastName>Eleanor</LastName>
+    <FirstName>Gareth Wooten</FirstName>
+    <Matiere codeMatiere="GSTR11">6</Matiere>
+    <Matiere codeMatiere="GSTR12">8</Matiere>
     <Matiere codeMatiere="GSTR13">12</Matiere>
     <Matiere codeMatiere="GSTR14">12</Matiere>
     <Matiere codeMatiere="GSTR15">14</Matiere>
-    <Matiere codeMatiere="GSTR16">17</Matiere>
-    <Matiere codeMatiere="GSTR21">10</Matiere>
-    <Matiere codeMatiere="GSTR22">15</Matiere>
+    <Matiere codeMatiere="GSTR16">12</Matiere>
+    <Matiere codeMatiere="GSTR21">12</Matiere>
+    <Matiere codeMatiere="GSTR22">10</Matiere>
     <Matiere codeMatiere="GSTR23">13</Matiere>
+    <Matiere codeMatiere="GSTR24">8</Matiere>
+    <Matiere codeMatiere="GSTR25">15</Matiere>
+    <Matiere codeMatiere="GSTR26">20</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000027</CNE>
+    <LastName>Noah</LastName>
+    <FirstName>Nomlanga Diaz</FirstName>
+    <Matiere codeMatiere="GSTR11">18</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">9</Matiere>
+    <Matiere codeMatiere="GSTR14">14</Matiere>
+    <Matiere codeMatiere="GSTR15">18</Matiere>
+    <Matiere codeMatiere="GSTR16">7</Matiere>
+    <Matiere codeMatiere="GSTR21">12</Matiere>
+    <Matiere codeMatiere="GSTR22">15</Matiere>
+    <Matiere codeMatiere="GSTR23">11</Matiere>
+    <Matiere codeMatiere="GSTR24">11</Matiere>
+    <Matiere codeMatiere="GSTR25">20</Matiere>
+    <Matiere codeMatiere="GSTR26">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000028</CNE>
+    <LastName>Igor</LastName>
+    <FirstName>Hop Atkins</FirstName>
+    <Matiere codeMatiere="GSTR11">9</Matiere>
+    <Matiere codeMatiere="GSTR12">11</Matiere>
+    <Matiere codeMatiere="GSTR13">13</Matiere>
+    <Matiere codeMatiere="GSTR14">16</Matiere>
+    <Matiere codeMatiere="GSTR15">13</Matiere>
+    <Matiere codeMatiere="GSTR16">16</Matiere>
+    <Matiere codeMatiere="GSTR21">12</Matiere>
+    <Matiere codeMatiere="GSTR22">17</Matiere>
+    <Matiere codeMatiere="GSTR23">12</Matiere>
+    <Matiere codeMatiere="GSTR24">10</Matiere>
+    <Matiere codeMatiere="GSTR25">8</Matiere>
+    <Matiere codeMatiere="GSTR26">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000029</CNE>
+    <LastName>Samson</LastName>
+    <FirstName>Phyllis Higgins</FirstName>
+    <Matiere codeMatiere="GSTR11">19</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">12</Matiere>
+    <Matiere codeMatiere="GSTR15">14</Matiere>
+    <Matiere codeMatiere="GSTR16">18</Matiere>
+    <Matiere codeMatiere="GSTR21">12</Matiere>
+    <Matiere codeMatiere="GSTR22">18</Matiere>
+    <Matiere codeMatiere="GSTR23">10</Matiere>
+    <Matiere codeMatiere="GSTR24">15</Matiere>
+    <Matiere codeMatiere="GSTR25">20</Matiere>
+    <Matiere codeMatiere="GSTR26">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000030</CNE>
+    <LastName>Yvette</LastName>
+    <FirstName>Sybill Mcintyre</FirstName>
+    <Matiere codeMatiere="GSTR11">15</Matiere>
+    <Matiere codeMatiere="GSTR12">16</Matiere>
+    <Matiere codeMatiere="GSTR13">13</Matiere>
+    <Matiere codeMatiere="GSTR14">14</Matiere>
+    <Matiere codeMatiere="GSTR15">12</Matiere>
+    <Matiere codeMatiere="GSTR16">11</Matiere>
+    <Matiere codeMatiere="GSTR21">15</Matiere>
+    <Matiere codeMatiere="GSTR22">19</Matiere>
+    <Matiere codeMatiere="GSTR23">12</Matiere>
+    <Matiere codeMatiere="GSTR24">12</Matiere>
+    <Matiere codeMatiere="GSTR25">14</Matiere>
+    <Matiere codeMatiere="GSTR26">19</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000031</CNE>
+    <LastName>Jena</LastName>
+    <FirstName>Yvette Vazquez</FirstName>
+    <Matiere codeMatiere="GSTR11">19</Matiere>
+    <Matiere codeMatiere="GSTR12">17</Matiere>
+    <Matiere codeMatiere="GSTR13">7</Matiere>
+    <Matiere codeMatiere="GSTR14">17</Matiere>
+    <Matiere codeMatiere="GSTR15">8</Matiere>
+    <Matiere codeMatiere="GSTR16">15</Matiere>
+    <Matiere codeMatiere="GSTR21">19</Matiere>
+    <Matiere codeMatiere="GSTR22">9</Matiere>
+    <Matiere codeMatiere="GSTR23">11</Matiere>
+    <Matiere codeMatiere="GSTR24">12</Matiere>
+    <Matiere codeMatiere="GSTR25">14</Matiere>
+    <Matiere codeMatiere="GSTR26">13</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000032</CNE>
+    <LastName>Inez</LastName>
+    <FirstName>Risa Patrick</FirstName>
+    <Matiere codeMatiere="GSTR11">18</Matiere>
+    <Matiere codeMatiere="GSTR12">6</Matiere>
+    <Matiere codeMatiere="GSTR13">9</Matiere>
+    <Matiere codeMatiere="GSTR14">10</Matiere>
+    <Matiere codeMatiere="GSTR15">12</Matiere>
+    <Matiere codeMatiere="GSTR16">11</Matiere>
+    <Matiere codeMatiere="GSTR21">18</Matiere>
+    <Matiere codeMatiere="GSTR22">17</Matiere>
+    <Matiere codeMatiere="GSTR23">12</Matiere>
+    <Matiere codeMatiere="GSTR24">11</Matiere>
+    <Matiere codeMatiere="GSTR25">12</Matiere>
+    <Matiere codeMatiere="GSTR26">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000033</CNE>
+    <LastName>Ramona</LastName>
+    <FirstName>Bevis Bender</FirstName>
+    <Matiere codeMatiere="GSTR11">12</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">10</Matiere>
+    <Matiere codeMatiere="GSTR14">17</Matiere>
+    <Matiere codeMatiere="GSTR15">12</Matiere>
+    <Matiere codeMatiere="GSTR16">8</Matiere>
+    <Matiere codeMatiere="GSTR21">17</Matiere>
+    <Matiere codeMatiere="GSTR22">15</Matiere>
+    <Matiere codeMatiere="GSTR23">8</Matiere>
+    <Matiere codeMatiere="GSTR24">12</Matiere>
+    <Matiere codeMatiere="GSTR25">12</Matiere>
+    <Matiere codeMatiere="GSTR26">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000034</CNE>
+    <LastName>Meghan</LastName>
+    <FirstName>Linda Roberson</FirstName>
+    <Matiere codeMatiere="GSTR11">19</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">7</Matiere>
+    <Matiere codeMatiere="GSTR14">14</Matiere>
+    <Matiere codeMatiere="GSTR15">8</Matiere>
+    <Matiere codeMatiere="GSTR16">11</Matiere>
+    <Matiere codeMatiere="GSTR21">13</Matiere>
+    <Matiere codeMatiere="GSTR22">9</Matiere>
+    <Matiere codeMatiere="GSTR23">11</Matiere>
+    <Matiere codeMatiere="GSTR24">11</Matiere>
+    <Matiere codeMatiere="GSTR25">14</Matiere>
+    <Matiere codeMatiere="GSTR26">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000035</CNE>
+    <LastName>Phelan</LastName>
+    <FirstName>Zelenia Lynn</FirstName>
+    <Matiere codeMatiere="GSTR11">5</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">11</Matiere>
+    <Matiere codeMatiere="GSTR14">13</Matiere>
+    <Matiere codeMatiere="GSTR15">17</Matiere>
+    <Matiere codeMatiere="GSTR16">12</Matiere>
+    <Matiere codeMatiere="GSTR21">8</Matiere>
+    <Matiere codeMatiere="GSTR22">12</Matiere>
+    <Matiere codeMatiere="GSTR23">10</Matiere>
+    <Matiere codeMatiere="GSTR24">16</Matiere>
+    <Matiere codeMatiere="GSTR25">12</Matiere>
+    <Matiere codeMatiere="GSTR26">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000036</CNE>
+    <LastName>Alec</LastName>
+    <FirstName>September Guy</FirstName>
+    <Matiere codeMatiere="GSTR11">11</Matiere>
+    <Matiere codeMatiere="GSTR12">11</Matiere>
+    <Matiere codeMatiere="GSTR13">14</Matiere>
+    <Matiere codeMatiere="GSTR14">12</Matiere>
+    <Matiere codeMatiere="GSTR15">9</Matiere>
+    <Matiere codeMatiere="GSTR16">12</Matiere>
+    <Matiere codeMatiere="GSTR21">13</Matiere>
+    <Matiere codeMatiere="GSTR22">12</Matiere>
+    <Matiere codeMatiere="GSTR23">8</Matiere>
+    <Matiere codeMatiere="GSTR24">11</Matiere>
+    <Matiere codeMatiere="GSTR25">14</Matiere>
+    <Matiere codeMatiere="GSTR26">13</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000037</CNE>
+    <LastName>Stuart</LastName>
+    <FirstName>Isabella Avery</FirstName>
+    <Matiere codeMatiere="GSTR11">12</Matiere>
+    <Matiere codeMatiere="GSTR12">9</Matiere>
+    <Matiere codeMatiere="GSTR13">14</Matiere>
+    <Matiere codeMatiere="GSTR14">13</Matiere>
+    <Matiere codeMatiere="GSTR15">16</Matiere>
+    <Matiere codeMatiere="GSTR16">7</Matiere>
+    <Matiere codeMatiere="GSTR21">14</Matiere>
+    <Matiere codeMatiere="GSTR22">17</Matiere>
+    <Matiere codeMatiere="GSTR23">11</Matiere>
+    <Matiere codeMatiere="GSTR24">14</Matiere>
+    <Matiere codeMatiere="GSTR25">10</Matiere>
+    <Matiere codeMatiere="GSTR26">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>111000038</CNE>
+    <LastName>Reese</LastName>
+    <FirstName>Jena Swanson</FirstName>
+    <Matiere codeMatiere="GSTR11">10</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">10</Matiere>
+    <Matiere codeMatiere="GSTR14">14</Matiere>
+    <Matiere codeMatiere="GSTR15">10</Matiere>
+    <Matiere codeMatiere="GSTR16">6</Matiere>
+    <Matiere codeMatiere="GSTR21">15</Matiere>
+    <Matiere codeMatiere="GSTR22">14</Matiere>
+    <Matiere codeMatiere="GSTR23">6</Matiere>
+    <Matiere codeMatiere="GSTR24">12</Matiere>
+    <Matiere codeMatiere="GSTR25">16</Matiere>
+    <Matiere codeMatiere="GSTR26">14</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000039</CNE>
+    <LastName>Hermione</LastName>
+    <FirstName>Jemima Dixon</FirstName>
+    <Matiere codeMatiere="GSTR11">16</Matiere>
+    <Matiere codeMatiere="GSTR12">14</Matiere>
+    <Matiere codeMatiere="GSTR13">14</Matiere>
+    <Matiere codeMatiere="GSTR14">15</Matiere>
+    <Matiere codeMatiere="GSTR15">13</Matiere>
+    <Matiere codeMatiere="GSTR16">10</Matiere>
+    <Matiere codeMatiere="GSTR21">8</Matiere>
+    <Matiere codeMatiere="GSTR22">18</Matiere>
+    <Matiere codeMatiere="GSTR23">10</Matiere>
+    <Matiere codeMatiere="GSTR24">12</Matiere>
+    <Matiere codeMatiere="GSTR25">15</Matiere>
+    <Matiere codeMatiere="GSTR26">16</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000040</CNE>
+    <LastName>Thaddeus</LastName>
+    <FirstName>Neville Morris</FirstName>
+    <Matiere codeMatiere="GSTR11">12</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">13</Matiere>
+    <Matiere codeMatiere="GSTR14">14</Matiere>
+    <Matiere codeMatiere="GSTR15">18</Matiere>
+    <Matiere codeMatiere="GSTR16">8</Matiere>
+    <Matiere codeMatiere="GSTR21">9</Matiere>
+    <Matiere codeMatiere="GSTR22">9</Matiere>
+    <Matiere codeMatiere="GSTR23">7</Matiere>
+    <Matiere codeMatiere="GSTR24">9</Matiere>
+    <Matiere codeMatiere="GSTR25">11</Matiere>
+    <Matiere codeMatiere="GSTR26">20</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000041</CNE>
+    <LastName>Stella</LastName>
+    <FirstName>Grant Terry</FirstName>
+    <Matiere codeMatiere="GSTR11">9</Matiere>
+    <Matiere codeMatiere="GSTR12">20</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">18</Matiere>
+    <Matiere codeMatiere="GSTR15">11</Matiere>
+    <Matiere codeMatiere="GSTR16">17</Matiere>
+    <Matiere codeMatiere="GSTR21">16</Matiere>
+    <Matiere codeMatiere="GSTR22">15</Matiere>
+    <Matiere codeMatiere="GSTR23">16</Matiere>
+    <Matiere codeMatiere="GSTR24">12</Matiere>
+    <Matiere codeMatiere="GSTR25">9</Matiere>
+    <Matiere codeMatiere="GSTR26">18</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000042</CNE>
+    <LastName>Brenda</LastName>
+    <FirstName>Quentin Gibson</FirstName>
+    <Matiere codeMatiere="GSTR11">8</Matiere>
+    <Matiere codeMatiere="GSTR12">13</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">14</Matiere>
+    <Matiere codeMatiere="GSTR15">18</Matiere>
+    <Matiere codeMatiere="GSTR16">12</Matiere>
+    <Matiere codeMatiere="GSTR21">17</Matiere>
+    <Matiere codeMatiere="GSTR22">8</Matiere>
+    <Matiere codeMatiere="GSTR23">11</Matiere>
+    <Matiere codeMatiere="GSTR24">15</Matiere>
+    <Matiere codeMatiere="GSTR25">10</Matiere>
+    <Matiere codeMatiere="GSTR26">15</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000043</CNE>
+    <LastName>Ariana</LastName>
+    <FirstName>Adrian Galloway</FirstName>
+    <Matiere codeMatiere="GSTR11">19</Matiere>
+    <Matiere codeMatiere="GSTR12">18</Matiere>
+    <Matiere codeMatiere="GSTR13">8</Matiere>
+    <Matiere codeMatiere="GSTR14">13</Matiere>
+    <Matiere codeMatiere="GSTR15">17</Matiere>
+    <Matiere codeMatiere="GSTR16">8</Matiere>
+    <Matiere codeMatiere="GSTR21">9</Matiere>
+    <Matiere codeMatiere="GSTR22">9</Matiere>
+    <Matiere codeMatiere="GSTR23">8</Matiere>
     <Matiere codeMatiere="GSTR24">17</Matiere>
-    <Matiere codeMatiere="GSTR25">18</Matiere>
+    <Matiere codeMatiere="GSTR25">8</Matiere>
+    <Matiere codeMatiere="GSTR26">8</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000044</CNE>
+    <LastName>Yasir</LastName>
+    <FirstName>Kevyn Flores</FirstName>
+    <Matiere codeMatiere="GSTR11">18</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">11</Matiere>
+    <Matiere codeMatiere="GSTR14">11</Matiere>
+    <Matiere codeMatiere="GSTR15">12</Matiere>
+    <Matiere codeMatiere="GSTR16">16</Matiere>
+    <Matiere codeMatiere="GSTR21">12</Matiere>
+    <Matiere codeMatiere="GSTR22">17</Matiere>
+    <Matiere codeMatiere="GSTR23">15</Matiere>
+    <Matiere codeMatiere="GSTR24">13</Matiere>
+    <Matiere codeMatiere="GSTR25">9</Matiere>
     <Matiere codeMatiere="GSTR26">12</Matiere>
   </Note>
   <Note>
-    <CNE>19000009</CNE>
-    <LastName>Gstr1_LN9</LastName>
-    <FirstName>Gstr1_FN9</FirstName>
-    <Matiere codeMatiere="GSTR11">15</Matiere>
-    <Matiere codeMatiere="GSTR12">9</Matiere>
-    <Matiere codeMatiere="GSTR13">17</Matiere>
-    <Matiere codeMatiere="GSTR14">10</Matiere>
+    <CNE>19000045</CNE>
+    <LastName>Castor</LastName>
+    <FirstName>Summer Salas</FirstName>
+    <Matiere codeMatiere="GSTR11">8</Matiere>
+    <Matiere codeMatiere="GSTR12">17</Matiere>
+    <Matiere codeMatiere="GSTR13">10</Matiere>
+    <Matiere codeMatiere="GSTR14">16</Matiere>
     <Matiere codeMatiere="GSTR15">18</Matiere>
-    <Matiere codeMatiere="GSTR16">20</Matiere>
-    <Matiere codeMatiere="GSTR21">10</Matiere>
-    <Matiere codeMatiere="GSTR22">18</Matiere>
-    <Matiere codeMatiere="GSTR23">19</Matiere>
-    <Matiere codeMatiere="GSTR24">14</Matiere>
+    <Matiere codeMatiere="GSTR16">14</Matiere>
+    <Matiere codeMatiere="GSTR21">12</Matiere>
+    <Matiere codeMatiere="GSTR22">15</Matiere>
+    <Matiere codeMatiere="GSTR23">13</Matiere>
+    <Matiere codeMatiere="GSTR24">6</Matiere>
+    <Matiere codeMatiere="GSTR25">11</Matiere>
+    <Matiere codeMatiere="GSTR26">17</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000046</CNE>
+    <LastName>Rogan</LastName>
+    <FirstName>Byron Rollins</FirstName>
+    <Matiere codeMatiere="GSTR11">17</Matiere>
+    <Matiere codeMatiere="GSTR12">12</Matiere>
+    <Matiere codeMatiere="GSTR13">12</Matiere>
+    <Matiere codeMatiere="GSTR14">12</Matiere>
+    <Matiere codeMatiere="GSTR15">14</Matiere>
+    <Matiere codeMatiere="GSTR16">16</Matiere>
+    <Matiere codeMatiere="GSTR21">13</Matiere>
+    <Matiere codeMatiere="GSTR22">9</Matiere>
+    <Matiere codeMatiere="GSTR23">16</Matiere>
+    <Matiere codeMatiere="GSTR24">9</Matiere>
     <Matiere codeMatiere="GSTR25">13</Matiere>
     <Matiere codeMatiere="GSTR26">12</Matiere>
   </Note>
   <Note>
-    <CNE>19000010</CNE>
-    <LastName>Gstr1_LN10</LastName>
-    <FirstName>Gstr1_FN10</FirstName>
-    <Matiere codeMatiere="GSTR11">13</Matiere>
-    <Matiere codeMatiere="GSTR12">16</Matiere>
-    <Matiere codeMatiere="GSTR13">20</Matiere>
-    <Matiere codeMatiere="GSTR14">19</Matiere>
-    <Matiere codeMatiere="GSTR15">19</Matiere>
-    <Matiere codeMatiere="GSTR16">15</Matiere>
-    <Matiere codeMatiere="GSTR21">20</Matiere>
-    <Matiere codeMatiere="GSTR22">16</Matiere>
-    <Matiere codeMatiere="GSTR23">14</Matiere>
-    <Matiere codeMatiere="GSTR24">15</Matiere>
+    <CNE>19000047</CNE>
+    <LastName>Dai</LastName>
+    <FirstName>Fredericka Travis</FirstName>
+    <Matiere codeMatiere="GSTR11">12</Matiere>
+    <Matiere codeMatiere="GSTR12">11</Matiere>
+    <Matiere codeMatiere="GSTR13">8</Matiere>
+    <Matiere codeMatiere="GSTR14">12</Matiere>
+    <Matiere codeMatiere="GSTR15">12</Matiere>
+    <Matiere codeMatiere="GSTR16">9</Matiere>
+    <Matiere codeMatiere="GSTR21">15</Matiere>
+    <Matiere codeMatiere="GSTR22">7</Matiere>
+    <Matiere codeMatiere="GSTR23">12</Matiere>
+    <Matiere codeMatiere="GSTR24">11</Matiere>
+    <Matiere codeMatiere="GSTR25">16</Matiere>
+    <Matiere codeMatiere="GSTR26">19</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000048</CNE>
+    <LastName>Jeanette</LastName>
+    <FirstName>Oren Alexander</FirstName>
+    <Matiere codeMatiere="GSTR11">17</Matiere>
+    <Matiere codeMatiere="GSTR12">15</Matiere>
+    <Matiere codeMatiere="GSTR13">10</Matiere>
+    <Matiere codeMatiere="GSTR14">17</Matiere>
+    <Matiere codeMatiere="GSTR15">15</Matiere>
+    <Matiere codeMatiere="GSTR16">9</Matiere>
+    <Matiere codeMatiere="GSTR21">18</Matiere>
+    <Matiere codeMatiere="GSTR22">10</Matiere>
+    <Matiere codeMatiere="GSTR23">8</Matiere>
+    <Matiere codeMatiere="GSTR24">12</Matiere>
     <Matiere codeMatiere="GSTR25">12</Matiere>
-    <Matiere codeMatiere="GSTR26">20</Matiere>
+    <Matiere codeMatiere="GSTR26">9</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000049</CNE>
+    <LastName>Fredericka</LastName>
+    <FirstName>Moses Barnes</FirstName>
+    <Matiere codeMatiere="GSTR11">14</Matiere>
+    <Matiere codeMatiere="GSTR12">19</Matiere>
+    <Matiere codeMatiere="GSTR13">11</Matiere>
+    <Matiere codeMatiere="GSTR14">11</Matiere>
+    <Matiere codeMatiere="GSTR15">15</Matiere>
+    <Matiere codeMatiere="GSTR16">9</Matiere>
+    <Matiere codeMatiere="GSTR21">16</Matiere>
+    <Matiere codeMatiere="GSTR22">8</Matiere>
+    <Matiere codeMatiere="GSTR23">14</Matiere>
+    <Matiere codeMatiere="GSTR24">7</Matiere>
+    <Matiere codeMatiere="GSTR25">12</Matiere>
+    <Matiere codeMatiere="GSTR26">11</Matiere>
+  </Note>
+  <Note>
+    <CNE>19000050</CNE>
+    <LastName>Hashim</LastName>
+    <FirstName>Norman Hudson</FirstName>
+    <Matiere codeMatiere="GSTR11">15</Matiere>
+    <Matiere codeMatiere="GSTR12">16</Matiere>
+    <Matiere codeMatiere="GSTR13">10</Matiere>
+    <Matiere codeMatiere="GSTR14">15</Matiere>
+    <Matiere codeMatiere="GSTR15">17</Matiere>
+    <Matiere codeMatiere="GSTR16">9</Matiere>
+    <Matiere codeMatiere="GSTR21">18</Matiere>
+    <Matiere codeMatiere="GSTR22">20</Matiere>
+    <Matiere codeMatiere="GSTR23">15</Matiere>
+    <Matiere codeMatiere="GSTR24">10</Matiere>
+    <Matiere codeMatiere="GSTR25">12</Matiere>
+    <Matiere codeMatiere="GSTR26">14</Matiere>
   </Note>
 </Notes>
