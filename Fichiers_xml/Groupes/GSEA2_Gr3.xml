@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>18000149</CNE>
+    <LastName>Malachi</LastName>
+    <FirstName>Isaiah Gregory</FirstName>
+    <DateofBirth>2009-08-03</DateofBirth>
+    <ClasseName>Gsea2</ClasseName>
+    <Phone>06 92 20 31 37</Phone>
+    <Email>Malachi.IsaiahGregory@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000150</CNE>
+    <LastName>Garrison</LastName>
+    <FirstName>Hiram Ray</FirstName>
+    <DateofBirth>2013-10-20</DateofBirth>
+    <ClasseName>Gsea2</ClasseName>
+    <Phone>03 51 82 24 67</Phone>
+    <Email>Garrison.HiramRay@etu.uae.ac.ma</Email>
+  </Student></Students>

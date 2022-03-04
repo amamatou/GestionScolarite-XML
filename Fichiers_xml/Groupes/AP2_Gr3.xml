@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>20000049</CNE>
+    <LastName>Jenna Mcmahon</LastName>
+    <FirstName>Velma Baird</FirstName>
+    <DateofBirth>1999-12-18</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>07 28 54 57 94</Phone>
+    <Email>JennaMcmahon.VelmaBaird@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000050</CNE>
+    <LastName>Kylee Maddox</LastName>
+    <FirstName>Octavius Holloway</FirstName>
+    <DateofBirth>2002-11-03</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>07 25 84 88 37</Phone>
+    <Email>KyleeMaddox.OctaviusHolloway@etu.uae.ac.ma</Email>
+  </Student></Students>

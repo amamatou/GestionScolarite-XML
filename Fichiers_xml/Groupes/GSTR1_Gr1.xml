@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>19000001</CNE>
+    <LastName>Sandra</LastName>
+    <FirstName>Wing Harrell</FirstName>
+    <DateofBirth>2014-07-27</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>05 20 73 69 32</Phone>
+    <Email>Sandra.WingHarrell@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000002</CNE>
+    <LastName>Bell</LastName>
+    <FirstName>Medge Mcdonald</FirstName>
+    <DateofBirth>2009-04-19</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>02 84 58 53 27</Phone>
+    <Email>Bell.MedgeMcdonald@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000003</CNE>
+    <LastName>Christopher</LastName>
+    <FirstName>Nita Morton</FirstName>
+    <DateofBirth>2014-06-12</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>03 85 68 63 37</Phone>
+    <Email>Christopher.NitaMorton@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000004</CNE>
+    <LastName>Benjamin</LastName>
+    <FirstName>Lionel Moran</FirstName>
+    <DateofBirth>2006-02-26</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>06 55 27 27 86</Phone>
+    <Email>Benjamin.LionelMoran@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000005</CNE>
+    <LastName>Laura</LastName>
+    <FirstName>Charissa Buck</FirstName>
+    <DateofBirth>2008-12-12</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>07 02 19 34 21</Phone>
+    <Email>Laura.CharissaBuck@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000006</CNE>
+    <LastName>Shellie</LastName>
+    <FirstName>Mark Sloan</FirstName>
+    <DateofBirth>2003-06-24</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>08 23 87 81 90</Phone>
+    <Email>Shellie.MarkSloan@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000007</CNE>
+    <LastName>Judith</LastName>
+    <FirstName>Adrian Fry</FirstName>
+    <DateofBirth>2001-05-17</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>08 65 26 78 09</Phone>
+    <Email>Judith.AdrianFry@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000008</CNE>
+    <LastName>Boris</LastName>
+    <FirstName>Tarik Lloyd</FirstName>
+    <DateofBirth>2008-10-11</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>03 57 75 33 56</Phone>
+    <Email>Boris.TarikLloyd@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000009</CNE>
+    <LastName>Amaya</LastName>
+    <FirstName>Octavius Fitzpatrick</FirstName>
+    <DateofBirth>2003-12-11</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>07 03 27 84 91</Phone>
+    <Email>Amaya.OctaviusFitzpatrick@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000010</CNE>
+    <LastName>Eagan</LastName>
+    <FirstName>Alexander Richards</FirstName>
+    <DateofBirth>2000-11-02</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>02 53 12 54 59</Phone>
+    <Email>Eagan.AlexanderRichards@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000011</CNE>
+    <LastName>Demetria</LastName>
+    <FirstName>Nina Gentry</FirstName>
+    <DateofBirth>2003-02-01</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>08 54 32 17 86</Phone>
+    <Email>Demetria.NinaGentry@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000012</CNE>
+    <LastName>Jana</LastName>
+    <FirstName>Aidan Ware</FirstName>
+    <DateofBirth>2012-11-23</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>05 57 56 15 67</Phone>
+    <Email>Jana.AidanWare@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000013</CNE>
+    <LastName>Hedley</LastName>
+    <FirstName>Leila Welch</FirstName>
+    <DateofBirth>2003-05-06</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>07 71 03 51 41</Phone>
+    <Email>Hedley.LeilaWelch@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000014</CNE>
+    <LastName>Kamal</LastName>
+    <FirstName>Donovan Snow</FirstName>
+    <DateofBirth>2005-09-16</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>04 79 05 37 35</Phone>
+    <Email>Kamal.DonovanSnow@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000015</CNE>
+    <LastName>Dillon</LastName>
+    <FirstName>Marshall Ashley</FirstName>
+    <DateofBirth>2007-02-03</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>05 12 25 38 76</Phone>
+    <Email>Dillon.MarshallAshley@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000016</CNE>
+    <LastName>Brock</LastName>
+    <FirstName>Xantha Kim</FirstName>
+    <DateofBirth>2010-02-19</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>05 30 15 48 43</Phone>
+    <Email>Brock.XanthaKim@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000017</CNE>
+    <LastName>Jenette</LastName>
+    <FirstName>Jorden Wiley</FirstName>
+    <DateofBirth>2004-08-15</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>02 25 24 72 52</Phone>
+    <Email>Jenette.JordenWiley@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000018</CNE>
+    <LastName>Linda</LastName>
+    <FirstName>Vladimir Key</FirstName>
+    <DateofBirth>2000-05-24</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>08 94 92 13 13</Phone>
+    <Email>Linda.VladimirKey@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000019</CNE>
+    <LastName>Cassandra</LastName>
+    <FirstName>Aretha Suarez</FirstName>
+    <DateofBirth>2014-02-20</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>06 53 21 18 72</Phone>
+    <Email>Cassandra.ArethaSuarez@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000020</CNE>
+    <LastName>Kane</LastName>
+    <FirstName>Walter Bradford</FirstName>
+    <DateofBirth>2007-02-03</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>08 18 57 78 28</Phone>
+    <Email>Kane.WalterBradford@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000021</CNE>
+    <LastName>Elijah</LastName>
+    <FirstName>Price Morrison</FirstName>
+    <DateofBirth>2005-02-09</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>03 47 00 13 55</Phone>
+    <Email>Elijah.PriceMorrison@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000022</CNE>
+    <LastName>Iris</LastName>
+    <FirstName>Eve Garcia</FirstName>
+    <DateofBirth>2005-06-05</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>07 14 73 74 26</Phone>
+    <Email>Iris.EveGarcia@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000023</CNE>
+    <LastName>Drew</LastName>
+    <FirstName>Ryder Lucas</FirstName>
+    <DateofBirth>2004-01-11</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>04 32 82 58 30</Phone>
+    <Email>Drew.RyderLucas@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000024</CNE>
+    <LastName>Delilah</LastName>
+    <FirstName>Isadora Beard</FirstName>
+    <DateofBirth>2010-12-15</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>04 58 65 25 16</Phone>
+    <Email>Delilah.IsadoraBeard@etu.uae.ac.ma</Email>
+  </Student></Students>

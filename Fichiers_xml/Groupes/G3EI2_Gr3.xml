@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>18000249</CNE>
+    <LastName>Cyrus Buckley</LastName>
+    <FirstName>Blaze Sosa</FirstName>
+    <DateofBirth>2000-05-07</DateofBirth>
+    <ClasseName>G3EI2</ClasseName>
+    <Phone>06 31 08 85 40</Phone>
+    <Email>CyrusBuckley.BlazeSosa@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000250</CNE>
+    <LastName>Gannon Foster</LastName>
+    <FirstName>Baxter Battle</FirstName>
+    <DateofBirth>2000-10-01</DateofBirth>
+    <ClasseName>G3EI2</ClasseName>
+    <Phone>09 43 10 46 12</Phone>
+    <Email>GannonFoster.BaxterBattle@etu.uae.ac.ma</Email>
+  </Student></Students>

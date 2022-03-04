@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>19000149</CNE>
+    <LastName>Thomas</LastName>
+    <FirstName>Jared Mcmahon</FirstName>
+    <DateofBirth>2000-03-02</DateofBirth>
+    <ClasseName>Gsea1</ClasseName>
+    <Phone>06 65 19 60 41</Phone>
+    <Email>Thomas.JaredMcmahon@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000150</CNE>
+    <LastName>Tanner</LastName>
+    <FirstName>Alden Velasquez</FirstName>
+    <DateofBirth>2011-04-25</DateofBirth>
+    <ClasseName>Gsea1</ClasseName>
+    <Phone>06 99 24 57 18</Phone>
+    <Email>Tanner.AldenVelasquez@etu.uae.ac.ma</Email>
+  </Student></Students>

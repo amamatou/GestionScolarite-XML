@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>19000051</CNE>
+    <LastName>Castor Lambert</LastName>
+    <FirstName>Bianca Rosa</FirstName>
+    <DateofBirth>2001-12-19</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>04 61 71 56 86</Phone>
+    <Email>CastorLambert.BiancaRosa@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000052</CNE>
+    <LastName>Rhonda Middleton</LastName>
+    <FirstName>Mannix Martin</FirstName>
+    <DateofBirth>2000-07-20</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>01 82 98 92 66</Phone>
+    <Email>RhondaMiddleton.MannixMartin@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000053</CNE>
+    <LastName>Hall Fitzpatrick</LastName>
+    <FirstName>Cain Mccormick</FirstName>
+    <DateofBirth>1999-01-12</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>05 81 86 42 78</Phone>
+    <Email>HallFitzpatrick.CainMccormick@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000054</CNE>
+    <LastName>Madaline Willis</LastName>
+    <FirstName>Rudyard Nicholson</FirstName>
+    <DateofBirth>1998-08-18</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>03 26 99 58 62</Phone>
+    <Email>MadalineWillis.RudyardNicholson@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000055</CNE>
+    <LastName>Driscoll Bowers</LastName>
+    <FirstName>Sasha Ray</FirstName>
+    <DateofBirth>1999-11-21</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>06 55 33 32 49</Phone>
+    <Email>DriscollBowers.SashaRay@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000056</CNE>
+    <LastName>Linda Larson</LastName>
+    <FirstName>Clark Galloway</FirstName>
+    <DateofBirth>1997-10-22</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>03 34 09 32 82</Phone>
+    <Email>LindaLarson.ClarkGalloway@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000057</CNE>
+    <LastName>Randall Cobb</LastName>
+    <FirstName>Travis Brooks</FirstName>
+    <DateofBirth>1998-09-30</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>03 76 66 24 37</Phone>
+    <Email>RandallCobb.TravisBrooks@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000058</CNE>
+    <LastName>Buffy Cash</LastName>
+    <FirstName>Oren William</FirstName>
+    <DateofBirth>1999-05-03</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>02 78 68 35 35</Phone>
+    <Email>BuffyCash.OrenWilliam@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000059</CNE>
+    <LastName>Raphael Ward</LastName>
+    <FirstName>Micah Hammond</FirstName>
+    <DateofBirth>1997-03-23</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>05 38 86 88 53</Phone>
+    <Email>RaphaelWard.MicahHammond@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000060</CNE>
+    <LastName>Sylvester Quinn</LastName>
+    <FirstName>Lani Lawrence</FirstName>
+    <DateofBirth>1998-10-16</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>05 44 22 75 86</Phone>
+    <Email>SylvesterQuinn.LaniLawrence@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000061</CNE>
+    <LastName>Oprah Glass</LastName>
+    <FirstName>Beau Mckenzie</FirstName>
+    <DateofBirth>2002-01-06</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>05 52 77 10 53</Phone>
+    <Email>OprahGlass.BeauMckenzie@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000062</CNE>
+    <LastName>Hilary Hoover</LastName>
+    <FirstName>Alfreda Contreras</FirstName>
+    <DateofBirth>1999-12-05</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>08 21 99 89 95</Phone>
+    <Email>HilaryHoover.AlfredaContreras@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000063</CNE>
+    <LastName>Ira Vargas</LastName>
+    <FirstName>Theodore Bird</FirstName>
+    <DateofBirth>2001-04-30</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>06 25 87 28 26</Phone>
+    <Email>IraVargas.TheodoreBird@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000064</CNE>
+    <LastName>Gretchen Hull</LastName>
+    <FirstName>Charles Hoffman</FirstName>
+    <DateofBirth>2001-06-10</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>08 58 46 48 26</Phone>
+    <Email>GretchenHull.CharlesHoffman@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000065</CNE>
+    <LastName>Zachery Herrera</LastName>
+    <FirstName>Darrel Whitney</FirstName>
+    <DateofBirth>1997-11-23</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>05 93 58 74 38</Phone>
+    <Email>ZacheryHerrera.DarrelWhitney@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000066</CNE>
+    <LastName>Dale Short</LastName>
+    <FirstName>Joelle Whitley</FirstName>
+    <DateofBirth>1998-06-11</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>05 65 75 13 40</Phone>
+    <Email>DaleShort.JoelleWhitley@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000067</CNE>
+    <LastName>Beau Stone</LastName>
+    <FirstName>Adena Frank</FirstName>
+    <DateofBirth>1998-01-25</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>01 84 85 44 08</Phone>
+    <Email>BeauStone.AdenaFrank@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000068</CNE>
+    <LastName>Acton Peterson</LastName>
+    <FirstName>Velma Ayers</FirstName>
+    <DateofBirth>1999-08-28</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>01 56 73 76 97</Phone>
+    <Email>ActonPeterson.VelmaAyers@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000069</CNE>
+    <LastName>Lars Davis</LastName>
+    <FirstName>Uma Valdez</FirstName>
+    <DateofBirth>2002-09-27</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>03 71 87 00 60</Phone>
+    <Email>LarsDavis.UmaValdez@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000070</CNE>
+    <LastName>Raphael Burnett</LastName>
+    <FirstName>Hunter Carter</FirstName>
+    <DateofBirth>2002-09-19</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>06 30 11 04 81</Phone>
+    <Email>RaphaelBurnett.HunterCarter@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000071</CNE>
+    <LastName>Thaddeus Holman</LastName>
+    <FirstName>Robert Merritt</FirstName>
+    <DateofBirth>2002-10-30</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>07 16 53 98 39</Phone>
+    <Email>ThaddeusHolman.RobertMerritt@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000072</CNE>
+    <LastName>Sierra Edwards</LastName>
+    <FirstName>Emma Valdez</FirstName>
+    <DateofBirth>1999-09-29</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>04 74 77 36 84</Phone>
+    <Email>SierraEdwards.EmmaValdez@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000073</CNE>
+    <LastName>Aquila Vance</LastName>
+    <FirstName>Yen Whitfield</FirstName>
+    <DateofBirth>1999-03-07</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>07 55 33 70 27</Phone>
+    <Email>AquilaVance.YenWhitfield@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000074</CNE>
+    <LastName>Rhea Montoya</LastName>
+    <FirstName>Chester Giles</FirstName>
+    <DateofBirth>2002-09-20</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>07 78 31 68 73</Phone>
+    <Email>RheaMontoya.ChesterGiles@etu.uae.ac.ma</Email>
+  </Student></Students>

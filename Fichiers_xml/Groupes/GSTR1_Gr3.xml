@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>19000049</CNE>
+    <LastName>Fredericka</LastName>
+    <FirstName>Moses Barnes</FirstName>
+    <DateofBirth>2003-08-05</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>02 96 46 78 23</Phone>
+    <Email>Fredericka.MosesBarnes@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000050</CNE>
+    <LastName>Hashim</LastName>
+    <FirstName>Norman Hudson</FirstName>
+    <DateofBirth>2002-05-14</DateofBirth>
+    <ClasseName>Gstr1</ClasseName>
+    <Phone>09 67 55 24 75</Phone>
+    <Email>Hashim.NormanHudson@etu.uae.ac.ma</Email>
+  </Student></Students>

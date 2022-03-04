@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>17000199</CNE>
+    <LastName>Ella Livingston</LastName>
+    <FirstName>Cleo Small</FirstName>
+    <DateofBirth>2001-02-08</DateofBirth>
+    <ClasseName>Ginf3</ClasseName>
+    <Phone>09 36 60 67 20</Phone>
+    <Email>EllaLivingston.CleoSmall@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>17000200</CNE>
+    <LastName>Claire Stout</LastName>
+    <FirstName>Tatiana Yates</FirstName>
+    <DateofBirth>1999-03-19</DateofBirth>
+    <ClasseName>Ginf3</ClasseName>
+    <Phone>04 62 81 00 64</Phone>
+    <Email>ClaireStout.TatianaYates@etu.uae.ac.ma</Email>
+  </Student></Students>

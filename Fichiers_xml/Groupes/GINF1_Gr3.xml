@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>19000199</CNE>
+    <LastName>Regina Barrera</LastName>
+    <FirstName>Julian Valencia</FirstName>
+    <DateofBirth>1998-02-19</DateofBirth>
+    <ClasseName>Ginf1</ClasseName>
+    <Phone>06 68 46 46 44</Phone>
+    <Email>ReginaBarrera.JulianValencia@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000200</CNE>
+    <LastName>Asher Bishop</LastName>
+    <FirstName>Geraldine Harris</FirstName>
+    <DateofBirth>1997-12-07</DateofBirth>
+    <ClasseName>Ginf1</ClasseName>
+    <Phone>02 54 65 03 98</Phone>
+    <Email>AsherBishop.GeraldineHarris@etu.uae.ac.ma</Email>
+  </Student></Students>

@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>18000151</CNE>
+    <LastName>Agnaou</LastName>
+    <FirstName>Mohamed</FirstName>
+    <DateofBirth>2000-03-21</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>06 18 15 79 02</Phone>
+    <Email>Mohamed.Agnaou@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000152</CNE>
+    <LastName>Al Achkar</LastName>
+    <FirstName>Badr</FirstName>
+    <DateofBirth>2001-05-10</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>06 51 08 49 82</Phone>
+    <Email>Badr.AlAchkar@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000153</CNE>
+    <LastName>Amara</LastName>
+    <FirstName>Asmae</FirstName>
+    <DateofBirth>1998-05-07</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>07 22 68 10 14</Phone>
+    <Email>Asmae.Amara@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000154</CNE>
+    <LastName>Aouad</LastName>
+    <FirstName>Sami</FirstName>
+    <DateofBirth>1998-03-04</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>02 76 58 67 75</Phone>
+    <Email>Sami.Aouad@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000155</CNE>
+    <LastName>Bahid</LastName>
+    <FirstName>Rihab</FirstName>
+    <DateofBirth>1998-03-02</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>03 18 97 15 97</Phone>
+    <Email>Rihab.Bahid@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000156</CNE>
+    <LastName>Barro</LastName>
+    <FirstName>Cheichna</FirstName>
+    <DateofBirth>2001-10-03</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>04 12 71 71 87</Phone>
+    <Email>Cheichna.Barro@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000157</CNE>
+    <LastName>Ben Tarki</LastName>
+    <FirstName>Nouhaila</FirstName>
+    <DateofBirth>2002-11-22</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>02 21 52 15 70</Phone>
+    <Email>Nouhaila.BenTarki@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000158</CNE>
+    <LastName>Benkhanous</LastName>
+    <FirstName>Salaheddine</FirstName>
+    <DateofBirth>1997-04-04</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>07 30 51 83 57</Phone>
+    <Email>Salaheddine.Benkhanous@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000159</CNE>
+    <LastName>Bentaleb</LastName>
+    <FirstName>Chaymae</FirstName>
+    <DateofBirth>2001-07-18</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>09 19 09 86 38</Phone>
+    <Email>Chaymae.Bentaleb@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000160</CNE>
+    <LastName>Bougueddachi</LastName>
+    <FirstName>Mohamed Oussama</FirstName>
+    <DateofBirth>1997-08-27</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>01 76 64 75 53</Phone>
+    <Email>MohamedOussama.Bougueddachi@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000161</CNE>
+    <LastName>Bouhcain</LastName>
+    <FirstName>Ali</FirstName>
+    <DateofBirth>2000-03-18</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>07 55 38 86 63</Phone>
+    <Email>Ali.Bouhcain@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000162</CNE>
+    <LastName>Boukhallad</LastName>
+    <FirstName>Aissame</FirstName>
+    <DateofBirth>1998-01-15</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>05 44 92 54 15</Phone>
+    <Email>Aissame.Boukhallad@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000163</CNE>
+    <LastName>Chihal</LastName>
+    <FirstName>Aya</FirstName>
+    <DateofBirth>2001-04-12</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>02 61 67 68 96</Phone>
+    <Email>Aya.Chihal@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000164</CNE>
+    <LastName>Dabdoubi</LastName>
+    <FirstName>Aymane</FirstName>
+    <DateofBirth>2002-10-12</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>02 67 16 83 31</Phone>
+    <Email>Aymane.Dabdoubi@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000165</CNE>
+    <LastName>Dkhissi</LastName>
+    <FirstName>Ayoub</FirstName>
+    <DateofBirth>1998-12-07</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>09 37 62 62 59</Phone>
+    <Email>Ayoub.Dkhissi@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000166</CNE>
+    <LastName>Draoui</LastName>
+    <FirstName>Bilal</FirstName>
+    <DateofBirth>1999-08-20</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>04 34 18 02 74</Phone>
+    <Email>Bilal.Draoui@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000167</CNE>
+    <LastName>El Ghazouani</LastName>
+    <FirstName>Niema</FirstName>
+    <DateofBirth>2000-06-05</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>06 85 16 68 85</Phone>
+    <Email>Niema.ElGhazouani@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000168</CNE>
+    <LastName>El Haoussi</LastName>
+    <FirstName>Ayoub</FirstName>
+    <DateofBirth>2001-11-30</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>09 88 03 71 13</Phone>
+    <Email>Ayoub.ElHaoussi@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000169</CNE>
+    <LastName>El Hassani</LastName>
+    <FirstName>Saad</FirstName>
+    <DateofBirth>2002-05-25</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>03 98 85 28 63</Phone>
+    <Email>Saad.ElHassani@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000170</CNE>
+    <LastName>El Houb</LastName>
+    <FirstName>Younesse</FirstName>
+    <DateofBirth>1998-05-18</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>08 75 02 71 61</Phone>
+    <Email>Younesse.ElHoub@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000171</CNE>
+    <LastName>El Kouari</LastName>
+    <FirstName>Saad</FirstName>
+    <DateofBirth>2002-09-13</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>08 28 88 11 35</Phone>
+    <Email>Saad.ElKouari@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000172</CNE>
+    <LastName>El Maakoul</LastName>
+    <FirstName>Yassine</FirstName>
+    <DateofBirth>2002-01-08</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>05 11 15 90 43</Phone>
+    <Email>Yassine.ElMaakoul@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000173</CNE>
+    <LastName>El Mouttaki</LastName>
+    <FirstName>Adnan</FirstName>
+    <DateofBirth>2002-09-21</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>08 71 75 71 82</Phone>
+    <Email>Adnan.ElMouttaki@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000174</CNE>
+    <LastName>En-Nabouch</LastName>
+    <FirstName>Mohamed</FirstName>
+    <DateofBirth>2000-09-29</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>04 17 11 64 76</Phone>
+    <Email>Mohamed.En-Nabouch@etu.uae.ac.ma</Email>
+  </Student></Students>

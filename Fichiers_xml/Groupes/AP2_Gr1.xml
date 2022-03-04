@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>20000001</CNE>
+    <LastName>Bo Alvarado</LastName>
+    <FirstName>Imelda Becker</FirstName>
+    <DateofBirth>1997-03-22</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>03 15 32 74 90</Phone>
+    <Email>BoAlvarado.ImeldaBecker@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000002</CNE>
+    <LastName>Lacota Gay</LastName>
+    <FirstName>Cairo Hoover</FirstName>
+    <DateofBirth>2000-11-08</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>01 26 95 94 46</Phone>
+    <Email>LacotaGay.CairoHoover@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000003</CNE>
+    <LastName>Rudyard Guy</LastName>
+    <FirstName>Lesley Mcgowan</FirstName>
+    <DateofBirth>1999-06-24</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>05 65 64 29 29</Phone>
+    <Email>RudyardGuy.LesleyMcgowan@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000004</CNE>
+    <LastName>Lester Finley</LastName>
+    <FirstName>Herman Shields</FirstName>
+    <DateofBirth>1997-04-30</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>05 75 43 83 31</Phone>
+    <Email>LesterFinley.HermanShields@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000005</CNE>
+    <LastName>Eagan Delacruz</LastName>
+    <FirstName>Driscoll Harrell</FirstName>
+    <DateofBirth>2000-02-06</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>02 52 86 98 82</Phone>
+    <Email>EaganDelacruz.DriscollHarrell@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000006</CNE>
+    <LastName>Jesse Crawford</LastName>
+    <FirstName>Sierra Strickland</FirstName>
+    <DateofBirth>1998-09-24</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>07 58 16 14 11</Phone>
+    <Email>JesseCrawford.SierraStrickland@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000007</CNE>
+    <LastName>Vernon Sloan</LastName>
+    <FirstName>Olga Holden</FirstName>
+    <DateofBirth>1998-12-24</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>05 87 82 74 26</Phone>
+    <Email>VernonSloan.OlgaHolden@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000008</CNE>
+    <LastName>Virginia Schultz</LastName>
+    <FirstName>Brynne Sexton</FirstName>
+    <DateofBirth>1998-08-22</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>08 38 15 22 40</Phone>
+    <Email>VirginiaSchultz.BrynneSexton@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000009</CNE>
+    <LastName>Pearl Ortega</LastName>
+    <FirstName>Laith Hancock</FirstName>
+    <DateofBirth>1998-05-21</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>01 27 12 14 26</Phone>
+    <Email>PearlOrtega.LaithHancock@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000010</CNE>
+    <LastName>Teegan Nash</LastName>
+    <FirstName>Serena Blackwell</FirstName>
+    <DateofBirth>2001-11-21</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>06 03 05 13 76</Phone>
+    <Email>TeeganNash.SerenaBlackwell@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000011</CNE>
+    <LastName>John Lee</LastName>
+    <FirstName>Sylvester Chase</FirstName>
+    <DateofBirth>2000-03-14</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>02 25 21 45 20</Phone>
+    <Email>JohnLee.SylvesterChase@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000012</CNE>
+    <LastName>Shellie Russo</LastName>
+    <FirstName>Karleigh Martinez</FirstName>
+    <DateofBirth>1997-08-17</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>07 39 78 36 25</Phone>
+    <Email>ShellieRusso.KarleighMartinez@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000013</CNE>
+    <LastName>Roth Mcleod</LastName>
+    <FirstName>Karleigh Maxwell</FirstName>
+    <DateofBirth>2002-06-26</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>06 24 13 56 54</Phone>
+    <Email>RothMcleod.KarleighMaxwell@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000014</CNE>
+    <LastName>Amir Perez</LastName>
+    <FirstName>Emery Ayers</FirstName>
+    <DateofBirth>1997-12-20</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>06 78 05 04 12</Phone>
+    <Email>AmirPerez.EmeryAyers@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000015</CNE>
+    <LastName>Dacey Todd</LastName>
+    <FirstName>Madaline Jacobson</FirstName>
+    <DateofBirth>1999-10-08</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>01 13 44 31 59</Phone>
+    <Email>DaceyTodd.MadalineJacobson@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000016</CNE>
+    <LastName>Charles Haley</LastName>
+    <FirstName>Eve Daniel</FirstName>
+    <DateofBirth>1999-03-05</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>01 73 15 92 42</Phone>
+    <Email>CharlesHaley.EveDaniel@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000017</CNE>
+    <LastName>Adena Cooper</LastName>
+    <FirstName>Leilani Orr</FirstName>
+    <DateofBirth>1997-10-28</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>07 24 00 58 65</Phone>
+    <Email>AdenaCooper.LeilaniOrr@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000018</CNE>
+    <LastName>Maite Sandoval</LastName>
+    <FirstName>Alfonso Guerra</FirstName>
+    <DateofBirth>1998-07-24</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>04 61 22 53 07</Phone>
+    <Email>MaiteSandoval.AlfonsoGuerra@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000019</CNE>
+    <LastName>Rashad Rasmussen</LastName>
+    <FirstName>Raven Fowler</FirstName>
+    <DateofBirth>2000-07-31</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>04 85 14 26 10</Phone>
+    <Email>RashadRasmussen.RavenFowler@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000020</CNE>
+    <LastName>Oprah Lee</LastName>
+    <FirstName>Ezekiel Berry</FirstName>
+    <DateofBirth>1997-05-22</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>06 95 03 36 81</Phone>
+    <Email>OprahLee.EzekielBerry@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000021</CNE>
+    <LastName>Channing Suarez</LastName>
+    <FirstName>Caldwell Melendez</FirstName>
+    <DateofBirth>2001-05-20</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>05 45 42 95 96</Phone>
+    <Email>ChanningSuarez.CaldwellMelendez@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000022</CNE>
+    <LastName>Erasmus Battle</LastName>
+    <FirstName>Eliana Chavez</FirstName>
+    <DateofBirth>1999-01-22</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>07 58 68 84 05</Phone>
+    <Email>ErasmusBattle.ElianaChavez@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000023</CNE>
+    <LastName>Sacha Meadows</LastName>
+    <FirstName>Aaron Horn</FirstName>
+    <DateofBirth>2000-11-24</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>07 66 96 72 78</Phone>
+    <Email>SachaMeadows.AaronHorn@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>20000024</CNE>
+    <LastName>Wing Stephenson</LastName>
+    <FirstName>Sierra Osborn</FirstName>
+    <DateofBirth>2001-06-10</DateofBirth>
+    <ClasseName>AP2</ClasseName>
+    <Phone>02 76 46 33 35</Phone>
+    <Email>WingStephenson.SierraOsborn@etu.uae.ac.ma</Email>
+  </Student></Students>

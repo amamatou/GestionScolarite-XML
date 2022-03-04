@@ -3,27 +3,39 @@
 elementFormDefault="qualified">
 
   <xs:element name="Notes">
-   <xs:complexType>
-     <xs:sequence>
-      <xs:element name="Note">
-       <xs:complexType>
-        <xs:sequence>
-          <xs:element name="CNE" type="xs:string"/>
-          <xs:element name="FirstName" type="xs:string"/>
-          <xs:element name="LastName" type="xs:string"/>
-          <xs:element name="Matiere" maxOccurs="12" minOccurs="6">
-            <xs:complexType>
-              <xs:attribute name="codeMatiere" type="xs:string" use="required" />
-              <xs:restriction base="xs:float">
-                <xs:minInclusive value="0"/>
-                <xs:maxInclusive value="20"/>
-              </xs:restriction>
-            </xs:complexType>  
-          </xs:element>
-        </xs:sequence>
-        </xs:complexType>
-    </xs:element>
-   </xs:sequence>
-  </xs:complexType> 
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Note">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CNE" type="xs:string"/>
+              <xs:element name="LastName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:pattern value="[A-Z]([aA-zZ\s*])*"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FirstName">
+              <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:pattern value="[A-Z]([aA-zZ\s*])*"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Matiere" maxOccurs="12" minOccurs="6">
+                <xs:complexType>
+                  <xs:attribute name="codeMatiere" type="xs:string" use="required" />
+                  <xs:restriction base="xs:float">
+                    <xs:minInclusive value="0"/>
+                    <xs:maxInclusive value="20"/>
+                  </xs:restriction>
+                </xs:complexType>  
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType> 
   </xs:element>
-  </xs:schema>  
+</xs:schema>  

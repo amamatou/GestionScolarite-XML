@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>18000099</CNE>
+    <LastName>Vincent Blevins</LastName>
+    <FirstName>Jemima Ruiz</FirstName>
+    <DateofBirth>2000-08-15</DateofBirth>
+    <ClasseName>GIL2</ClasseName>
+    <Phone>02 24 14 62 22</Phone>
+    <Email>VincentBlevins.JemimaRuiz@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000100</CNE>
+    <LastName>Brynn Parrish</LastName>
+    <FirstName>Andrew Clay</FirstName>
+    <DateofBirth>1997-02-08</DateofBirth>
+    <ClasseName>GIL2</ClasseName>
+    <Phone>01 63 45 16 30</Phone>
+    <Email>BrynnParrish.AndrewClay@etu.uae.ac.ma</Email>
+  </Student></Students>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>19000099</CNE>
+    <LastName>Tyler Dillon</LastName>
+    <FirstName>Axel Dotson</FirstName>
+    <DateofBirth>2000-11-22</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>01 85 18 61 67</Phone>
+    <Email>TylerDillon.AxelDotson@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000100</CNE>
+    <LastName>Sylvester Fuentes</LastName>
+    <FirstName>Otto Dillard</FirstName>
+    <DateofBirth>2000-04-15</DateofBirth>
+    <ClasseName>GIL1</ClasseName>
+    <Phone>02 85 76 68 47</Phone>
+    <Email>SylvesterFuentes.OttoDillard@etu.uae.ac.ma</Email>
+  </Student></Students>

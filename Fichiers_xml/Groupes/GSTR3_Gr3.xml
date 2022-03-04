@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>17000049</CNE>
+    <LastName>Ivory</LastName>
+    <FirstName>Rafael Heath</FirstName>
+    <DateofBirth>2003-10-01</DateofBirth>
+    <ClasseName>Gstr3</ClasseName>
+    <Phone>02 71 41 19 88</Phone>
+    <Email>Ivory.RafaelHeath@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>17000050</CNE>
+    <LastName>Rogan</LastName>
+    <FirstName>Amber Donovan</FirstName>
+    <DateofBirth>2012-12-24</DateofBirth>
+    <ClasseName>Gstr3</ClasseName>
+    <Phone>04 93 85 44 51</Phone>
+    <Email>Rogan.AmberDonovan@etu.uae.ac.ma</Email>
+  </Student></Students>

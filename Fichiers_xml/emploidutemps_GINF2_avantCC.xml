@@ -1,0 +1,181 @@
+﻿<?xml version="1.0"?>
+<emploidutemps>
+  <filiere>GINF2</filiere>
+  <groupe>Toute la classe </groupe>
+  <semaine>4e Semaine</semaine>
+
+  <heures>
+    <heure debut="9h00-10h30">
+       <lundi >
+         <cours>
+            <type>CM</type>
+           <Matiere>Maitrise et optimisation des processus</Matiere>
+           <Coordinator>Rahali</Coordinator>
+           <Salle>Salle B19</Salle>
+         </cours>
+       </lundi>
+       
+       <mardi >
+         <cours>
+         <type>CM</type>
+          <Matiere>Optimisation des bases de données</Matiere>
+          <Coordinator>Fissoune</Coordinator>
+          <Salle> Salle B20</Salle>
+         </cours>
+       </mardi>   
+         <mercredi >
+         <cours>
+          <type>CM</type>
+          <Matiere>POO Java</Matiere>
+          <Coordinator>El Haddad</Coordinator>
+          <Salle>Salle B19</Salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
+         <type>CM</type>
+          <Matiere>Administration des bases de données</Matiere>
+          <Coordinator>Badir</Coordinator>
+          <Salle>Salle B19</Salle>
+         </cours>
+       </jeudi>     
+      	    <vendredi >
+         <cours>
+         <type>CM</type>
+          <Matiere>XML</Matiere>
+          <Coordinator>Lachkar</Coordinator>
+          <Salle>Salle B19</Salle>
+         </cours>
+       </vendredi>  
+	    </heure>
+        <heure debut="11h00-12h30">
+       <lundi>
+         <cours>
+         <type>CM</type>
+           <Matiere>Maitrise et optimisation des processus</Matiere>
+           <Coordinator>Rahali</Coordinator>
+           <Salle>Salle B19</Salle>
+         </cours>
+       </lundi>
+       
+       <mardi >
+         <cours>
+         <type>TD</type>
+          <Matiere>Gestion des données distribuées</Matiere>
+          <Coordinator>Fissoune</Coordinator>
+          <Salle>Salle B20</Salle>
+         </cours>
+       </mardi>   
+         <mercredi >
+         <cours>
+         <type>CM</type>
+          <Matiere>POO Java</Matiere>
+          <Coordinator>El Haddad</Coordinator>
+          <Salle>Salle B19</Salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
+         <type>TD</type>
+          <Matiere>Administration des bases de données</Matiere>
+          <Coordinator>Badir</Coordinator>
+          <Salle>Salle B19</Salle>
+         </cours>
+       </jeudi>     
+      	    <vendredi >
+         <cours>
+         <type>TD</type>
+          <Matiere>XML</Matiere>
+          <Coordinator>Lachkar</Coordinator>
+          <Salle>Salle B19</Salle>
+         </cours>
+       </vendredi>  
+	    </heure>
+        <heure debut="14h00-15h30">
+       <lundi>
+         <cours>
+         <type>CM</type>
+           <Matiere>MOO UML</Matiere>
+           <Coordinator>El Alami</Coordinator>
+           <Salle>Salle B19</Salle>
+         </cours>
+       </lundi>
+       
+       <mardi >
+         <cours>
+         <type>TP</type>
+          <Matiere>Administration Système</Matiere>
+          <Coordinator>Amechnoue Khalid</Coordinator>
+          <Salle>Salle B20</Salle>
+         </cours>
+       </mardi>   
+         <mercredi >
+         <cours>
+         <type>CM</type>
+          <Matiere>Administration Système</Matiere>
+          <Coordinator>Amechnoue Khalid</Coordinator>
+          <Salle>Salle B19</Salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
+         <type></type>
+          <Matiere></Matiere>
+          <Coordinator></Coordinator>
+          <Salle></Salle>
+         </cours>
+       </jeudi>     
+      	    <vendredi >
+         <cours>
+         <type>CM</type>
+          <Matiere>Anglais</Matiere>
+          <Coordinator>Bourigui</Coordinator>
+          <Salle>Amphi 1</Salle>
+         </cours>
+       </vendredi>  
+	    </heure>
+        <heure debut="16h00-17h30">
+       <lundi>
+         <cours>
+         <type>CM</type>
+           <Matiere>MOO UML</Matiere>
+           <Coordinator>El Alami</Coordinator>
+           <Salle>Salle B19</Salle>
+         </cours>
+       </lundi>
+       
+       <mardi >
+         <cours>
+         <type>TP</type>
+          <Matiere>Administration Système</Matiere>
+          <Coordinator>Amechnoue Khalid</Coordinator>
+          <Salle>B20</Salle>
+         </cours>
+       </mardi>   
+         <mercredi >
+         <cours>
+         <type>CM</type>
+          <Matiere>Espagnol</Matiere>
+          <Coordinator>Laarmarti</Coordinator>
+          <Salle>Salle A7</Salle>
+         </cours>
+       </mercredi>  
+       <jeudi >
+         <cours>
+         <type></type>
+          <Matiere></Matiere>
+          <Coordinator></Coordinator>
+          <Salle></Salle>
+         </cours>
+       </jeudi>     
+      <vendredi >
+         <cours>
+         <type>CM</type>
+          <Matiere>Anglais</Matiere>
+          <Coordinator>Bourigui</Coordinator>
+          <Salle>Amphi 1</Salle>
+         </cours>
+       </vendredi>  
+	    </heure>
+  </heures>
+</emploidutemps>

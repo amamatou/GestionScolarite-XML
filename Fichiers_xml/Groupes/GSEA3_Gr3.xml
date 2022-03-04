@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>17000149</CNE>
+    <LastName>Cole</LastName>
+    <FirstName>Ruby Walls</FirstName>
+    <DateofBirth>2012-08-18</DateofBirth>
+    <ClasseName>Gsea3</ClasseName>
+    <Phone>05 61 25 25 86</Phone>
+    <Email>Cole.RubyWalls@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>17000150</CNE>
+    <LastName>Duncan</LastName>
+    <FirstName>Lacey Atkins</FirstName>
+    <DateofBirth>2013-01-28</DateofBirth>
+    <ClasseName>Gsea3</ClasseName>
+    <Phone>02 84 67 18 11</Phone>
+    <Email>Duncan.LaceyAtkins@etu.uae.ac.ma</Email>
+  </Student></Students>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>21000049</CNE>
+    <LastName>Vincent Cobb</LastName>
+    <FirstName>Russell Calderon</FirstName>
+    <DateofBirth>2013-12-10</DateofBirth>
+    <ClasseName>AP1</ClasseName>
+    <Phone>07 28 60 91 32</Phone>
+    <Email>VincentCobb.RussellCalderon@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>21000050</CNE>
+    <LastName>Lacy Watkins</LastName>
+    <FirstName>Jarrod Boyer</FirstName>
+    <DateofBirth>2007-05-13</DateofBirth>
+    <ClasseName>AP1</ClasseName>
+    <Phone>861363657</Phone>
+    <Email>LacyWatkins.JarrodBoyer@etu.uae.ac.ma</Email>
+  </Student></Students>

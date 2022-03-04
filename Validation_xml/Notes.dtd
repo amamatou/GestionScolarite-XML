@@ -1,7 +1,7 @@
 <!ELEMENT Notes (Note)*>
-<!ELEMENT Note (CNE,FirstName,LastName,Matiere*)>
+<!ELEMENT Note (CNE,LastName,FirstName,Matiere*)>
 <!ELEMENT CNE (#PCDATA)>
-<!ELEMENT FirstName (#PCDATA)>
 <!ELEMENT LastName (#PCDATA)>
+<!ELEMENT FirstName (#PCDATA)>
 <!ELEMENT Matiere (#PCDATA)>
 <!ATTLIST Matiere codeMatiere CDATA #REQUIRED>

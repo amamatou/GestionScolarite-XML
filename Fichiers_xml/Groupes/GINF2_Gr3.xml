@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>18000199</CNE>
+    <LastName>Sana</LastName>
+    <FirstName>Lookman Ossam</FirstName>
+    <DateofBirth>1999-04-24</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>04 42 16 90 64</Phone>
+    <Email>LookmanOssam.Taali@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000200</CNE>
+    <LastName>Taali</LastName>
+    <FirstName>Houda</FirstName>
+    <DateofBirth>2000-11-26</DateofBirth>
+    <ClasseName>Ginf2</ClasseName>
+    <Phone>05 49 24 53 91</Phone>
+    <Email>Houda.@etu.uae.ac.ma</Email>
+  </Student></Students>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>19000249</CNE>
+    <LastName>Elijah Bradley</LastName>
+    <FirstName>Jelani Mcneil</FirstName>
+    <DateofBirth>1997-03-26</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>08 66 33 05 71</Phone>
+    <Email>ElijahBradley.JelaniMcneil@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000250</CNE>
+    <LastName>Rhea Miller</LastName>
+    <FirstName>Athena Cline</FirstName>
+    <DateofBirth>2002-06-18</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>06 38 81 29 35</Phone>
+    <Email>RheaMiller.AthenaCline@etu.uae.ac.ma</Email>
+  </Student></Students>

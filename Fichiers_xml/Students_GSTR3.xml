@@ -363,11 +363,11 @@
   <Student>
     <CNE>17000041</CNE>
     <LastName>Beverly</LastName>
-    <FirstName>Melinda O'Neill</FirstName>
+    <FirstName>Melinda ONeill</FirstName>
     <DateofBirth>2004-09-14</DateofBirth>
     <ClasseName>Gstr3</ClasseName>
     <Phone>08 34 34 57 21</Phone>
-    <Email>Beverly.MelindaO'Neill@etu.uae.ac.ma</Email>
+    <Email>Beverly.MelindaONeill@etu.uae.ac.ma</Email>
   </Student>
   <Student>
     <CNE>17000042</CNE>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>17000099</CNE>
+    <LastName>Mollie Ortiz</LastName>
+    <FirstName>Destiny Armstrong</FirstName>
+    <DateofBirth>1998-09-21</DateofBirth>
+    <ClasseName>GIL3</ClasseName>
+    <Phone>02 70 94 52 01</Phone>
+    <Email>MollieOrtiz.DestinyArmstrong@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>17000100</CNE>
+    <LastName>Ebony Jenkins</LastName>
+    <FirstName>Cameron Sears</FirstName>
+    <DateofBirth>1999-07-12</DateofBirth>
+    <ClasseName>GIL3</ClasseName>
+    <Phone>06 84 31 73 65</Phone>
+    <Email>EbonyJenkins.CameronSears@etu.uae.ac.ma</Email>
+  </Student></Students>

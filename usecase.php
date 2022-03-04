@@ -52,7 +52,7 @@ foreach ($arrayClass as $class)
         /* if ($categorie=="Notes_ApresRat") {
             $ginf2 = $dom->getElementsByTagName('Notes')->item(0);
 
-            $dom->insertBefore($imp->createDocumentType('Notes',null,'C://xampp/htdocs/GestionScolarite-XML/Validation_xml//notes.dtd'),$ginf2);
+            $dom->insertBefore($imp->createDocumentType('Notes',null,'C://xampp/htdocs/GestionScolarite-XML/Validation_xml//Notes.dtd'),$ginf2);
             $dom->save("Fichiers_xml/Notes_".$class."_Apres.xml");
         
         }

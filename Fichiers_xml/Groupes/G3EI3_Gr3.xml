@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>17000249</CNE>
+    <LastName>Arsenio Stein</LastName>
+    <FirstName>Zeph Sanford</FirstName>
+    <DateofBirth>1998-06-21</DateofBirth>
+    <ClasseName>G3EI3</ClasseName>
+    <Phone>06 07 05 11 83</Phone>
+    <Email>ArsenioStein.ZephSanford@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>17000250</CNE>
+    <LastName>Sydnee Vaughan</LastName>
+    <FirstName>Zephania Sampson</FirstName>
+    <DateofBirth>2000-08-27</DateofBirth>
+    <ClasseName>G3EI3</ClasseName>
+    <Phone>08 88 32 71 78</Phone>
+    <Email>SydneeVaughan.ZephaniaSampson@etu.uae.ac.ma</Email>
+  </Student></Students>

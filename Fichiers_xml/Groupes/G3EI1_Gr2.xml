@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>19000225</CNE>
+    <LastName>Maile Hayden</LastName>
+    <FirstName>Rashad Ramsey</FirstName>
+    <DateofBirth>2001-06-05</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>04 73 43 44 15</Phone>
+    <Email>MaileHayden.RashadRamsey@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000226</CNE>
+    <LastName>Ciaran Flowers</LastName>
+    <FirstName>Ella Wilcox</FirstName>
+    <DateofBirth>1998-10-16</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>04 78 68 08 86</Phone>
+    <Email>CiaranFlowers.EllaWilcox@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000227</CNE>
+    <LastName>Oleg Bruce</LastName>
+    <FirstName>Colin Collier</FirstName>
+    <DateofBirth>1998-08-23</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>06 39 89 67 61</Phone>
+    <Email>OlegBruce.ColinCollier@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000228</CNE>
+    <LastName>Conan Bradshaw</LastName>
+    <FirstName>Alisa Dawson</FirstName>
+    <DateofBirth>1999-01-01</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>03 54 33 51 52</Phone>
+    <Email>ConanBradshaw.AlisaDawson@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000229</CNE>
+    <LastName>Destiny Landry</LastName>
+    <FirstName>Lane Burt</FirstName>
+    <DateofBirth>2000-02-24</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>02 21 50 79 45</Phone>
+    <Email>DestinyLandry.LaneBurt@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000230</CNE>
+    <LastName>Leandra Faulkner</LastName>
+    <FirstName>Raymond Weber</FirstName>
+    <DateofBirth>2001-06-20</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>02 54 54 30 61</Phone>
+    <Email>LeandraFaulkner.RaymondWeber@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000231</CNE>
+    <LastName>Maryam Richards</LastName>
+    <FirstName>Ursula Morrison</FirstName>
+    <DateofBirth>1999-05-20</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>08 37 77 34 31</Phone>
+    <Email>MaryamRichards.UrsulaMorrison@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000232</CNE>
+    <LastName>Odessa Jenkins</LastName>
+    <FirstName>Hakeem Cooper</FirstName>
+    <DateofBirth>2002-12-09</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>01 07 56 83 24</Phone>
+    <Email>OdessaJenkins.HakeemCooper@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000233</CNE>
+    <LastName>Isaiah Franklin</LastName>
+    <FirstName>Valentine Bernard</FirstName>
+    <DateofBirth>1998-09-29</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>03 11 46 32 15</Phone>
+    <Email>IsaiahFranklin.ValentineBernard@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000234</CNE>
+    <LastName>Marvin Wilkinson</LastName>
+    <FirstName>Cassady Erickson</FirstName>
+    <DateofBirth>1998-06-09</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>02 27 42 28 63</Phone>
+    <Email>MarvinWilkinson.CassadyErickson@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000235</CNE>
+    <LastName>Jelani Ford</LastName>
+    <FirstName>Yuri Wilkerson</FirstName>
+    <DateofBirth>1997-05-15</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>06 06 62 74 07</Phone>
+    <Email>JelaniFord.YuriWilkerson@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000236</CNE>
+    <LastName>Veronica Rich</LastName>
+    <FirstName>Cara Kaufman</FirstName>
+    <DateofBirth>1999-10-04</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>06 39 81 37 33</Phone>
+    <Email>VeronicaRich.CaraKaufman@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000237</CNE>
+    <LastName>Vance Boyle</LastName>
+    <FirstName>Noelani Bernard</FirstName>
+    <DateofBirth>2002-02-23</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>06 83 63 57 28</Phone>
+    <Email>VanceBoyle.NoelaniBernard@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000238</CNE>
+    <LastName>Shad Wilson</LastName>
+    <FirstName>Holmes Baird</FirstName>
+    <DateofBirth>1997-11-04</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>09 62 23 55 06</Phone>
+    <Email>ShadWilson.HolmesBaird@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000239</CNE>
+    <LastName>Macy Holcomb</LastName>
+    <FirstName>Nasim Weaver</FirstName>
+    <DateofBirth>1999-12-28</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>08 45 61 63 45</Phone>
+    <Email>MacyHolcomb.NasimWeaver@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000240</CNE>
+    <LastName>Cody Atkins</LastName>
+    <FirstName>Xenos Stout</FirstName>
+    <DateofBirth>1999-09-10</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>04 23 38 82 33</Phone>
+    <Email>CodyAtkins.XenosStout@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000241</CNE>
+    <LastName>Devin Mack</LastName>
+    <FirstName>MacKenzie Chase</FirstName>
+    <DateofBirth>1999-10-14</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>01 46 58 73 59</Phone>
+    <Email>DevinMack.MacKenzieChase@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000242</CNE>
+    <LastName>Julian Ashley</LastName>
+    <FirstName>Priscilla Booth</FirstName>
+    <DateofBirth>1997-03-02</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>03 12 52 23 21</Phone>
+    <Email>JulianAshley.PriscillaBooth@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000243</CNE>
+    <LastName>Sigourney Cervantes</LastName>
+    <FirstName>Wade Santiago</FirstName>
+    <DateofBirth>2002-03-03</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>09 28 72 46 13</Phone>
+    <Email>SigourneyCervantes.WadeSantiago@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000244</CNE>
+    <LastName>Hamish Vaughn</LastName>
+    <FirstName>Serina Bowers</FirstName>
+    <DateofBirth>1999-09-18</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>01 57 79 71 21</Phone>
+    <Email>HamishVaughn.SerinaBowers@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000245</CNE>
+    <LastName>Malcolm Glover</LastName>
+    <FirstName>Sonya Soto</FirstName>
+    <DateofBirth>1998-08-22</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>03 36 31 50 17</Phone>
+    <Email>MalcolmGlover.SonyaSoto@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000246</CNE>
+    <LastName>Reed Wiley</LastName>
+    <FirstName>Perry Lamb</FirstName>
+    <DateofBirth>1998-01-19</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>04 88 65 78 35</Phone>
+    <Email>ReedWiley.PerryLamb@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000247</CNE>
+    <LastName>Owen Wright</LastName>
+    <FirstName>Imogene House</FirstName>
+    <DateofBirth>2001-12-01</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>02 54 14 42 17</Phone>
+    <Email>OwenWright.ImogeneHouse@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>19000248</CNE>
+    <LastName>Ali Simpson</LastName>
+    <FirstName>Zephania Hudson</FirstName>
+    <DateofBirth>1998-10-14</DateofBirth>
+    <ClasseName>G3EI1</ClasseName>
+    <Phone>05 08 87 11 58</Phone>
+    <Email>AliSimpson.ZephaniaHudson@etu.uae.ac.ma</Email>
+  </Student></Students>

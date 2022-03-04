@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C://xampp/htdocs/GestionScolarite-XML/Validation_xml/Students.xsd"><Student>
+    <CNE>18000049</CNE>
+    <LastName>Callie</LastName>
+    <FirstName>Destiny Henson</FirstName>
+    <DateofBirth>2005-04-08</DateofBirth>
+    <ClasseName>Gstr2</ClasseName>
+    <Phone>02 51 14 92 93</Phone>
+    <Email>Callie.DestinyHenson@etu.uae.ac.ma</Email>
+  </Student><Student>
+    <CNE>18000050</CNE>
+    <LastName>Shad</LastName>
+    <FirstName>Wynne Mendoza</FirstName>
+    <DateofBirth>2009-11-07</DateofBirth>
+    <ClasseName>Gstr2</ClasseName>
+    <Phone>02 64 31 69 82</Phone>
+    <Email>Shad.WynneMendoza@etu.uae.ac.ma</Email>
+  </Student></Students>

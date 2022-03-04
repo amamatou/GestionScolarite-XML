@@ -13,12 +13,12 @@ class ExcelToXml
         //le fichier professeurs.xlsx n'etant pas dans un dossier de classe
         if ($categorie=="Professeur")
         {
-            $file="resources/".$categorie."s.xlsx";
+            $file="Fichiers_Excel/".$categorie."s.xlsx";
             $class="Professeurs";
         }
         else
         {
-            $file="resources/".$class."/".$categorie."s.xlsx";
+            $file="Fichiers_Excel/".$class."/".$categorie."s.xlsx";
         }
         
         //lecture du fichier xlsx
